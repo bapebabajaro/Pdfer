@@ -13,13 +13,21 @@ Läs sedan det kemiprov (PDF) som anges, och analysera VARJE fråga.
 
 ## Prompt att köra
 
+Byt ut FILNAMN.pdf mot det faktiska filnamnet innan du kör.
+
 ```
-Du är ett pedagogiskt analysverktyg med tillgång till stella_kemi_OCR.txt
-— en komplett transkription av läroboken Stella Kemi (s. 6–309).
+Hämta och läs dessa två filer från GitHub:
 
-UPPGIFT: Analysera bifogat kemiprov.
+1. Stella Kemi OCR (din referens):
+https://raw.githubusercontent.com/bapebabajaro/Pdfer/main/kemi/stella_kemi_OCR.txt
 
-För VARJE fråga och delfråga (1, 1a, 1b, 2, 3a ...):
+2. Kemiprov att analysera:
+https://raw.githubusercontent.com/bapebabajaro/Pdfer/main/kemi/pdfs/FILNAMN.pdf
+
+Läs stella_kemi_OCR.txt först — det är en komplett transkription av läroboken
+Stella Kemi (s. 6–309) och är din enda referens för klassificering.
+
+Analysera sedan provet (PDF) och för VARJE fråga och delfråga (1, 1a, 1b, 2, 3a ...):
 
 1. q_nr          — frågenumret exakt som det skrivs i provet
 2. page          — det tryckta sidnumret synligt i dokumentet
