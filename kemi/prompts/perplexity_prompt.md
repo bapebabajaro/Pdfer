@@ -28,8 +28,11 @@ https://raw.githubusercontent.com/bapebabajaro/Pdfer/main/kemi/pdfs_png/[MAPPNAM
 
 STEG 6 — Analysera provet.
 
-Inkludera ENBART frågor där stella_solvable = true OCH modification ≠ "major".
-Hoppa över alla frågor som kräver major-modifikation — de ska inte finnas i JSON alls.
+URVALSREGLER — följ dessa exakt:
+✓ INKLUDERA: stella_solvable = true OCH modification = "none"
+✓ INKLUDERA: stella_solvable = true OCH modification = "minor"
+✗ HOPPA ÖVER: modification = "major"  — dessa ska inte finnas i JSON alls
+✗ HOPPA ÖVER: stella_solvable = false — dessa ska inte finnas i JSON alls
 
 För varje kvalificerad fråga och delfråga:
 
