@@ -1,0 +1,136 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_Payalebarmethodist.pdf",
+  "processed_at": "2026-04-23",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 3,
+      "text": "En elev vill undersöka styrkan hos en okänd monobasisk syra, jämfört med ett prov av saltsyra med samma koncentration.\n\nVilket av följande visar korrekt metod och apparatur för att undersöka styrkan hos den okända syran?\n\n[TABELL – 4 rader (A–D), 2 kolumner: 'Metod' och 'Apparatur'. Rekommenderat renderingsverktyg: Markdown-tabell eller HTML-tabell.]\n\n| | Metod | Apparatur |\n|---|---|---|\n| A | mät pH | voltmeter |\n| B | mät volymen natriumhydroxid som krävs för neutralisation | byrett och pipett |\n| C | mät temperaturändringen när syran reagerar med metall | termometer |\n| D | mät slutvolymen gas som bildas när syran reagerar med metall | gasspruta |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.4_Koncentration_och_pH",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "3",
+      "page": 4,
+      "text": "En forskare undersökte om en hudvårdsprodukt innehåller skadliga ingredienser. Kromatogrammet för hudvårdsprodukten erhölls som visas nedan, tillsammans med en referenstabell med Rf-värden för några skadliga ingredienser.\n\n[DIAGRAM – KROMATOGRAMPLATTA med referenstabell: Vänster: rektangulärt kromatogramblad (0–12 cm skala längs vänsterkanten). En startlinje är markerad längst ner. Lösningsfronten är markerad längst upp vid 12 cm. Tre svarta fläckar finns vid ungefärliga höjder 10 cm, 8 cm och 6 cm från botten. Startpunkten är markerad med ett kryss (×) vid startlinjen. Höger: tabell med kolumner 'Ingrediens' och 'Rf-värde': diethanolamin=0,3; hydrokinon=0,5; butylhydroxyanisol=0,8; oxybenzon=0,9. Rekommenderat renderingsverktyg: SVG-ritning för kromatogrammet plus Markdown-tabell för Rf-värdena.]\n\nVilka skadliga ingredienser finns i hudvårdsprodukten?\n\nA  enbart diethanolamin\nB  diethanolamin och oxybenzon\nC  hydrokinon och butylhydroxyanisol\nD  hydrokinon och oxybenzon",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "5",
+      "page": 5,
+      "text": "Grafen nedan visar temperaturförändringen när ett prov av ämnet X₂ kyls ner.\n\n[DIAGRAM – KYLKURVA: Linjediagram med y-axeln 'temperatur / °C' och x-axeln 'tid / s'. Kurvan börjar vid hög temperatur vid punkt P (övre vänster). Den faller brant till Q, planar sedan ut horisontellt från Q till R (platå = kondensation: gas till vätska vid konstant temperatur). Från R sjunker kurvan brant igen till S, planar ut horisontellt från S till T (kortare platå = stelning: vätska till fast fas). Från T fortsätter kurvan ned till U (fast fas). Alla sex punkter P, Q, R, S, T, U är tydligt utmärkta längs kurvan. Rekommenderat renderingsverktyg: Plotly linjediagram med annoterade punkter.]\n\nVilket stadium (P till U) återspeglar en förändring i partiklarnas rörelse, från att röra sig fritt runt varandra till att vibrera kring fasta positioner?\n\nA  P till Q\nB  Q till R\nC  R till S\nD  S till T",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.2_Atomer_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "11",
+      "page": 7,
+      "text": "Lösning X och fast ämne Y blandas i ett bägarglas. Efter blandningen är den totala massan av ämnena och bägaren mindre än den initiala massan.\n\nVad kan lösning X och fast ämne Y vara?\n\n[TABELL – 4 rader (A–D), 2 kolumner: 'Lösning X' och 'Fast ämne Y'. Rekommenderat renderingsverktyg: Markdown-tabell.]\n\n| | Lösning X | Fast ämne Y |\n|---|---|---|\n| A | svavelsyra | kaliumhydroxid |\n| B | salpetersyra | kopparmetall |\n| C | saltsyra | vattenlösning av ammoniak |\n| D | kalciumhydroxid | ammoniumkarbonat |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "15",
+      "page": 8,
+      "text": "Följande ämnen används i laboratoriet för att testa förekomsten av olika joner.\n\n[TABELL – 3 rader, 2 kolumner: 'Reaktion' och 'Åtgärd'. Rekommenderat renderingsverktyg: Markdown-tabell.]\n\n| Reaktion | Åtgärd |\n|---|---|\n| reaktion 1 | uppvärmning med vattenlösning av natriumhydroxid |\n| reaktion 2 | uppvärmning med utspädd saltsyra |\n| reaktion 3 | uppvärmning med aluminium och vattenlösning av natriumhydroxid |\n\nVilken/vilka reaktioner kan producera en gas som färgar fuktigt rött lakmuspapper blått?\n\nA  enbart 1\nB  enbart 3\nC  1 och 2\nD  1 och 3",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "23",
+      "page": 11,
+      "text": "Vilket påstående om ammoniak är korrekt?\n\nA  Det löser sig i regn och bildar surt regn.\nB  Det bildas när ammoniumsalter värms upp med svavelsyra.\nC  Båda dess råmaterial kan erhållas genom fraktionerad destillation av luft.\nD  Det sönderfaller när det värms till hög temperatur och bildar kväve och väte.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_4_Livets_kemi",
+      "stella_subchapter": "4.6_Kvavets_och_fosforns_kretslopp",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "24",
+      "page": 12,
+      "text": "Reaktionshastigheten mellan kalciumkarbonat och saltsyra mäts i tre separata experiment.\n\n[DIAGRAM 1 – APPARATURSKISS: En konisk kolv (Erlenmeyerkolv) placerad på en vågskål. Kolven innehåller utspädd saltsyra och 2 g kalciumkarbonat. Öppningen är tilltäppt med bomullsull. Rekommenderat renderingsverktyg: SVG-schematisk illustration.]\n\nFörhållandena under varje experiment:\n\n| Experiment | Partikelstorlek hos kalciumkarbonat | Mol saltsyra som tillförs |\n|---|---|---|\n| 1 | pulveriserat | i överskott |\n| 2 | klumpar | i överskott |\n| 3 | klumpar | otillräckligt |\n\n[DIAGRAM 2 – RESULTATGRAF: Linjediagram med y-axeln 'vågskålens avläsning / g' och x-axeln 'tid'. Tre avtagande kurvor X, Y och Z startar från samma höga startvärde vid t = 0 och planar ut på tre olika nivåer: X planar ut högst (minst massförlust), Y på mellannivå, Z lägst (störst massförlust). Kurva Z har brantast initial lutning. Rekommenderat renderingsverktyg: Plotly linjediagram med tre namngivna kurvor.]\n\nVilket påstående är korrekt?\n\nA  Experiment 1 visas av kurva X.\nB  Experiment 1 visas av kurva Y.\nC  Experiment 2 visas av kurva Y.\nD  Experiment 3 visas av kurva Z.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "30",
+      "page": 15,
+      "text": "Vid elektroplättering av ett kromarmbånd med silver — vilken kombination är korrekt?\n\n[TABELL – 4 rader (A–D), 3 kolumner: 'Anod', 'Katod', 'Elektrolyt'. Rekommenderat renderingsverktyg: Markdown-tabell.]\n\n| | Anod | Katod | Elektrolyt |\n|---|---|---|---|\n| A | armbånd | silver | vattenlösning av silvernitrat |\n| B | silver | armbånd | vattenlösning av silvernitrat |\n| C | armbånd | silver | kromnitrat |\n| D | silver | armbånd | smält natriumklorid |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "31",
+      "page": 16,
+      "text": "Vilken rad visar korrekt luftföroreningar och deras källor?\n\n[TABELL – 4 rader (A–D), 4 kolumner: 'Förorening 1', 'Källa 1', 'Förorening 2', 'Källa 2'. Rekommenderat renderingsverktyg: Markdown-tabell.]\n\n| | Förorening 1 | Källa 1 | Förorening 2 | Källa 2 |\n|---|---|---|---|---|\n| A | koldioxid | fotosyntes | svaveldioxid | nedbrytning |\n| B | kolmonoxid | ofullständig förbränning av bensin | metan | vulkanisk aktivitet |\n| C | svaveldioxid | ofullständig förbränning av bensin | koldioxid | förbränning av fossila bränslen |\n| D | kvävedioxid | åskurladdningar | kolmonoxid | ofullständig förbränning av bensin |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "34",
+      "page": 16,
+      "text": "Vilka av följande påståenden om grundämnena i grupp 1 i periodiska systemet är sanna?\n\nI.    De är mjuka och kan skäras lätt med en kniv.\nII.   De är oxiderande ämnen.\nIII.  Smältpunkten minskar neråt i gruppen.\nIV.  Reaktiviteten minskar neråt i gruppen.\n\nA  I och II\nB  I och III\nC  II och IV\nD  I, II och III",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "35",
+      "page": 17,
+      "text": "Reaktioner hos tre metaller och deras oxider visas nedan.\n\n[TABELL – 3 rader för metall 1–3, 2 kolumner med en förklarande nyckel. Nyckel: ✓ = reagerar, ✗ = reagerar inte. Rekommenderat renderingsverktyg: Markdown-tabell med Unicode-symboler.]\n\n| Metall | Tillsätt utspädd saltsyra till metallen | Värm metalloxiden med kol |\n|---|---|---|\n| 1 | ✓ | ✓ |\n| 2 | ✓ | ✗ |\n| 3 | ✗ | ✓ |\n\nVad är reaktivitetsordningen för dessa metaller, från mest reaktiv till minst reaktiv?\n\nA  1 → 2 → 3\nB  1 → 3 → 2\nC  2 → 1 → 3\nD  2 → 3 → 1",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "38",
+      "page": 18,
+      "text": "Etanol tillverkas industriellt antingen genom jäsning av glukos eller genom katalytisk addition av ånga till eten.\n\nVilket påstående beskriver en fördel med jäsning jämfört med katalytisk addition?\n\nA  Produkterna från jäsning är ofarliga för miljön.\nB  Jäsning producerar många typer av alkohol men katalytisk addition producerar bara etanol.\nC  Jäsning använder en högre temperatur än katalytisk addition.\nD  Jäsning är mer miljömässigt hållbar eftersom den använder en förnybar råvara.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.4_Alkoholer",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "39",
+      "page": 18,
+      "text": "En molekyl av förening P innehåller tre kolatomer och har en relativ molekylmassa på 44.\n\nVilken rad representerar P?\n\n[TABELL – 4 rader (A–D), 2 kolumner: 'Föreningens namn' och 'Reaktion med vattenlösning av brom'. Rekommenderat renderingsverktyg: Markdown-tabell.]\n\n| | Föreningens namn | Reaktion med vattenlösning av brom |\n|---|---|---|\n| A | propan | ingen effekt |\n| B | propen | avfärgas |\n| C | butan | ingen effekt |\n| D | buten | avfärgas |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "minor"
+    }
+  ]
+}
