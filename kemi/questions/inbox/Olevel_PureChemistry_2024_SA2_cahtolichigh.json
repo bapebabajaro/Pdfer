@@ -1,0 +1,476 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_cahtolichigh.pdf",
+  "processed_at": "2026-04-23",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 2,
+      "text": "När kalciumkarbonat tillsätts till utspädd saltsyra frigörs koldioxidgas.\n\nTre apparatuppställningar visas.\n\n[DIAGRAM – APPARATURSKISS]\nUppställning 1: En Erlenmeyerkolv innehåller CaCO₃(s) + HCl(aq). Kolven är placerad på en våg (visaren visar 100,02). Kolven är täckt med bomullsull i öppningen.\nUppställning 2: En Erlenmeyerkolv innehåller CaCO₃(s) + HCl(aq). En dropptratt (tap funnel) är kopplad till kolven uppifrån. En gasspruta (gas syringe) är kopplad till sidan.\nUppställning 3: En Erlenmeyerkolv innehåller CaCO₃(s) + HCl(aq). En tistelfunnel är kopplad uppifrån. Ett rör leder gasen ned i ett vattenfyllt kärl där en omvänd mätcylinder samlar upp gasen ovanför vattnet.\nRekommenderat renderingsverktyg: SVG-skiss\n\nVilka apparatuppställningar är lämpliga, tillsammans med ett stoppur, för att följa reaktionshastigheten i denna reaktion?\n\nA  1, 2 och 3\nB  1 och 2 endast\nC  1 och 3 endast\nD  2 och 3 endast",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "4",
+      "page": 3,
+      "text": "Diagrammet visar den apparatur som används för att separera hexan (kokpunkt 70 °C) och heptan (kokpunkt 98 °C).\n\n[DIAGRAM – APPARATURSKISS]\nEn rund destillationskolv värms underifrån (heat). Ett termometer sitter i toppen av kolven, kopplad via ett glaskrökt rör till en kylare (kondensor). Kylaren har vattenin- och vattenutflöden. Punkt Q är märkt vid övergångsstycket mellan kolven och kondensorn. Kondensorn mynnar ned i ett uppsamlingskärl (distillate).\nRekommenderat renderingsverktyg: SVG-skiss\n\nVilket diagram erhålls om temperaturen vid punkt Q ritas mot den totala volymen destillat som samlats upp?\n\n[DIAGRAM – REAKTIONSGRAF]\nFyra alternativa grafer A–D visas, alla med axlarna: y-axel = temperatur / °C (skala 70–100), x-axel = total volym destillat / cm³.\nGraf A: Temperaturen börjar vid 70, är konstant ett tag, stiger sedan språngvis till 100 och är konstant igen (trappsteg uppåt).\nGraf B: Temperaturen börjar vid 100, är konstant, faller sedan språngvis till 70 och är konstant (trappsteg nedåt).\nGraf C: Temperaturen stiger linjärt från ca 70 till ca 100 (rak linje uppåt).\nGraf D: Temperaturen sjunker linjärt från ca 100 till ca 70 (rak linje nedåt).\nRekommenderat renderingsverktyg: Plotly linjediagram\n\nA  Graf A\nB  Graf B\nC  Graf C\nD  Graf D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "5",
+      "page": 4,
+      "text": "Fyra experiment, var och ett innehållande en annan sur gas, är uppställda enligt figuren. De delade glasplattorna avlägsnas samtidigt.\n\n[DIAGRAM – APPARATURSKISS]\nFyra vertikala cylindriska rör A–D visas. I varje rör sitter ett fuktigt blått lakmuspapper i den övre halvan och en glasplatta delar av röret i mitten. I nedre halvan finns:\nA: koldioxid, CO₂\nB: väteklorid, HCl\nC: kvävedioxid, NO₂\nD: svaveldioxid, SO₂\nI alla fyra rören finns luft ovanför glasplattan.\nRekommenderat renderingsverktyg: SVG-skiss\n\nI vilken apparatuppställning färgas lakmuspapperet rött först?\n\nA  A\nB  B\nC  C\nD  D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "6",
+      "page": 4,
+      "text": "Smältpunkter och kokpunkter för fyra grundämnen visas.\n\n[DIAGRAM – TABELL]\nTabell med 3 kolumner och 5 rader (inklusive rubrikrad):\nRubrikrad: grundämne | smältpunkt / °C | kokpunkt / °C\nRad 1: W | −183 | −89\nRad 2: X | −78 | −33\nRad 3: Y | −7 | 59\nRad 4: Z | 44 | 280\nRekommenderat renderingsverktyg: Markdown-tabell\n\nI vilka grundämnen är partiklarna långt ifrån varandra vid 0 °C?\n\nA  W och X\nB  X och Y\nC  X och Z\nD  Y och Z",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.3_Molekyler_och_kemiska_foreningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "7",
+      "page": 4,
+      "text": "I vilken partikel är antalet protoner, neutroner och elektroner alla olika?\n\nA  ²⁷₁₃Al\nB  ³⁵₁₇Cl⁻\nC  ³²₁₆S²⁻\nD  ³⁹₁₉K⁺",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "11",
+      "page": 5,
+      "text": "Vilket påstående är korrekt?\n\nA  1,00 mol zinkklorid innehåller 1,20 × 10²⁴ joner.\nB  2,00 mol natriumnitrat innehåller 1,20 × 10²⁴ joner.\nC  24,0 dm³ klorgas, mätt vid rumstemperatur och normaltryck, innehåller 1,20 × 10²⁴ molekyler.\nD  48,0 dm³ vätgas, mätt vid rumstemperatur och normaltryck, innehåller 1,20 × 10²⁴ atomer.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Mol_och_molmassa",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "13",
+      "page": 6,
+      "text": "Formeln för ett oxid av grundämnet Y är Y₂O₅.\n\n5,4 g Y₂O₅ innehåller 1,4 g Y.\n\nHur många mol Y innehåller 1,4 g av grundämnet?\n\nA  (1,4/16) × (2/5)\nB  (1,4/16) × (5/2)\nC  (4,0/16) × (2/5)\nD  (4,0/16) × (5/2)",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Mol_och_molmassa",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "15",
+      "page": 6,
+      "text": "En kopparsulfatlösning (koppar(II)sulfat) elektrolyseras med kopparelektroder.\n\nVilken rad beskriver korrekt vad som händer?\n\n[DIAGRAM – TABELL]\nTabell med 4 kolumner och 5 rader (inklusive rubrikrad):\nRubrikrad: (tom) | elektrolytens färg | anodmassans förändring | katodmassans förändring\nRad A: A | blir färglös | minskar | minskar\nRad B: B | blir färglös | är oförändrad | ökar\nRad C: C | förblir blå | är oförändrad | minskar\nRad D: D | förblir blå | minskar | ökar\nRekommenderat renderingsverktyg: Markdown-tabell\n\nA  A\nB  B\nC  C\nD  D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "19",
+      "page": 8,
+      "text": "Sönderdelningen av väteperoxid i närvaro av MnO₂ visas:\n\n2H₂O₂(aq) → 2H₂O(l) + O₂(g)\n\nVolymen gas som samlas upp när 0,2 g MnO₂ tillsätts till två olika väteperoxidlösningar vid 20 °C visas i ett diagram som kurva X och kurva Y.\n\n[DIAGRAM – REAKTIONSGRAF]\nY-axel: volym av gas (enhet ej angiven), x-axel: tid.\nKurva X: stiger snabbt från origo och planar ut på en högre slutnivå.\nKurva Y: stiger något långsammare och planar ut på en lägre slutnivå än X, men de båda kurvorna börjar vid samma punkt.\nRekommenderat renderingsverktyg: Plotly linjediagram\n\nVilken rad visar de förhållanden som ger kurvorna X och Y?\n\n[DIAGRAM – TABELL]\nTabell med 7 kolumner och 5 rader (inklusive rubrikrad):\nRubrikrad: (tom) | kurva X: volym H₂O₂ / cm³ | kurva X: koncentration H₂O₂ i mol/dm³ | kurva X: form av MnO₂ | kurva Y: volym H₂O₂ / cm³ | kurva Y: koncentration H₂O₂ i mol/dm³ | kurva Y: form av MnO₂\nRad A: A | 50 | 0,1 | bitar | 50 | 0,2 | pulver\nRad B: B | 25 | 0,2 | pulver | 25 | 0,1 | bitar\nRad C: C | 50 | 0,1 | bitar | 20 | 0,2 | pulver\nRad D: D | 20 | 0,2 | pulver | 40 | 0,1 | bitar\nRekommenderat renderingsverktyg: Markdown-tabell\n\nA  A\nB  B\nC  C\nD  D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "20",
+      "page": 9,
+      "text": "Ett överskott av magnesiumband tillsätts till utspädd saltsyra och volymen gas som bildas mäts allteftersom reaktionen fortskrider. Reaktionen är exoterm.\n\nResultaten visas i diagrammet.\n\n[DIAGRAM – REAKTIONSGRAF]\nY-axel: total volym / cm³, x-axel: tid / s.\nKurvan startar i origo vid punkt P, stiger med tilltagande hastighet (konvex nedåt) till en inflektionspunkt vid Q, och planar sedan ut och blir horisontell vid punkt R (slutvolym).\nPunkterna P, Q och R är markerade längs kurvan.\nRekommenderat renderingsverktyg: Plotly linjediagram\n\nVilken rad förklarar förändringarna i reaktionshastighet mellan punkterna P och Q, respektive mellan Q och R?\n\n[DIAGRAM – TABELL]\nTabell med 3 kolumner och 5 rader (inklusive rubrikrad):\nRubrikrad: (tom) | mellan punkt P och Q | mellan punkt Q och R\nRad A: A | reaktionstemperaturen ökar | syrans koncentration minskar\nRad B: B | reaktionstemperaturen ökar | magnesium har förbrukats\nRad C: C | magnesiums ytarea minskar | syrans koncentration minskar\nRad D: D | magnesiums ytarea minskar | magnesium har förbrukats\nRekommenderat renderingsverktyg: Markdown-tabell\n\nA  A\nB  B\nC  C\nD  D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "21",
+      "page": 9,
+      "text": "Prov av HCl(aq) och HNO₃(aq) testas med universalindikator. Provet av HCl(aq) har pH 4 och provet av HNO₃(aq) har pH 2.\n\nVilket påstående förklarar varför proven av HCl(aq) och HNO₃(aq) har olika pH-värden?\n\nA  HCl(aq) är en svag syra och HNO₃(aq) är en stark syra.\nB  HNO₃(aq) har högre relativ molekylmassa än HCl(aq).\nC  Provet av HCl(aq) har joniserat mer än provet av HNO₃(aq).\nD  Provet av HNO₃(aq) är mer koncentrerat än provet av HCl(aq).",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "22",
+      "page": 10,
+      "text": "Hydrazin har formeln H₂N–NH₂. Det har liknande egenskaper som ammoniak.\n\nVilka påståenden om hydrazin är korrekta?\n\n1  Det löser sig i vatten och bildar hydroxidjoner.\n2  Det bildar salter med baser.\n3  Det reagerar med väteklorid och bildar ClH₃N–NH₃Cl.\n\nA  1 endast\nB  1 och 2 endast\nC  1 och 3 endast\nD  2 och 3 endast",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "23",
+      "page": 10,
+      "text": "Vilken metod ger bäst utbyte av bly(II)sulfat?\n\nA  Tillsätt överskott av utspädd saltsyra till bly(II)oxid, följt av utspädd svavelsyra.\nB  Tillsätt överskott av utspädd salpetersyra till bly(II)karbonat, följt av utspädd svavelsyra.\nC  Tillsätt överskott av vatten till bly(II)karbonat, följt av utspädd svavelsyra.\nD  Tillsätt överskott av vatten till bly(II)oxid, följt av utspädd svavelsyra.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.5_Joner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "24",
+      "page": 10,
+      "text": "Koppar(II)nitrat framställs genom att ett överskott av ett pulverformigt fast ämne får reagera med en vattenlösning. Blandningen filtreras och filtratet kristalliseras.\n\nVilken rad identifierar ett fast ämne och en vattenlösning som kan användas för att framställa ett rent prov av koppar(II)nitrat?\n\n[DIAGRAM – TABELL]\nTabell med 3 kolumner och 5 rader (inklusive rubrikrad):\nRubrikrad: (tom) | fast ämne i överskott | vattenlösning\nRad A: A | koppar | utspädd salpetersyra\nRad B: B | koppar | silvernitratlösning\nRad C: C | koppar(II)klorid | utspädd salpetersyra\nRad D: D | koppar(II)oxid | silvernitratlösning\nRekommenderat renderingsverktyg: Markdown-tabell\n\nA  A\nB  B\nC  C\nD  D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.5_Joner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "26",
+      "page": 11,
+      "text": "Astat befinner sig nedanför jod i grupp 17 i periodiska systemet.\n\nVilken rad beskriver astats egenskaper?\n\n[DIAGRAM – TABELL]\nTabell med 3 kolumner och 5 rader (inklusive rubrikrad):\nRubrikrad: (tom) | aggregationstillstånd vid rumstemperatur | reaktivitet\nRad A: A | gas | tränger inte ut klor, brom eller jod\nRad B: B | gas | tränger ut jod men tränger inte ut klor eller brom\nRad C: C | fast | tränger inte ut klor, brom eller jod\nRad D: D | fast | tränger ut jod men tränger inte ut klor eller brom\nRekommenderat renderingsverktyg: Markdown-tabell\n\nA  A\nB  B\nC  C\nD  D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "28",
+      "page": 11,
+      "text": "Tre grundämnen X, Y och Z har på varandra följande, ökande protontal (atomnummer).\n\nOm grundämnet X är en ädelgas, vilken kemisk symbol har jonerna av grundämnet Z i dess föreningar?\n\nA  Z⁻\nB  Z²⁻\nC  Z⁺\nD  Z²⁺",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "29",
+      "page": 11,
+      "text": "Metall Q befinner sig mellan järn och koppar i spänningsserien.\n\nVilka metoder kan användas för att utvinna metall Q?\n\n1  elektrolys av smält metalloxid\n2  upphettning av metalloxiden med kol\n3  upphettning av metalloxiden med koppar\n\nA  1 och 2 endast\nB  1 endast\nC  2 och 3 endast\nD  2 endast",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "30",
+      "page": 12,
+      "text": "En liten bit metall tillsätts till ett stort bägarglas med vatten. En kraftig reaktion sker. När reaktionen upphör tillsätts några droppar universalindikator till lösningen.\n\nVad är metallen och vilken färg får lösningen efter att universalindikator tillsatts?\n\n[DIAGRAM – TABELL]\nTabell med 3 kolumner och 5 rader (inklusive rubrikrad):\nRubrikrad: (tom) | metall | lösningens färg\nRad A: A | natrium | lila\nRad B: B | natrium | röd\nRad C: C | zink | lila\nRad D: D | zink | röd\nRekommenderat renderingsverktyg: Markdown-tabell\n\nA  A\nB  B\nC  C\nD  D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "32",
+      "page": 12,
+      "text": "Vad är den skadliga effekten av klorfluorkarboner, svaveldioxid och kolmonoxid?\n\n[DIAGRAM – TABELL]\nTabell med 4 kolumner och 5 rader (inklusive rubrikrad):\nRubrikrad: (tom) | klorfluorkarboner | svaveldioxid | kolmonoxid\nRad A: A | uttunning av ozonskiktet | surt regn | giftig\nRad B: B | uttunning av ozonskiktet | andningsproblem | global uppvärmning\nRad C: C | global uppvärmning | surt regn | uttunning av ozonskiktet\nRad D: D | andningsproblem | global uppvärmning | giftig\nRekommenderat renderingsverktyg: Markdown-tabell\n\nA  A\nB  B\nC  C\nD  D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "33",
+      "page": 13,
+      "text": "Diagrammet visar den fraktionerade destillationskolonnen som används för att separera råolja i fraktioner.\n\n[DIAGRAM – APPARATURSKISS]\nEn vertikal kolonn visas. Råolja (crude oil) matas in med en pil från vänster i nedre delen av kolonnen. Från kolonnen leder horisontella pilar ut åt höger på fem olika nivåer uppifrån och ned, representerande olika fraktioner. Längst upp leder ett rör rakt upp och ut. Längst ned leder ett rör nedåt och ut. Kolonnen är smalare i toppen och bredare i botten.\nRekommenderat renderingsverktyg: SVG-skiss\n\nVilket påstående om fraktionerad destillation av råolja är korrekt?\n\nA  Varje fraktion innehåller endast en förening.\nB  Den fraktion som samlas upp i botten av kolonnen har den lägsta kokpunkten.\nC  Den fraktion som samlas upp i toppen av kolonnen har de minsta molekylerna.\nD  Ju högre upp i kolonnen, desto högre är temperaturen.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "35",
+      "page": 13,
+      "text": "Alkanernas allmänna formel är CₙH₂ₙ₊₂.\n\nVilken fysikalisk egenskap minskar när n ökar?\n\nA  kokpunkt\nB  antändlighet\nC  smältpunkt\nD  viskositet",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "37",
+      "page": 14,
+      "text": "En vattenlösning innehåller 7,4 g av en karboxylsyra, Q.\n\nNär ett överskott av magnesium tillsätts till denna lösning bildas 1200 cm³ gas vid rumstemperatur och normaltryck.\n\nVad är Q?\n\nA  CH₃COOH\nB  C₂H₅COOH\nC  C₃H₇COOH\nD  HCOOH",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.5_Organiska_syror_och_estrar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "38",
+      "page": 14,
+      "text": "Butanol och metansyra reagerar och bildar en ester, R.\n\nVad är formeln för R?\n\nA  CH₃CH₂CH₂CO₂CH₃\nB  CH₃CH₂CO₂CH₂CH₃\nC  CH₃CO₂CH₂CH₂CH₂CH₃\nD  HCOCH₂CH₂CH₂CH₃",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.5_Organiska_syror_och_estrar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_1a",
+      "page": 20,
+      "text": "Några kemiska och ord-ekvationer, A till J, visas:\n\nA  glukos → etanol + koldioxid\nB  HNO₃ + NaOH → NaNO₃ + H₂O\nC  vatten → vätgas + syrgas\nD  C₁₂H₂₆ → C₈H₁₈ + C₄H₈\nE  etansyra + etanol ⇌ etyletanoat + vatten\nF  eten + ånga → etanol\nG  2CH₄ + 3O₂ → 2CO + 4H₂O\nH  C₂H₆ + Cl₂ → C₂H₅Cl + HCl\nI  C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O\nJ  2HCl + Pb(NO₃)₂ → PbCl₂ + 2HNO₃\n\nAnvänd ekvationerna för att besvara frågorna. Varje ekvation kan användas en gång, mer än en gång, eller inte alls.\n\nSkriv ned bokstaven, A till J, för den ekvation som representerar:\n\n(a) krackning",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_1b",
+      "page": 20,
+      "text": "Några kemiska och ord-ekvationer, A till J, visas:\n\nA  glukos → etanol + koldioxid\nB  HNO₃ + NaOH → NaNO₃ + H₂O\nC  vatten → vätgas + syrgas\nD  C₁₂H₂₆ → C₈H₁₈ + C₄H₈\nE  etansyra + etanol ⇌ etyletanoat + vatten\nF  eten + ånga → etanol\nG  2CH₄ + 3O₂ → 2CO + 4H₂O\nH  C₂H₆ + Cl₂ → C₂H₅Cl + HCl\nI  C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O\nJ  2HCl + Pb(NO₃)₂ → PbCl₂ + 2HNO₃\n\n(b) neutralisation",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_1c",
+      "page": 20,
+      "text": "Några kemiska och ord-ekvationer, A till J, visas:\n\nA  glukos → etanol + koldioxid\nB  HNO₃ + NaOH → NaNO₃ + H₂O\nC  vatten → vätgas + syrgas\nD  C₁₂H₂₆ → C₈H₁₈ + C₄H₈\nE  etansyra + etanol ⇌ etyletanoat + vatten\nF  eten + ånga → etanol\nG  2CH₄ + 3O₂ → 2CO + 4H₂O\nH  C₂H₆ + Cl₂ → C₂H₅Cl + HCl\nI  C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O\nJ  2HCl + Pb(NO₃)₂ → PbCl₂ + 2HNO₃\n\n(c) utfällning (fällning)",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.5_Joner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_1d",
+      "page": 20,
+      "text": "Några kemiska och ord-ekvationer, A till J, visas:\n\nA  glukos → etanol + koldioxid\nB  HNO₃ + NaOH → NaNO₃ + H₂O\nC  vatten → vätgas + syrgas\nD  C₁₂H₂₆ → C₈H₁₈ + C₄H₈\nE  etansyra + etanol ⇌ etyletanoat + vatten\nF  eten + ånga → etanol\nG  2CH₄ + 3O₂ → 2CO + 4H₂O\nH  C₂H₆ + Cl₂ → C₂H₅Cl + HCl\nI  C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O\nJ  2HCl + Pb(NO₃)₂ → PbCl₂ + 2HNO₃\n\n(d) cellandning",
+      "has_diagram": false,
+      "stella_chapter": "Kap_4_Livets_kemi",
+      "stella_subchapter": "4.1_Cellandning_och_fotosyntes",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_3a",
+      "page": 22,
+      "text": "Bilmotorer anpassas för att arbeta med ett visst förhållande av luft till bränsle. Mängden luft som blandas med bränslet påverkar motorns temperatur, mängden föroreningsgaser som bildas och hur effektivt katalysatorn fungerar.\n\nTabell 3.1 visar information om lean-burn-motorer jämfört med normala bilmotorer.\n\n[DIAGRAM – TABELL]\nTabell med 5 kolumner och 3 rader (inklusive rubrikrad):\nRubrikrad: motortyp | luft/bränsle-förhållande | driftstemperatur | koncentration av kolmonoxid i avgaser | koncentration av kväveoxider i avgaser\nRad 1: normal | lägre | högre | högre | högre\nRad 2: lean-burn | högre | lägre | lägre | lägre\nRekommenderat renderingsverktyg: Markdown-tabell\n\n(a) Föreslå varför lean-burn-motorer ger lägre koncentration av kväveoxider.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_3b",
+      "page": 22,
+      "text": "Bilmotorer anpassas för att arbeta med ett visst förhållande av luft till bränsle. (Se tabell 3.1 ovan.)\n\n(b) Föreslå varför lean-burn-motorer ger lägre koncentration av kolmonoxid.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.4_Forbrannung_med_luft_och_syrgas",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_3c(i)",
+      "page": 22,
+      "text": "Kväveoxider avlägsnas från bilavgaser av en katalytisk avgasrening. I katalysatorn reagerar kvävemonoxid med kolmonoxid.\n\n(c)(i) Skriv en kemisk ekvation för denna reaktion.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_4a(i)",
+      "page": 24,
+      "text": "Denna fråga handlar om framställning av salter.\n\n(a) Koppar(II)nitrat kan framställas genom att låta ett överskott av koppar(II)oxid reagera med utspädd salpetersyra.\n\n(i) Beskriv hur man erhåller rena, torra kristaller av koppar(II)nitrat efter att ett överskott av koppar(II)oxid tillsatts till utspädd salpetersyra.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_4a(ii)",
+      "page": 24,
+      "text": "(a)(ii) Förklara varför koppar inte kan användas för att framställa koppar(II)nitrat.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_4b(i)",
+      "page": 24,
+      "text": "(b) Natriumsulfat används vid tillverkning av tvättmedel.\n\n(i) Ange formlerna, med tillståndsbeteckningar, för de reaktanter som används för att framställa natriumsulfat.\n\nReaktant 1: ...\nReaktant 2: ...",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_4b(ii)",
+      "page": 24,
+      "text": "(b)(ii) Förklara varför den metod som beskrivs i (a) inte kan användas för att framställa rent natriumsulfat.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.5_Joner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_5a(i)",
+      "page": 26,
+      "text": "Fig. 5.1 visar ett experiment där ånga leddes över 5,6 g heta järnspån. Reaktionsprodukterna är järnoxid, Fe₃O₄, och en gas.\n\n[DIAGRAM – APPARATURSKISS]\nEtt horisontellt rör visas med järnspån (iron filings) i mitten. Ånga (steam) leds in från vänster med en pil. Under röret i mitten är värme (heat) markerat med en uppåtpil. Röret är fäst i ett stöd på vardera sidan om järnspånen.\nRekommenderat renderingsverktyg: SVG-skiss\n\n(i) Ange vilken gas som bildas och beskriv ett test för att identifiera gasen.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_5a(ii)",
+      "page": 26,
+      "text": "(a)(ii) Beskriv och förklara förändringen av det fasta ämnets massa under experimentet.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_5a(iii)",
+      "page": 26,
+      "text": "(a)(iii) Experimentet upprepas med samma mängd magnesium och sedan med samma mängd bly.\n\nFörutsäg ordningen för massförändringen hos det fasta ämnet för järn, magnesium och bly, med start från den metall som har minst massförändring.\n\nFörklara ditt resonemang i ord eller med hjälp av en beräkning.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_5b",
+      "page": 27,
+      "text": "En järnkonstruktion täckt med kopparplåtar utsätts för korrosion. Järnet rostar mycket snabbare än normalt där det är i kontakt med kopparn.\n\nFörklara varför koppar i kontakt med järn gör att järnet rostar snabbare än normalt.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.5_Korrosion_och_korrosionsskydd",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "P2_6a(i)",
+      "page": 28,
+      "text": "Jonisation är den process där elektroner avlägsnas från atomer och katjoner.\n\nKomplettera diagrammet av en natriumatom för att visa:\n• namnen och antalet av varje partikel i kärnan\n• elektronernas arrangering.\n\n[DIAGRAM – PARTIKELMODELL]\nEn cirkulär kärnbild visas centrerat med etiketten 'Sodium nucleus contains' och två tomma rader inuti. Runt kärnan finns tre koncentriska elektronskalscirklar (ringaroch punkter är inte utritade — studenten ska fylla i).\nRekommenderat renderingsverktyg: SVG-skiss",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.2_Atomer_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_6b",
+      "page": 28,
+      "text": "Natrium är ett grupp 1-grundämne.\n\nBeskriv trenden i reaktivitet och smältpunkt nedåt i grupp 1.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_7a",
+      "page": 30,
+      "text": "Fig. 7.1 visar elektrolys av koncentrerad respektive utspädd vattenlösning av natriumklorid med grafitelektroder. Gaser bildas och samlas upp i vardera av provrören W, X, Y och Z.\n\n[DIAGRAM – APPARATURSKISS]\nTvå bägare visas sida vid sida. Bägare 1 (till vänster) innehåller koncentrerad natriumkloridlösning; bägare 2 (till höger) innehåller utspädd natriumkloridlösning. Varje bägare har två grafitelektroder med omvända provrör (W och X i bägare 1, Y och Z i bägare 2). En extern strömkrets förbinder de två bägarna i serie (markerat med ett batteri-symbol). Provrören W och Y är på anoden (positiv elektrod), X och Z är på katoden (negativ elektrod).\nRekommenderat renderingsverktyg: SVG-skiss\n\n(a) Beskriv skillnaderna mellan vad som händer när elektricitet leds genom de koncentrerade respektive de utspädda natriumkloridlösningarna.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_7b(i)",
+      "page": 30,
+      "text": "(b)(i) Identifiera de gaser som samlas i provrören Y och Z (utspädd natriumkloridlösning).\n\nGas i provröret Y: ...\nGas i provröret Z: ...",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_7b(ii)",
+      "page": 30,
+      "text": "(b)(ii) Förhållandet mellan volymen gas i provröret Y och Z observeras vara 1:2.\n\nFörklara denna observation. Ditt svar ska inkludera halvekvationer för reaktionen vid varje elektrod.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_7c(i)",
+      "page": 31,
+      "text": "(c)(i) Identifiera de gaser som samlas i provrören W och X (koncentrerad natriumkloridlösning).\n\nGas i provröret W: ...\nGas i provröret X: ...",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_7c(ii)",
+      "page": 31,
+      "text": "(c)(ii) Ange förhållandet mellan volymen gas i provrören W och X.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_7d",
+      "page": 31,
+      "text": "Universalindikator tillsätts till lösningarna i bägare 1 och 2 efter elektrolysen.\n\nFörutsäg färgen på universalindikatorn i bägare 1 och 2.\n\nFärg i bägare 1: ...\nFärg i bägare 2: ...\n\nFörklara ditt resonemang.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "P2_8a(i)",
+      "page": 32,
+      "text": "Denna fråga handlar om grundämnen från period 2 och period 3 samt deras föreningar.\n\n(a) Tabell 8.1 visar några egenskaper hos aluminiumfluorid och aluminiumklorid.\n\n[DIAGRAM – TABELL]\nTabell med 3 kolumner och 3 rader (inklusive rubrikrad):\nRubrikrad: förening | smältpunkt / °C | elektrisk ledningsförmåga i smält tillstånd\nRad 1: aluminiumfluorid | 1290 | god\nRad 2: aluminiumklorid | 180 | dålig\nRekommenderat renderingsverktyg: Markdown-tabell\n\n(i) Rita ett punkt-och-kors-diagram för att visa bindningen i aluminiumfluorid. Visa endast yttre elektroner.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": true,
+      "modification": "none"
+    }
+  ]
+}
