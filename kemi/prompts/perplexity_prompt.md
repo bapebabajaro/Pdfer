@@ -26,17 +26,42 @@ https://raw.githubusercontent.com/bapebabajaro/Pdfer/main/kemi/pdfs_png/[MAPPNAM
 https://raw.githubusercontent.com/bapebabajaro/Pdfer/main/kemi/pdfs_png/[MAPPNAMN]/page_02.jpg
 (osv. för alla sidor)
 
-STEG 6 — Analysera provet. För VARJE fråga och delfråga (1, 1a, 1b, 2, 3a ...):
-- q_nr: frågenumret exakt som det skrivs i provet
+STEG 6 — Analysera provet.
+
+Inkludera ENBART frågor där stella_solvable = true OCH modification ≠ "major".
+Hoppa över alla frågor som kräver major-modifikation — de ska inte finnas i JSON alls.
+
+För varje kvalificerad fråga och delfråga:
+
+FÄLT:
+- q_nr: frågenumret exakt som det skrivs i provet (t.ex. "1", "3a", "10b(ii)")
 - page: sidnumret tryckt i dokumentet
-- text: FULLSTÄNDIG frågetext ORDAGRANT inkl. ALLA svarsalternativ A/B/C/D
-- has_diagram: true om frågan har figur/tabell/diagram
+- text: Se TEXT-INSTRUKTIONER nedan
+- has_diagram: true om frågan har figur/tabell/diagram/formel
 - stella_chapter: kapitelkod ur listan nedan
 - stella_subchapter: delkapitelkod ur listan nedan
-- stella_solvable: true om eleven kan lösa frågan med ENBART Stella Kemi-kunskaper
-- modification: "none" / "minor" / "major"
+- stella_solvable: true (detta fält MÅSTE alltid finnas med)
+- modification: "none" eller "minor"
 
-Inkludera ALLA frågor. Utelämna ingen.
+TEXT-INSTRUKTIONER (kritiskt viktigt):
+1. Skriv om frågetexten på KORREKT VETENSKAPLIG SVENSKA med Stella Kemis ordförråd och
+   terminologi. Använd samma begrepp som Stella Kemi (t.ex. "reaktionshastighet",
+   "spänningsserien", "joner", "fällning", "destillation").
+2. Svarsalternativ A–D ska ALLTID inkluderas ordagrant (översatta till svenska).
+3. Om frågan innehåller ett diagram, en tabell, en graf, en kemisk formel eller någon
+   annan visuell komponent — beskriv den i ett [DIAGRAM – ...]-block direkt i texten,
+   på den plats i frågan där den visuella komponenten förekommer.
+
+FORMAT FÖR [DIAGRAM – ...]-BLOCK:
+Varje block ska:
+- Börja med [DIAGRAM – KORTBESKRIVNING AV TYP (t.ex. KYLKURVA, TABELL, APPARATURSKISS)]
+- Beskriva varje visuellt element i extrem detalj på svenska: axlar och enhet, alla
+  kurvor/linjer, alla punkter, alla värden som syns, alla pilar, alla labels, alla
+  symboler, relativa positioner och riktningar
+- Sluta med: Rekommenderat renderingsverktyg: [lämpligt verktyg, t.ex. Plotly, SVG,
+  Markdown-tabell, LaTeX, HTML-tabell]
+- Vara tillräckligt detaljerat för att texten ENSAM kan fungera som prompt till en
+  bildgenereringsmodell
 
 STEG 7 — Returnera och pusha JSON till:
 kemi/questions/inbox/[MAPPNAMN].json
