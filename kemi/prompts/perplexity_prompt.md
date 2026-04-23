@@ -1,37 +1,41 @@
 # Perplexity-prompt: Stella Kemi — Frågeanalys
 
-Klistra in denna prompt i Perplexity tillsammans med den uppladdade PDF-filen.
-Se till att `stella_kemi_OCR.txt` finns i ditt Perplexity-projekt.
+## Instruktion till Perplexity
+
+Läs först hela `stella_kemi_OCR.txt` som finns i detta GitHub-repo:
+`kemi/stella_kemi_OCR.txt`
+
+Det är en komplett transkription av läroboken Stella Kemi (s. 6–309) och är din enda referens för klassificering.
+
+Läs sedan det kemiprov (PDF) som anges, och analysera VARJE fråga.
 
 ---
 
-Du är ett pedagogiskt analysverktyg. Ditt projekt innehåller `stella_kemi_OCR.txt` som är en komplett transkription av läroboken Stella Kemi (s. 6–309).
+## Prompt att köra
 
-**UPPGIFT:** Analysera bifogat kemiprov.
+```
+Du är ett pedagogiskt analysverktyg med tillgång till stella_kemi_OCR.txt
+— en komplett transkription av läroboken Stella Kemi (s. 6–309).
+
+UPPGIFT: Analysera bifogat kemiprov.
 
 För VARJE fråga och delfråga (1, 1a, 1b, 2, 3a ...):
 
-| Fält | Beskrivning |
-|------|-------------|
-| `q_nr` | Frågenumret exakt som det skrivs i provet (t.ex. "1", "2a") |
-| `page` | Det tryckta sidnumret synligt i dokumentet |
-| `text` | FULLSTÄNDIG frågetext ORDAGRANT inkl. ALLA svarsalternativ A/B/C/D |
-| `has_diagram` | `true` om frågan refererar till figur, tabell eller diagram |
-| `stella_chapter` | Vilket kapitel i Stella Kemi (se lista nedan) |
-| `stella_subchapter` | Vilket delkapitel i Stella Kemi (se lista nedan) |
-| `stella_solvable` | `true` om eleven kan besvara frågan med ENBART Stella Kemi-kunskaper |
-| `modification` | `"none"` = används direkt / `"minor"` = liten anpassning krävs / `"major"` = stort omarbete |
+1. q_nr          — frågenumret exakt som det skrivs i provet
+2. page          — det tryckta sidnumret synligt i dokumentet
+3. text          — FULLSTÄNDIG frågetext ORDAGRANT inkl. ALLA svarsalternativ A/B/C/D
+4. has_diagram   — true om frågan refererar till figur, tabell eller diagram
+5. stella_chapter    — kapitelkod ur listan nedan
+6. stella_subchapter — delkapitelkod ur listan nedan
+7. stella_solvable   — true om eleven kan besvara frågan med ENBART Stella Kemi-kunskaper
+8. modification      — "none" direkt användbar / "minor" liten anpassning / "major" stort omarbete
 
-**REGLER:**
-- Inkludera ALLA frågor, även `stella_solvable: false`
+REGLER:
+- Inkludera ALLA frågor, även stella_solvable=false
 - Utelämna ingen fråga — fullständig täckning krävs
 - Returnera ENBART valid JSON — ingen annan text, inga förklaringar
 
----
-
-## JSON-schema
-
-```json
+JSON-schema:
 {
   "filename": "FILNAMN.pdf",
   "processed_at": "ÅÅÅÅ-MM-DD",
@@ -48,24 +52,16 @@ För VARJE fråga och delfråga (1, 1a, 1b, 2, 3a ...):
     }
   ]
 }
-```
 
----
-
-## Tillåtna värden — stella_chapter (exakt stavning)
-
-```
+Tillåtna stella_chapter (exakt stavning):
 Kap_1_Kemins_grunder
 Kap_2_Vatten_och_pH
 Kap_3_Kolets_kemi
 Kap_4_Livets_kemi
 Kap_5_Periodiska_systemet
 Kap_6_Rakna_med_kemi
-```
 
-## Tillåtna värden — stella_subchapter (exakt stavning)
-
-```
+Tillåtna stella_subchapter (exakt stavning):
 1.0_Vad_ar_naturvetenskap
 1.1_Undersokningar_och_laborativt_arbete
 1.2_Atomer_och_grundamnen
@@ -99,13 +95,22 @@ Kap_6_Rakna_med_kemi
 5.6_Elektrolys
 6.1_Atommassa_och_isotoper
 6.2_Mol_och_molmassa
+
+När du är klar: spara JSON-filen som FILNAMN.json och pusha till:
+kemi/questions/inbox/FILNAMN.json
 ```
 
 ---
 
-## Perplexity: så här pushar du JSON till GitHub
+## Repostruktur
 
-När Perplexity returnerat JSON — döp filen till `[PDF-FILNAMN].json` och pusha till:
 ```
-Pdfer/kemi/questions/inbox/[PDF-FILNAMN].json
+kemi/
+  stella_kemi_OCR.txt          ← Din referens (läs denna först)
+  prompts/
+    perplexity_prompt.md       ← Denna fil
+  questions/
+    inbox/                     ← Pusha JSON hit
+    processed/                 ← Pipeline flyttar hit automatiskt
+  pipeline/                    ← Lokala klippskript (körs av läraren)
 ```
