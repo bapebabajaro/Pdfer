@@ -3,49 +3,764 @@
   "processed_at": "2026-04-23",
   "questions": [
     {
-      "q_nr": "P1_1",
+      "q_nr": "1",
       "page": 2,
-      "text": "N\u00e4r magnesium v\u00e4rms upp f\u00f6rbr\u00e4nns det och bildar magnesiumoxid, ett vitt pulver.\n\nEn elev unders\u00f6ker massf\u00f6r\u00e4ndringen som sker under denna reaktion. Eleven f\u00e5r en v\u00e5g och tre upps\u00e4ttningar utrustning enligt bilden.\n\n[Diagram: Tre upps\u00e4ttningar laborationsutrustning visas. Upps\u00e4ttning 1: magnesium h\u00e5lls med metallt\u00e5ng och brinner fritt i luft, inget system f\u00f6r att samla upp produkterna. Upps\u00e4ttning 2: ett vertikalt r\u00f6r med lufttillf\u00f6rsel underifr\u00e5n via pilar upp\u00e5t och magnesium placerat i r\u00f6ret ovanp\u00e5 ett n\u00e4t, \u00f6ppen konstruktion. Upps\u00e4ttning 3: magnesium i en degel med lock placerad p\u00e5 ett trebenstativ, slutet system som h\u00e5ller kvar magnesiumoxidpulvret och m\u00f6jligg\u00f6r korrekt massm\u00e4tning.]\n\nVilka upps\u00e4ttningar av utrustning passar f\u00f6r denna unders\u00f6kning?\n\nA  1, 2 och 3\nB  1 och 3\nC  2 och 3\nD  Endast 2",
+      "text": "When heated, magnesium undergoes combustion to form magnesium oxide, a white powder. A student investigates the change in mass that occurs during this reaction. The student is given a balance and three sets of apparatus as shown. [Diagram: Set 1: burning magnesium held with metal tongs freely in air. Set 2: magnesium in open horizontal tube with air flowing through. Set 3: magnesium in crucible with lid on tripod stand with heat.] Which sets of apparatus are suitable for this investigation?\nA  1, 2 and 3\nB  1 and 3\nC  2 and 3\nD  2 only",
       "has_diagram": true,
       "stella_chapter": "Kap_1_Kemins_grunder",
       "stella_subchapter": "1.1_Undersokningar_och_laborativt_arbete",
+      "stella_solvable": true,
       "modification": "minor"
     },
     {
-      "q_nr": "P1_5",
+      "q_nr": "2",
+      "page": 2,
+      "text": "The results of a paper chromatography experiment are shown, which is not drawn to scale. X is an aqueous solution of a salt of a Group 1 element. Y is an aqueous solution of a salt of a transition element. [Diagram: chromatography plate. X has one spot near baseline. Y has one spot higher up.] Which row is correct?\n|   | larger Rf value | requires a locating agent |\n| A | X | X |\n| B | X | Y |\n| C | Y | X |\n| D | Y | Y |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "3",
+      "page": 3,
+      "text": "A laboratory has a powdered mixture of solid iodine and solid carbon. Iodine is very soluble in hexane and slightly soluble in water. Carbon is insoluble in both solvents. One sample of the mixture is shaken with hexane. This is P. Another sample of the mixture is shaken with water. This is Q. Which procedure is used to prepare a pure sample of iodine?\nA  P is distilled and the distillate is evaporated to dryness.\nB  P is filtered and the filtrate is allowed to evaporate to dryness.\nC  P is filtered and the residue is allowed to evaporate to dryness.\nD  Q is distilled and the distillate is evaporated to dryness.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "4",
+      "page": 3,
+      "text": "Mineral wool soaked in aqueous ammonia is placed in the apparatus shown. [Diagram: horizontal tube with mineral wool at left end, damp red litmus paper at right end.] After 5 minutes, the damp red litmus paper turns blue. Which process led to this change?\nA  condensation\nB  crystallisation\nC  diffusion\nD  fractional distillation",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.7_Blandningar",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "5",
       "page": 4,
-      "text": "Stearinsyra har en sm\u00e4ltpunkt p\u00e5 69 \u00b0C.\nEtt uppv\u00e4rmt prov av ren stearinsyra kyls ned och temperaturen m\u00e4ts varje minut i 30 minuter. Ett diagram \u00f6ver resultaten visas.\n\n[Diagram: Kylningskurva, linjediagram med temperatur i grader Celsius p\u00e5 y-axeln (ungef\u00e4rlig skala 50 till 80 grader) och tid i minuter p\u00e5 x-axeln (skala 0 till 30 min). Kurvan b\u00f6rjar vid ca 80 grader och sjunker stadigt ned till ca 69 grader vid ungef\u00e4r 8 minuter. D\u00e4refter \u00e4r kurvan horisontellt plan vid 69 grader fr\u00e5n ca 8 till 12 minuter. Efter 12 minuter sjunker kurvan igen och n\u00e5r ca 52 grader vid 30 minuter.]\n\nVilken process sker mellan 8 och 12 minuter?\n\nA  kokning\nB  kondensation\nC  stelning\nD  sm\u00e4ltning",
+      "text": "Stearic acid has a melting point of 69 degrees C. A heated sample of pure stearic acid is cooled, and the temperature is recorded every minute for 30 minutes. A graph of the results is shown. [Diagram: Cooling curve. Curve starts ~80 degrees C, flat plateau at 69 degrees C from 8-12 min, then drops to ~52 degrees C.] Which process occurs between 8 and 12 minutes?\nA  boiling\nB  condensing\nC  freezing\nD  melting",
       "has_diagram": true,
       "stella_chapter": "Kap_1_Kemins_grunder",
       "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
       "modification": "minor"
     },
     {
-      "q_nr": "P1_33",
+      "q_nr": "6",
+      "page": 4,
+      "text": "The number of electrons, protons and neutrons in four different particles are shown.\n| particle | electrons | protons | neutrons |\n| 1 | 19 | 19 | 20 |\n| 2 | 18 | 19 | 20 |\n| 3 | 20 | 20 | 20 |\n| 4 | 19 | 19 | 22 |\nWhich particles are isotopes of the same element?\nA  1 and 2\nB  1 and 3\nC  1 and 4\nD  1, 2 and 3",
+      "has_diagram": true,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "7",
+      "page": 5,
+      "text": "Element E and element G react together to form a compound. The electronic configurations of E and G are 2,8,3 and 2,6 respectively. Which row is correct?\n|   | element E | element G | type of compound |\n| A | 2 atoms each loses 3 electrons | 3 atoms each gains 2 electrons | covalent |\n| B | 2 atoms each loses 3 electrons | 3 atoms each gains 2 electrons | ionic |\n| C | 2 atoms each gains 3 electrons | 3 atoms each loses 2 electrons | covalent |\n| D | 2 atoms each gains 3 electrons | 3 atoms each gains 2 electrons | ionic |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "8",
+      "page": 5,
+      "text": "Which substance has a giant covalent structure and contains atoms of more than one element?\nA  ammonia\nB  diamond\nC  graphite\nD  silicon dioxide",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "9",
+      "page": 5,
+      "text": "Three statements about the properties of metals are shown.\n1  All metals conduct electricity.\n2  All metals have 2 electrons in their innermost shell.\n3  All metals have high melting points.\nWhich statements are correct?\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "10",
+      "page": 5,
+      "text": "Element J forms a positive ion when it reacts with oxygen. Using the Periodic Table, how many protons are in atom J?\nA  6\nB  10\nC  16\nD  20",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "11",
+      "page": 6,
+      "text": "The diagram shows the structure of boron nitride. [Diagram: Giant covalent lattice structure with alternating boron and nitrogen atoms in a diamond-like cubic arrangement.] Which statement about boron nitride is correct?\nA  It has a low melting point.\nB  It has an ionic lattice.\nC  It has the same structure as diamond.\nD  It can be used as a lubricant.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "12",
+      "page": 6,
+      "text": "Three compounds are listed: calcium carbonate, potassium sulfate, zinc nitrate. Which row shows the element present in the greatest percentage by mass in each compound?\n|   | element in CaCO3 | element in K2SO4 | element in Zn(NO3)2 |\n| A | calcium | oxygen | oxygen |\n| B | calcium | oxygen | zinc |\n| C | oxygen | potassium | zinc |\n| D | oxygen | potassium | oxygen |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Mol_och_molmassa",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "13",
+      "page": 7,
+      "text": "Samples of two hydrated compounds are weighed and then dehydrated by heating. 3.97 g FeSO4.xH2O gives 2.17 g anhydrous FeSO4. 2.88 g CaSO4.yH2O gives 2.27 g anhydrous CaSO4. What are the values of x and y? [Mr: FeSO4 = 152; CaSO4 = 136; H2O = 18]\n|   | x | y |\n| A | 5 | 2 |\n| B | 5 | 5 |\n| C | 7 | 5 |\n| D | 7 | 2 |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Mol_och_molmassa",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "14",
+      "page": 7,
+      "text": "50.0 cm3 of 0.100 mol/dm3 silver nitrate, AgNO3, is added to 150.0 cm3 of 0.0500 mol/dm3 sodium iodide, NaI, in a beaker. After the reaction, solid silver iodide is present in the beaker. What else is present?\nA  aqueous silver nitrate and aqueous sodium nitrate\nB  aqueous sodium iodide and aqueous sodium nitrate\nC  aqueous sodium iodide only\nD  aqueous sodium nitrate only",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Mol_och_molmassa",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "15",
+      "page": 7,
+      "text": "Aqueous hydrogen peroxide, H2O2, decomposes slowly at 25 degrees C. 2H2O2(aq) -> 2H2O(l) + O2(g). A student adds a small amount of catalyst to 10 cm3 of 1.00 mol/dm3 of aqueous hydrogen peroxide and collects the gas that is produced. The volume of gas collected is 90 cm3. All measurements are made at room temperature and pressure. What is the percentage yield of oxygen?\nA  28.1%\nB  37.5%\nC  56.3%\nD  75.0%",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Mol_och_molmassa",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "16",
+      "page": 8,
+      "text": "What is a chemical product of a hydrogen-oxygen fuel cell?\nA  electricity\nB  hydrogen\nC  oxygen\nD  water",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Elektrokemi_och_batterier",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "17",
+      "page": 8,
+      "text": "Which method of preparation of magnesium sulfate is an example of redox reaction?\nA  Mg + H2SO4 -> MgSO4 + H2\nB  MgO + H2SO4 -> MgSO4 + H2O\nC  Mg(OH)2 + H2SO4 -> MgSO4 + 2H2O\nD  MgCO3 + H2SO4 -> MgSO4 + H2O + CO2",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "18",
+      "page": 8,
+      "text": "Which diagram represents the ionisation of a weak acid? [Diagram A-D: Four particle diagrams. A: fully ionised (only ions). B: not ionised (only molecules). C: partial ionisation - mix of acid molecules, H+ ions, negative ions and water. D: slightly different partial ionisation ratio.]",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "19",
+      "page": 9,
+      "text": "A salt, H, dissolved in water to give a green solution. On adding chlorine, the green solution turned yellow. On addition of aqueous ammonia, the green solution gave a green precipitate and the yellow solution gave a red-brown precipitate. On addition of dilute nitric acid followed by aqueous barium nitrate, the green solution gave a white precipitate. What is the formula of H?\nA  CuCl2\nB  CuSO4\nC  FeCl2\nD  FeSO4",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "20",
+      "page": 9,
+      "text": "Which reaction shows the most suitable reaction for making silver chloride?\nA  2Ag + 2HCl -> 2AgCl + H2\nB  Ag2CO3 + 2HCl -> 2AgCl + CO2 + H2O\nC  AgNO3 + HCl -> AgCl + HNO3\nD  Ag2O + 2HCl -> 2AgCl + H2O",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "21",
+      "page": 9,
+      "text": "Aqueous copper(II) sulfate is electrolysed using copper electrodes. The current is constant and the anode is weighed at regular time intervals. Which graph is obtained when the mass of the anode is plotted against time? [Diagram A: exponential decrease. B: linear increase from 0. C: linear decrease. D: logarithmic increase from 0.]",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "22",
+      "page": 10,
+      "text": "Which reagent and observation describes the test for a reducing agent?\n|   | reagent | colour change |\n| A | acidified aqueous potassium manganate(VII) | colourless to purple |\n| B | acidified aqueous potassium manganate(VII) | purple to colourless |\n| C | aqueous potassium iodide | colourless to purple |\n| D | aqueous potassium iodide | purple to colourless |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Elektrokemi_och_batterier",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "23",
+      "page": 10,
+      "text": "Electrolysis is used to plate a metal coin with silver. The coin is used as an electrode in a suitable electrolyte. Which row is correct?\n|   | coin | electrolyte |\n| A | anode | AgCl(aq) |\n| B | anode | AgNO3(aq) |\n| C | cathode | AgCl(aq) |\n| D | cathode | AgNO3(aq) |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "24",
+      "page": 10,
+      "text": "Winkler method is used to determine the amount of dissolved oxygen in a water sample. Step 1: 2Mn2+(aq) + O2(g) + 4OH-(aq) -> 2MnO(OH)2(s). Step 2: MnO(OH)2(s) + 2I-(aq) + 4H+(aq) -> I2(aq) + Mn2+(aq) + 3H2O(aq). Step 3: I2(aq) + 2S2O3 2-(aq) -> 2I-(aq) + S4O6 2-(aq). When a 5.00 dm3 sample of water was analysed, a total of 4.00 x 10-3 mol of thiosulfate was required in Step 3. What concentration of oxygen was present in the original sample?\nA  3.20 mg/dm3\nB  6.40 mg/dm3\nC  12.8 mg/dm3\nD  32.0 mg/dm3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Mol_och_molmassa",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "25",
+      "page": 11,
+      "text": "Five statements about different elements: 1 proton number = 24. 2 cuts easily with a knife. 3 constituent of brass. 4 burns in oxygen with a dazzling white light. 5 catalyst in the Haber process. Which statement is correct for each element?\n|   | K | Zn | Fe | Cr | Mg |\n| A | 2 | 3 | 4 | 5 | 1 |\n| B | 2 | 3 | 5 | 1 | 4 |\n| C | 3 | 2 | 5 | 1 | 4 |\n| D | 4 | 5 | 2 | 3 | 1 |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "26",
+      "page": 11,
+      "text": "The addition of calcium hydroxide to soil reduces its acidity but also reduces the efficiency of fertilisers. Which two equations explain this?\n1  Ca(OH)2(s) + CO2(g) -> CaCO3(s) + H2O(l)\n2  Ca(OH)2(s) + 2H+(aq) -> Ca2+(aq) + 2H2O(l)\n3  Ca(OH)2(s) + 2NH4NO3(aq) -> Ca(NO3)2(aq) + 2NH3(g) + 2H2O(l)\n4  Ca(OH)2(s) + Cu2+(aq) -> Cu(OH)2(s) + Ca2+(aq)\nA  1 and 2\nB  1 and 4\nC  2 and 3\nD  3 and 4",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "27",
+      "page": 11,
+      "text": "Which statement is correct?\nA  Group 1 elements are less reactive than the Group 2 element in the same period because they only need to lose one electron to have complete shells.\nB  Group 1 elements are stored under oil to avoid reaction with oxygen and water in the air.\nC  Group 1 elements become more reactive as the group is descended because the number of outer shell electrons increases.\nD  The melting point of Group 1 elements decreases as the group is descended because there is more attraction between positive ions and the sea of delocalised electrons.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "28",
+      "page": 12,
+      "text": "Copper(II) carbonate, calcium carbonate and zinc carbonate decompose when heated. What is the correct increasing order for their decomposition?\n|   | lowest temperature | middle | highest temperature |\n| A | calcium carbonate | zinc carbonate | copper(II) carbonate |\n| B | copper(II) carbonate | calcium carbonate | zinc carbonate |\n| C | copper(II) carbonate | zinc carbonate | calcium carbonate |\n| D | zinc carbonate | copper(II) carbonate | calcium carbonate |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "29",
+      "page": 12,
+      "text": "Zinc is used to galvanise iron, which prevents the iron from rusting. Which statements are correct?\n1  The layer of zinc forms a barrier between the iron and the oxygen and water in the atmosphere.\n2  Zinc will oxidise before the iron does, even if the layer of zinc is scratched.\n3  When iron rusts, atoms of iron gain electrons to form ions.\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.5_Korrosion_och_korrosionsskydd",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "30",
+      "page": 12,
+      "text": "An endothermic reaction has an activation energy of x. Which energy profile diagram is correct for this reaction? [Diagram A: endothermic, x = activation energy from reactants to peak. B: exothermic, x from peak to products. C: endothermic, x from peak to products. D: endothermic, x as small gap at start.]",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "31",
       "page": 13,
-      "text": "Vilket p\u00e5st\u00e5ende om global uppv\u00e4rmning \u00e4r korrekt?\n\nA  Metan som produceras vid djurens matsm\u00e4ltning har ingen effekt p\u00e5 takten f\u00f6r global uppv\u00e4rmning.\nB  Produkterna fr\u00e5n f\u00f6rbr\u00e4nning av fossila br\u00e4nslen har ingen effekt p\u00e5 takten f\u00f6r global uppv\u00e4rmning.\nC  Produkterna fr\u00e5n nedbrytning av vegetation har ingen effekt p\u00e5 takten f\u00f6r global uppv\u00e4rmning.\nD  Produkterna fr\u00e5n fotosyntesen har ingen effekt p\u00e5 takten f\u00f6r global uppv\u00e4rmning.",
+      "text": "Two gases react inside a sealed vessel. Which change in conditions would decrease the rate of reaction?\n1  decreasing the pressure inside the vessel\n2  decreasing the temperature inside the vessel\n3  decreasing the volume of the vessel\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "32",
+      "page": 13,
+      "text": "The volume of gas produced by the reaction of 100 cm3 of hydrochloric acid with an excess of calcium carbonate is measured in two experiments.\n| time/s | 0 | 30 | 60 | 90 | 120 | 150 | 180 | 300 |\n| exp 1 vol/cm3 | 0 | 20 | 30 | 38 | 44 | 48 | 50 | 50 |\n| exp 2 vol/cm3 | 0 | 30 | 42 | 55 | 65 | 70 | 75 | 75 |\nWhich one change in conditions to experiment 1 gives the results for experiment 2?\nA  A greater mass of calcium carbonate is added.\nB  A higher concentration of acid is used.\nC  Smaller pieces of calcium carbonate are used.\nD  The temperature of the acid is higher.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "33",
+      "page": 13,
+      "text": "Which statement about global warming is correct?\nA  Methane produced by digestion in animals has no effect on the rate of global warming.\nB  The products of burning fossil fuels have no effect on the rate of global warming.\nC  The products of decomposition of vegetation have no effect on the rate of global warming.\nD  The products of photosynthesis have no effect on the rate of global warming.",
       "has_diagram": false,
       "stella_chapter": "Kap_3_Kolets_kemi",
       "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
       "modification": "minor"
     },
     {
-      "q_nr": "P2_1a(i)",
-      "page": 2,
-      "text": "Anv\u00e4nd listan med \u00e4mnen f\u00f6r att besvara fr\u00e5gorna. Du f\u00e5r anv\u00e4nda varje \u00e4mne en g\u00e5ng, mer \u00e4n en g\u00e5ng eller inte alls.\n\nLista med \u00e4mnen: argon, kol, koldioxid, klor, j\u00e4rn, j\u00e4rn(II)klorid, syre, neon\n\nVilka tv\u00e5 \u00e4mnen \u00e4r tv\u00e5atomiga gaser vid rumstemperatur?",
-      "has_diagram": false,
-      "stella_chapter": "Kap_1_Kemins_grunder",
-      "stella_subchapter": "1.3_Molekyler_och_kemiska_foreningar",
-      "modification": "minor"
-    },
-    {
-      "q_nr": "P2_3a(i)",
-      "page": 5,
-      "text": "H\u00e5llbara flygbr\u00e4nslen (SAF) utvecklas f\u00f6r att minska flygresandets koldioxidavtryck. En metod inneb\u00e4r att man samlar in anv\u00e4nd matolja fr\u00e5n restauranger, bearbetar den f\u00f6r att ta bort f\u00f6roreningar som vatten, och blandar den med jetbr\u00e4nsle. Fig. 3.1 visar ett fl\u00f6desschema som beskriver produktionsprocessen f\u00f6r SAF.\n\n[Diagram: Fl\u00f6desschema med tv\u00e5 parallella inmatningsv\u00e4gar. V\u00e4g 1: rutan r\u00e5olja leder med pil till rutan andra fraktioner och rutan jetbr\u00e4nsle, som sedan med pil leder till slutrutan SAF. V\u00e4g 2: rutan anv\u00e4nd matolja leder med pil till rutan f\u00f6roreningar och rutan bearbetad olja, som sedan med pil leder till slutrutan SAF. De b\u00e5da v\u00e4garna f\u00f6renas i slutrutan SAF.]\n\nNamnge separationsprocessen som anv\u00e4nds f\u00f6r att erh\u00e5lla jetbr\u00e4nsle fr\u00e5n r\u00e5olja.",
+      "q_nr": "34",
+      "page": 14,
+      "text": "The diagram shows a fractionating column used in the separation of petroleum. [Diagram: Fractions P-T exit from side at descending heights, U at bottom, crude oil input.] Which row explains why fraction R is collected above fraction S?\n|   | boiling point of R | average molecular mass of R |\n| A | greater than S | greater than S |\n| B | greater than S | smaller than S |\n| C | smaller than S | greater than S |\n| D | smaller than S | smaller than S |",
       "has_diagram": true,
       "stella_chapter": "Kap_3_Kolets_kemi",
       "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "35",
+      "page": 14,
+      "text": "Which statements about the cracking of hydrocarbons are correct?\n1  Cracking involves breaking down hydrocarbon molecules.\n2  One of the products of cracking is always unsaturated.\n3  Cracking is essential because of the demand for fractions containing smaller molecules.\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "36",
+      "page": 15,
+      "text": "The structures of three compounds, W, X and Y, are shown. [Diagram: W = CH3-C(OH)2-CH3 (geminal diol). X = CH3-CH2-COOH (propanoic acid). Y = CH3-CH(OH)-CH2OH (1,2-propanediol).] Which statements about these three compounds are correct?\n1  W and Y are both alcohols and X is a carboxylic acid.\n2  W, X and Y have the same molecular formula.\n3  W and Y are structural isomers of each other.\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.4_Alkoholer",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "37",
+      "page": 15,
+      "text": "Which equation shows the reaction of ethane with chlorine in the presence of ultraviolet light?\nA  C2H6 + Cl2 -> C2H6Cl2\nB  C2H6 + Cl2 -> C2H4Cl2 + H2\nC  C2H6 + Cl2 -> C2H5Cl + HCl\nD  C2H6 + Cl2 -> 2CH3Cl",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "38",
+      "page": 15,
+      "text": "Isoprene is an alkene which is commonly found in plants. Which properties does isoprene have?\n1  It burns in air.\n2  It can form condensation polymers.\n3  It decolourises aqueous bromine.\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "39",
+      "page": 16,
+      "text": "The structure of an organic compound is shown. [Diagram: H-C(=O)-O-CH2-CH2-CH3, i.e. propyl methanoate.] Which two reactants form the organic compound?\nA  butanol and methanoic acid\nB  ethanol and propanoic acid\nC  propanol and ethanoic acid\nD  propanol and methanoic acid",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.5_Organiska_syror_och_estrar",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "40",
+      "page": 16,
+      "text": "Which compound, without the addition of any other reagent, polymerises to produce a polyamide similar to nylon?\nA  C2H5CO2H\nB  C2H5NH2\nC  H2N(CH2)4NH2\nD  H2N(CH2)4CO2H",
+      "has_diagram": false,
+      "stella_chapter": "Kap_4_Livets_kemi",
+      "stella_subchapter": "4.4_Proteiner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "1(a)(i)",
+      "page": 2,
+      "text": "Use the list of substances to answer the questions. You may use each substance once, more than once or not at all. argon / carbon / carbon dioxide / chlorine / iron / iron(II) chloride / oxygen / neon. (i) Which two substances are diatomic gases at room temperature?",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.3_Molekyler_och_kemiska_foreningar",
+      "stella_solvable": true,
       "modification": "minor"
+    },
+    {
+      "q_nr": "1(a)(ii)",
+      "page": 2,
+      "text": "Substances list: argon / carbon / carbon dioxide / chlorine / iron / iron(II) chloride / oxygen / neon. (ii) Which substance is a compound that contains a transition element?",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "1(a)(iii)",
+      "page": 2,
+      "text": "Substances list: argon / carbon / carbon dioxide / chlorine / iron / iron(II) chloride / oxygen / neon. (iii) Which substance provides an inert environment in light bulbs?",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "1(a)(iv)",
+      "page": 2,
+      "text": "Substances list: argon / carbon / carbon dioxide / chlorine / iron / iron(II) chloride / oxygen / neon. (iv) Which two substances form acidic oxides?",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "1(a)(v)",
+      "page": 2,
+      "text": "Substances list: argon / carbon / carbon dioxide / chlorine / iron / iron(II) chloride / oxygen / neon. (v) Which two substances produce a solid when added to aqueous silver nitrate?",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "1(b)",
+      "page": 3,
+      "text": "Table 1.1 describes three processes. Complete Table 1.1 by filling in the missing information.\n| description of process | name of process |\n| conversion of polyunsaturated fats to saturated fats | ... |\n| formation of an organic compound by the reaction of alcohols and carboxylic acids | ... |\n| mixing dilute hydrochloric acid and aqueous sodium hydroxide | ... |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.5_Organiska_syror_och_estrar",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "2(a)",
+      "page": 4,
+      "text": "Mothballs gradually disappear over time when placed in a closed cupboard. A student records mass over several days.\n| day | 0 | 2 | 4 | 6 | 8 |\n| mass/g | 5.0 | 4.6 | 4.2 | 3.8 | 3.4 |\nDuring the experiment, no liquid or solution was found in the cupboard. A pungent gas was produced and can be detected whenever the cupboard doors are opened. (a) Describe and explain the trend observed in the mass of the mothball over time.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.7_Blandningar",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "2(b)",
+      "page": 4,
+      "text": "Mothballs context (see 2a): mothballs disappear in closed cupboard, pungent gas produced. (b) Explain how the concept of diffusion contributes to the observation of pungent smell.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.7_Blandningar",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "3(a)(i)",
+      "page": 5,
+      "text": "Sustainable aviation fuels (SAFs): used cooking oil processed and blended with jet fuel from crude oil. Fig 3.1: flow chart showing crude oil -> jet fuel -> SAFs, and used cooking oil -> processed oil -> SAFs. (a)(i) Name the separation process to obtain jet fuel from crude oil.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "3(a)(ii)",
+      "page": 5,
+      "text": "SAFs context. (a)(ii) Explain how the named process in (a)(i) is used to separate different components of crude oil, including the fraction used as jet fuel.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "3(b)",
+      "page": 5,
+      "text": "SAFs context. (b) Describe how a separating funnel can be used to separate processed oil from impurities in used cooking oil.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "3(c)",
+      "page": 6,
+      "text": "Biofuels, like sugarcane-based bioethanol, are alternative energy sources to fossil fuels. Burning of bioethanol releases similar products as burning ethanol. Discuss the concept of the carbon cycle and explain why the burning of bioethanol might not always be considered as carbon neutral.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "3(d)",
+      "page": 6,
+      "text": "Combustion of ethanol: C2H5OH + 3O2 -> 2CO2 + 3H2O. Use bond energies to calculate the enthalpy change.\n| bond | kJ/mol | bond | kJ/mol |\n| C-C | 350 | C=C | 610 |\n| C-O | 358 | O=O | 496 |\n| C-H | 410 | C=O | 799 |\n| O-H | 460 | | |\nenthalpy change = ......... kJ",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "3(e)",
+      "page": 7,
+      "text": "Complete the energy profile diagram for the combustion of ethanol. Your diagram should include the formulae of reactants and products, the enthalpy change of reaction, and the activation energy. [Blank axes: y-axis = energy, x-axis = progress of reaction]",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "4(a)",
+      "page": 8,
+      "text": "Glutamic acid contains 40.8% carbon, 6.1% hydrogen, 9.5% nitrogen and 43.6% oxygen by mass. Determine the empirical formula of glutamic acid. Show your working clearly.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Mol_och_molmassa",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "4(b)",
+      "page": 8,
+      "text": "Monosodium glutamate (MSG) is the sodium salt of glutamic acid. Deduce the charge on the glutamate ion.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.5_Joner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "4(c)(i)",
+      "page": 9,
+      "text": "Fig 4.1 shows the repeat unit of a macromolecule formed by condensation polymerisation. The repeat unit contains five elements: C, O, N, H and X. [Diagram: repeat unit with peptide-like bonds and substituent X.] (c)(i) Name the type of linkage found in the repeat unit.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_4_Livets_kemi",
+      "stella_subchapter": "4.4_Proteiner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "4(c)(ii)",
+      "page": 9,
+      "text": "Repeat unit context (Fig 4.1, see 4(c)(i)). (c)(ii) Draw the full structural formula of the two monomers.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_4_Livets_kemi",
+      "stella_subchapter": "4.4_Proteiner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "4(c)(iii)",
+      "page": 9,
+      "text": "Repeat unit context (Fig 4.1). (c)(iii) Using ideas of valency, suggest an element that could be X.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "4(d)",
+      "page": 9,
+      "text": "(d) State the functional group that a molecule must have to undergo addition polymerisation.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "5(a)(i)",
+      "page": 10,
+      "text": "Lead is extracted by heating its oxide with hydrogen. PbO + H2 -> Pb + H2O. Fig 5.1: apparatus with H2 flowing through fused CaCl2 drying agent over heated PbO, excess H2 burnt off. (a)(i) Is hydrogen acting as the oxidising agent or reducing agent? Explain using the loss or gain of oxygen.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "5(a)(ii)",
+      "page": 10,
+      "text": "Lead extraction context. (a)(ii) 'Aluminium can be extracted from its oxide using the same method.' Do you agree? Explain your answer.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "5(a)(iii)",
+      "page": 10,
+      "text": "Lead extraction context. (a)(iii) After the heating has stopped, the flow of hydrogen gas must be maintained until the solid has completely cooled to room temperature. Explain why this is necessary.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.4_Spanningsserien",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "5(b)(i)",
+      "page": 11,
+      "text": "A disproportionation reaction is one in which the same element is both oxidised and reduced. Example: 4H3PO3 -> 3H3PO4 + PH3. (b)(i) Explain, in terms of oxidation states, why the reaction is a disproportionation reaction.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Elektrokemi_och_batterier",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "5(b)(ii)",
+      "page": 11,
+      "text": "Comproportionation example: 2H2S + SO2 -> 3S + 2H2O. (b)(ii) Use information in (b)(i) and (ii) to suggest how comproportionation reactions generally differ from disproportionation reactions.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Elektrokemi_och_batterier",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "6(a)(i)",
+      "page": 12,
+      "text": "Iodine clock reaction: aqueous KI mixed with starch and iron(III) salt produces iodine turning blue-black. Table 6.1:\n| exp | vol KI/cm3 | vol H2O/cm3 | temp/C | catalyst | time/s |\n| 1 | 3.0 | 7.0 | 20 | none | 50 |\n| 2 | 6.0 | 4.0 | 20 | none | 27 |\n| 3 | 6.0 | 4.0 | 20 | silver | 26 |\n| 4 | 6.0 | 4.0 | 20 | copper | 20 |\n| 5 | 6.0 | 4.0 | 40 | none | 15 |\n(a)(i) Explain how a catalyst affects reaction rates.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "6(a)(ii)",
+      "page": 12,
+      "text": "Iodine clock context, Table 6.1 (see 6(a)(i)). (a)(ii) Using information in Table 6.1, compare the effectiveness of copper and silver as catalysts on the rate of reaction.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "6(b)(i)",
+      "page": 13,
+      "text": "Iodine clock context, Table 6.1. (b)(i) Use ideas about collisions between particles, and with reference to values in Table 6.1, explain why changing the concentration and temperature affect the time taken for the blue-black colour to appear.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "6(b)(ii)",
+      "page": 13,
+      "text": "Iodine clock context. (b)(ii) Explain the importance of starch in the experiments.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_4_Livets_kemi",
+      "stella_subchapter": "4.2_Kolhydrater",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "7(a)(i)",
+      "page": 14,
+      "text": "SO2 emissions tracked over three decades. Fig 7.1: stacked bar chart showing SO2 emissions (millions of tonnes) for 1990, 2000, 2010 broken down by: Refineries, Power Stations, Vehicles, and Other source. All sources show decrease from 1990 to 2010. (a)(i) Name the 'other source'.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "7(a)(ii)",
+      "page": 14,
+      "text": "SO2 emissions context, Fig 7.1. (a)(ii) Using Fig. 7.1, describe the trend in sulfur dioxide emissions for vehicles, power stations and refineries over three decades.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "7(b)",
+      "page": 15,
+      "text": "Wet scrubbing desulfurisation: waste gas with SO2 enters chamber, slurry of magnesium carbonate and water sprayed from top, produces a gas and magnesium sulfite. Fig 7.2 shows the chamber setup. Complete the equation: SO2(g) + ......",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "7(c)(ii)",
+      "page": 15,
+      "text": "Packed bed scrubber with beads installed in desulfurisation chamber (Fig 7.3). (c)(ii) Explain why installing the packed bed scrubber in the chamber is more efficient at removing SO2.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "7(c)(iii)",
+      "page": 16,
+      "text": "(c)(iii) Explain why it is not feasible to install desulfurisation systems on vehicles.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "7(c)(cost)",
+      "page": 16,
+      "text": "Calcium carbonate vs magnesium carbonate for wet scrubbing. Table 7.4: CaCO3 = $0.11/kg, MgCO3 = $0.14/kg. Using information from this question, determine which substance will be more cost efficient for a refinery that emits 1280 kg of SO2 per hour. Show clear calculations. Both carbonates have same efficiency in removing SO2.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Mol_och_molmassa",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "8",
+      "page": 17,
+      "text": "Covalent bonds and electronegativity context. Fig 8.1: non-polar bond (equal electronegativity). Fig 8.2: polar bond H-Cl (unequal electronegativity, difference > 0.5). Table 8.3 electronegativities: H=2.20, C=2.55, N=3.04, O=3.44, Na=0.93, F=3.98, Cl=3.16, Br=2.96. Effect of R groups on dissociation of carboxylic acids RCOOH. Table 8.4: R=-CH3 Ka=1.75e-5 (ethanoic acid); R=-CH2CH3 Ka=1.34e-5 (propanoic acid); R=-CH2Cl Ka=1.40e-3 (chloroethanoic acid); R=-CHCl2 Ka=4.50e-2 (dichloroethanoic acid); R=-CH2Br Ka=1.30e-3 (bromoethanoic acid); R=-CH2F Ka=2.60e-3 (fluoroethanoic acid). [Sub-questions on subsequent pages based on this data about polarity, bond classification and acid strength.]",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": false,
+      "modification": "major"
     }
   ]
 }
