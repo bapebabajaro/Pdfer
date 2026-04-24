@@ -1,0 +1,186 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_crescentgirls.pdf",
+  "processed_at": "2026-04-24",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 2,
+      "text": "A student measures the rate of the reaction between marble chips, CaCO3, and dilute hydrochloric acid.\n\nCaCO3 + 2HCl → CaCl2 + CO2 + H2O\n\nWhich diagrams show the apparatus that are suitable for this experiment?\n\n[DIAGRAM – FOUR APPARATUS SETUPS]\nFour labelled setups 1–4.\nSetup 1: round-bottom flask with marble chips and HCl, connected by tubing to a measuring cylinder inverted over water (gas collection by displacement).\nSetup 2: conical flask with marble chips and HCl on a balance with a loose plug in the neck (mass loss method).\nSetup 3: burette of HCl dripping onto marble chips in a conical flask (no gas collection — inappropriate).\nSetup 4: conical flask with marble chips and HCl connected to a gas syringe (volume collection method).\nRecommended rendering tool: image generator.\n\nA  1 and 2\nB  1, 2 and 4\nC  2 and 3\nD  2, 3 and 4",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.1_Undersokningar_och_laborativt_arbete",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "2",
+      "page": 3,
+      "text": "Chromatograms of a urine sample using two different solvents are shown below.\n\n[DIAGRAM – TWO CHROMATOGRAMS]\nLeft chromatogram (chloroform solvent): four lanes — sample, drug P, drug Q, drug R. Sample lane shows three spots at different heights matching drugs P and Q positions.\nRight chromatogram (propanol solvent): same four lanes. Sample shows spots at different positions matching drug Q only.\nRecommended rendering tool: image generator.\n\nBased on the two chromatograms, which drug(s) is/are present in the urine sample?\n\nA  drug P only\nB  drug Q only\nC  drugs P and Q only\nD  drugs P, Q and R",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "4",
+      "page": 4,
+      "text": "An isotope of element Z has 20 neutrons and 17 protons.\n\nWhich is the correct symbol for an ion of the isotope of element Z?\n\nA  ¹⁸₁₇Z⁺\nB  ¹⁸₁₇Z⁻\nC  ³⁷₁₇Z⁻\nD  ³⁷₁₈Z⁻",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "6",
+      "page": 4,
+      "text": "The heating curves (not drawn to scale) of nitrogen and oxygen over a period of time are shown in the graph.\n\n[DIAGRAM – HEATING CURVE GRAPH]\nLine graph with x-axis 'time / minutes' and y-axis 'temperature / °C'.\nTwo curves: N2 (left curve) and O2 (right curve), both showing flat plateaus during phase changes.\nN2 plateaus at approximately –210 °C (melting) and –196 °C (boiling).\nO2 plateaus at approximately –218 °C (melting) and –183 °C (boiling).\nRecommended rendering tool: image generator.\n\nAt which temperature will there be two different states of matter co-existing at the same time, in a mixture of nitrogen and oxygen under similar conditions?\n\nA  –180 °C\nB  –200 °C\nC  –215 °C\nD  –220 °C",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "11",
+      "page": 6,
+      "text": "A student is given two samples, one of which is aluminium oxide and the other is magnesium carbonate. He needs to find a method to identify the two samples.\n\nWhich of the following show(s) the correct method(s) and observation(s)?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 5 rows (including header).\nColumn 1: row number (1–4)\nColumn 2: 'method'\nColumn 3: 'observation(s)'\nRow 1: add nitric acid | only aluminium oxide dissolves\nRow 2: add nitric acid | both samples dissolve; effervescence observed in reaction with magnesium carbonate\nRow 3: add sodium hydroxide | only aluminium oxide dissolves\nRow 4: add sodium hydroxide | both samples dissolve; effervescence in both reactions\nRecommended rendering tool: SVG table.\n\nA  1 and 4 only\nB  2 only\nC  2 and 3 only\nD  3 only",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "12",
+      "page": 7,
+      "text": "A natural indicator changes colour according to pH values. The table shows the colours at different pH ranges.\n\n[DIAGRAM – TABLE]\nA table with 2 columns and 5 rows (including header).\nColumn 1: 'pH range'\nColumn 2: 'colour'\nRow 1: 0–3 | violet\nRow 2: 4–8 | blue\nRow 3: 9–11 | green\nRow 4: 12–14 | yellow\nRecommended rendering tool: SVG table.\n\nWhich pair of substances can be distinguished by adding this indicator to each substance separately?\n\nA  acid rain and aqueous sodium chloride\nB  aqueous ammonia and limewater\nC  aqueous sodium sulfate and aqueous sodium chloride\nD  dilute hydrochloric acid and dilute sulfuric acid",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "16",
+      "page": 8,
+      "text": "Ammonium chloride is heated strongly in a boiling tube. Damp blue and red litmus papers were placed at the mouth of the boiling tube for the gases produced.\n\n[DIAGRAM – APPARATUS AND TABLE]\nApparatus: boiling tube with ammonium chloride, heated from below. At the mouth of the tube, damp blue litmus paper and damp red litmus paper are placed side by side.\nBelow the apparatus: a table with 3 columns and 5 rows (including header).\nColumn 1: row letter (A–D)\nColumn 2: 'first observed colour change'\nColumn 3: 'final colour of both litmus papers'\nRow A: The damp blue litmus paper turns red. | red\nRow B: The damp blue litmus paper turns red then bleaches. | white\nRow C: The damp red litmus paper turns blue. | blue\nRow D: The damp red litmus paper turns blue. | red\nRecommended rendering tool: image generator.\n\nWhich row shows the correct sequence of observations that would be made?\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "18",
+      "page": 9,
+      "text": "Dry hydrogen gas is passed over a heated brown powdered solid and then through a cooled U-tube before the excess of hydrogen is burned in air.\n\n[DIAGRAM – APPARATUS]\nA horizontal tube setup: dry hydrogen gas enters from the left, passes over a heated brown powder in the middle section, exits through a U-tube cooled by ice, and excess hydrogen burns at the right end. A colourless liquid is shown collecting in the U-tube.\nRecommended rendering tool: image generator.\n\nA colourless liquid collects in the U-tube. What could the brown powdered solid be?\n\nA  aluminium oxide\nB  copper(II) oxide\nC  iron(III) oxide\nD  magnesium oxide",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "19",
+      "page": 9,
+      "text": "Equal masses of different metals 1 to 4 are placed in test tubes containing an equal volume of hydrochloric acid of equal concentration. The thermometers show the maximum temperature recorded for the reaction (room temperature is 25 °C).\n\n[DIAGRAM – FOUR TEST TUBES WITH THERMOMETERS]\nFour test tubes labelled metal 1–4, each with a thermometer showing maximum temperature.\nMetal 1: 85 °C, lots of bubbles after a while.\nMetal 2: 27 °C, very few bubbles.\nMetal 3: 65 °C, steady production of bubbles.\nMetal 4: 35 °C, tiny bubbles on metal surface.\nRecommended rendering tool: image generator.\n\nWhich statements are most likely to be true?\n\nI   Metal 3 will displace metals 2 and 4 from their aqueous salt solutions.\nII  Metal 2 can likely be extracted by chemical reduction of its oxide by carbon.\nIII Metal 1 is likely to be obtained by electrolysing its molten chloride.\n\nA  I and II only\nB  I and III only\nC  II and III only\nD  I, II and III",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "21",
+      "page": 10,
+      "text": "Hydrogen peroxide reacts with potassium iodide in the presence of dilute acid to produce iodine molecules as shown in the equation below.\n\nH2O2 (aq) + 2I⁻ (aq) + 2H⁺ (aq) → I2 (aq) + 2H2O (l)\n\nWhich factor would NOT affect the rate of this reaction?\n\nA  Concentration of hydrogen peroxide\nB  Concentration of potassium iodide\nC  Pressure of the reacting vessel\nD  Temperature of the reacting vessel and its surroundings",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "22",
+      "page": 11,
+      "text": "In the graph shown, curve 1 was obtained by the decomposition of 100 cm³ of 1.0 mol/dm³ hydrogen peroxide solution with manganese(IV) oxide as the catalyst.\n\n2H2O2 → 2H2O + O2\n\n[DIAGRAM – LINE GRAPH]\nLine graph with x-axis 'time' and y-axis 'volume of oxygen formed'.\nCurve 1 rises steeply then levels off at a certain plateau.\nCurve 2 (to be identified) rises more steeply to a higher plateau than curve 1.\nRecommended rendering tool: image generator.\n\nWhich change to the original experimental conditions would produce curve 2?\n\nA  adding some 0.1 mol/dm³ hydrogen peroxide solution\nB  lowering the temperature\nC  using a different catalyst\nD  using less manganese(IV) oxide",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "24",
+      "page": 12,
+      "text": "During an electrolysis, X⁺ and Y⁻ ions are selectively discharged as shown in the equations below.\n\nCathode: 2X⁺ + 2e⁻ → X2\nAnode:   2Y⁻ → Y2 + 2e⁻\n\nWhat can the electrolyte be?\n\nA  aqueous magnesium chloride\nB  aqueous sodium sulfate\nC  concentrated magnesium chloride\nD  molten potassium chloride",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "25",
+      "page": 12,
+      "text": "In which electrolysis experiment would there be no change in the concentration of the solution?\n\n  electrodes        electrolyte\nA  carbon           aqueous copper(II) sulfate\nB  copper           aqueous copper(II) sulfate\nC  carbon           concentrated potassium chloride\nD  platinum         dilute sulfuric acid",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "26",
+      "page": 12,
+      "text": "Methane reacts very slowly with air at room temperature. However, if a transition metal T is added to the methane-air mixture, the methane ignites quickly.\n\nA student made some statements about the observation.\n\nI    Addition of T reduces the activation energy.\nII   Addition of T increases the enthalpy change.\nIII  Addition of T increases the rate of reaction.\nIV  Addition of T reduces the energy of the reactants.\n\nWhich statements are correct?\n\nA  I and II only\nB  I and III only\nC  II and III only\nD  All of the above",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "27",
+      "page": 13,
+      "text": "The positions of the elements W, X, Y and Z are shown in part of the periodic table.\n\n[DIAGRAM – PERIODIC TABLE EXCERPT]\nA partial periodic table grid showing positions of W (Group 1, Period 3), X (Group 2, Period 4), Y (Group 17, Period 4), and Z (Group 18, Period 3). One unlabelled element is shown at top centre (transition metal area).\nRecommended rendering tool: image generator.\n\nWhich statement is NOT correct?\n\nA  All the elements are reactive except for element Z.\nB  Element W and element Y can form ionic bonds.\nC  Element X will react with element Z in the ratio 1:2.\nD  Element Y and element Z will form a compound by sharing electrons.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "28",
+      "page": 13,
+      "text": "Which statement is NOT true when chlorine gas is bubbled into potassium iodide solution?\n\nA  Chlorine is more reactive than iodine and hence displaces iodine from potassium iodide solution.\nB  Potassium iodide is the reducing agent.\nC  The ionic equation for the reaction is Cl2(g) + 2I⁻(aq) → 2Cl⁻(aq) + I2(aq)\nD  The solution turns from brown to colourless.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "29",
+      "page": 13,
+      "text": "Bioethanol can be obtained from the fermentation of the sugar in sugarcane. Which statement best explains why burning of bioethanol is considered more environmentally sustainable compared to the use of fossil fuels?\n\nA  As sugarcane grows, it absorbs carbon dioxide produced during photosynthesis.\nB  Carbon dioxide and water are formed during burning of bioethanol.\nC  Sugarcane plants can be regrown and replaced within a short period of time.\nD  Sugarcane plants need to be planted and transported for treatment.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "30",
+      "page": 14,
+      "text": "Figure below shows the fractional distillation of petroleum.\n\n[DIAGRAM – DISTILLATION COLUMN]\nA schematic fractionating column: crude oil enters in the middle-lower section. Fraction X exits from a pipe near the top of the column. Fraction Y exits from a pipe near the bottom of the column.\nRecommended rendering tool: image generator.\n\nWhich statement best describes the fractions at X and Y?\n\nA  The molecules in fraction X contain more carbon atoms than the molecules in fraction Y.\nB  The molecules in fraction X are more flammable than the molecules in fraction Y.\nC  The molecules in fraction X are larger than the molecules in fraction Y.\nD  The molecules in fraction X have higher boiling points than the molecules in fraction Y.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    }
+  ]
+}
