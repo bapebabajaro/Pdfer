@@ -1,0 +1,49 @@
+UPPGIFT: metaller_icke_metaller_egenskaper_jamforelse
+Källa: 2018_Stage7_Paper2 :: fråga 14
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.1 Periodiska systemet
+Sidreferenser: s. 194–205 (metaller och icke-metaller, egenskaper,
+               ledningsförmåga, glans, duktilitet, smältpunkter)
+Typ: Öppen fråga (kortsvars)
+Poäng: 2
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Metaller har ofta höga smält- och kokpunkter, medan icke-metaller
+ofta har låga smält- och kokpunkter.
+
+Ange ytterligare två skillnader mellan metaller och icke-metaller.
+
+1. ...................................................................................
+   ...................................................................................
+
+2. ...................................................................................
+   ...................................................................................                                                                          [2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+Möjliga Stella-godkända svar (välj två):
+- "Metaller leder elektrisk ström; icke-metaller gör det
+  (som regel) inte" (s. 194–205)
+- "Metaller leder värme bra; icke-metaller är dåliga
+  värmeledare" (s. 194–205)
+- "Metaller har metallglans; icke-metaller saknar glans" (s. 194–205)
+- "Metaller är duktila (formbara); icke-metaller är spröda" (s. 194–205)
+- "Metaller är täta (hög densitet); icke-metaller har ofta
+  lägre densitet" (s. 194–205)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "metals" → "metaller", "non-metals" → "icke-metaller"
+- Originalfrågan är direkt Stella-kompatibel utan ytterligare ändringar
