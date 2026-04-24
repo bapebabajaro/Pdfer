@@ -1,0 +1,83 @@
+UPPGIFT: luft_kvave_syre_koldioxid_forening_definition
+Källa: 2011_Stage8_Paper2 :: fråga 9
+Stella Kemi kapitel: Kap 4 — Atomens uppbyggnad
+Stella Kemi delkapitel: 4.3 Grundämnen, föreningar och blandningar
+Sidreferenser: s. 166–193 (grundämne, förening, blandning;
+               luftens sammansättning: N₂, O₂, CO₂)
+               s. 37–44 (kemisk formel, blandning vs förening)
+Typ: Öppen fråga med cirkeldiagram (delfrågor a–b)
+Poäng: 5
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Luft består av en blandning av olika ämnen.
+
+Fatima mäter mängden ämnen i luften en dag.
+
+[DIAGRAM – CIRKELDIAGRAM]
+Python/matplotlib cirkeldiagram. 500×400px.
+
+Sektioner:
+  "kväve" — stor sektion (~78%)
+  "syre"  — mellanstor sektion (~21%)
+  "koldioxid" — liten sektion (~0,04%)
+
+Etiketter direkt på sektorerna, eller med legend.
+Rubrik: "Luftens sammansättning"
+[SLUT DIAGRAM]
+
+(a) (i) Vilket ämne finns det mest av?
+        .......................................................................................[1]
+
+    (ii) Ringa in ett ämne i cirkeldiagrammet som är en förening.
+
+         koldioxid   kväve   syre                                   [1]
+
+    (iii) Förklara hur du kan avgöra att det är en förening.
+          .......................................................................................[1]
+
+(b) Koppar reagerar med syre.
+
+    Kryssa i rutan bredvid den rätta kvationen för denna reaktion.
+
+    [ ] koppar + syre → kopparoxid
+    [ ] koppar + syre → kopparkarbonat
+    [ ] koppar + syre → kopparsulfat
+    [ ] koppar + syre → kopparklorid                               [1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+matplotlib cirkeldiagram. Filnamn: diagram_1.png
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "blandning": ämnen blandade men inte kemiskt bundna (s. 166–193)
+- "förening": ämnen kemiskt bundna i fast proportion (s. 166–193)
+- "grundämne": ett enda slags atomer (s. 166–193)
+- "koldioxid" (CO₂): förening av kol och syre (s. 166–193)
+- "kopparoxid": produkt av koppar + syre (s. 37–44)
+
+Rätt svar:
+  (a)(i) kväve
+  (a)(ii) koldioxid (CO₂ = förening av C och O)
+  (a)(iii) Koldioxid är en förening eftersom den innehåller
+           mer än en slags atomer (kol och syre) kemiskt bundna
+  (b) koppar + syre → kopparoxid ✓
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Fatima" behålls
+- "nitrogen / oxygen / carbon dioxide" →
+  "kväve / syre / koldioxid"
+- "compound" → "förening"
+- "element" → "grundämne"
+- "mixture" → "blandning"
+- "copper / oxygen → copper oxide / carbonate / sulfate / chloride"
+  → svenska
