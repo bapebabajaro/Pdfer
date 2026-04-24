@@ -1,0 +1,95 @@
+UPPGIFT: halogener_klorgruppen_smaltpunkter_elektronstruktur
+Källa: 2011_Stage9_Paper1 :: fråga 1
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.2 Halogenerna (grupp 7)
+Sidreferenser: s. 194–220 (halogener, grupp 7: fluor, klor, brom,
+               jod; smält-/kokpunkter, aggregationstillstånd,
+               elektronstruktur)
+               s. 142–165 (elektronskal, elektronstruktur)
+Typ: Tabell + förutsägelse + elektrondiagram
+Poäng: 8
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Tabellen visar information om fyra grundämnen.
+
+Dessa fyra grundämnen finns i samma grupp i periodiska systemet.
+De är listade i den ordning de förekommer i periodiska systemet.
+
+[DIAGRAM – TABELL (halogener)]
+SVG-tabell, 650px bred. Rubrikrad grå.
+5 kolumner: "grundämne" | "smältpunkt i °C" | "kokpunkt i °C" |
+            "aggregationstillstånd vid rumstemperatur" | "atomstorlek (jämförelse)"
+
+Rad 2: fluor    | [TOM]  | -188 | gas    | [TOM]
+Rad 3: klor     | -102   | -34  | [TOM]  | [TOM]
+Rad 4: brom     | -7     | [TOM]| flytande | [TOM]
+Rad 5: jod      | 114    | 184  | fast ämne | [TOM]
+
+Tomma celler markeras med streckad ram.
+[SLUT DIAGRAM]
+
+(a) Det finns en trend i smält- och kokpunkterna för dessa
+    grundämnen.
+
+    Använd trenden för att förutsäga:
+
+    (i) Smältpunkten för fluor: .............. °C               [1]
+
+    (ii) Kokpunkten för brom: .............. °C                 [1]
+
+(b) (i) Rumstemperatur är ungefär 20 °C.
+
+        Förutsäg klorens aggregationstillstånd vid rumstemperatur.
+        .......................................................................................[1]
+
+    (ii) Titta på dessa tal: 133   99   114   64
+
+         Talen representerar atomstorlekarna.
+         Ju större tal, desto större atom.
+
+         Använd dessa fyra tal för att fylla i kolumnen
+         "atomstorlek (jämförelse)" i tabellen.               [1]
+
+(c) Fluor har två elektronskal med elektronstrukturen 2.7
+
+    Klor har elektronstrukturen 2.8.7
+
+    Rita elektronstrukturen för klor i rutan.                 [3]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-tabell (halogener, delvis tom). Filnamn: diagram_1.svg
+2. SVG-tom ruta för elektronstruktur (klor). Filnamn: diagram_2.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "halogen": grundämnen i grupp 7 (F, Cl, Br, I) (s. 194–220)
+- "elektronstruktur" / "elektronskal" (s. 142–165)
+- "smältpunkt" / "kokpunkt" (s. 60–67)
+- "aggregationstillstånd" (s. 60–67)
+- "trend": mönster i periodiska systemet (s. 194–220)
+
+Rätt svar:
+  (a)(i) Fluors smältpunkt ≈ -220 °C (trenden: smältpunkt ökar
+         nedåt i gruppen: -102→-7→114, extrapolera uppåt)
+  (a)(ii) Broms kokpunkt ≈ 59 °C (interpolera: -34 och 184)
+  (b)(i) klor = gas (kokpunkt -34°C < 20°C)
+  (b)(ii) fluor=64, klor=99, brom=114, jod=133 (ökande nedåt)
+  (c) Klor 2.8.7: innersta skal 2, andra 8, yttersta 7 elektroner
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "fluorine/chlorine/bromine/iodine" →
+  "fluor/klor/brom/jod"
+- "melting point / boiling point / state at room temperature /
+  size of atom" → svenska
+- "electronic structure" → "elektronstruktur"
+- "electron shells" → "elektronskal"
