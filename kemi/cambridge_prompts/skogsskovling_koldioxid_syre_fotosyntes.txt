@@ -1,0 +1,65 @@
+UPPGIFT: skogsskovling_koldioxid_syre_fotosyntes
+Källa: 2018_Stage9_Paper1 :: fråga 10
+Stella Kemi kapitel: Kap 3 — Kolets kretslopp och organisk kemi
+Stella Kemi delkapitel: 3.1 Fotosyntes och cellandning
+Sidreferenser: s. 98–109 (fotosyntes, koldioxid, syre, kolets kretslopp)
+               s. 98–104 (fotosyntes ordkvation)
+Typ: Öppen fråga (delfrågor a–b)
+Poäng: 4
+Stella solvable: true
+Modifiering: minor (skogsskovling som kontext)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+En ny väg byggs genom en skog.
+Många träd måste tas bort.
+
+(a) Att ta bort träd förändrar mängden av vissa gaser i atmosfären.
+
+    (i) Fyll i meningen.
+
+        När träd tas bort ökar/minskar mängden koldioxid ....................................................
+        och mängden syre ....................................................                        [1]
+
+    (ii) Förklara ditt svar.
+         .......................................................................................
+         .......................................................................................[1]
+
+(b) Djurpopulationerna minskar när träden tas bort.
+
+    Ge två orsaker till detta.
+
+    1  ......................................................................................................................................
+    2  ......................................................................................................................................[2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "fotosyntes": koldioxid + vatten → glukos + syre (s. 98–104)
+- "koldioxid" / "syre" (s. 98–109)
+- "kolets kretslopp": träd tar upp CO₂ via fotosyntes (s. 98–109)
+
+Rätt svar:
+  (a)(i) koldioxid ökar, syre minskar
+  (a)(ii) Träd tar upp koldioxid via fotosyntes och producerar syre.
+         Utan träd sker inte fotosyntes i lika stor utsträckning.
+  (b) 1. Träden är livsmiljö (habitat) för djuren
+       2. Träden utgör föda för djuren (t.ex. löv, frukter)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "A new road is built through a forest" → "En ny väg byggs
+  genom en skog"
+- "Removing trees changes the amounts of some gases" →
+  "Att ta bort träd förändrar mängden av vissa gaser"
+- Frågan är naturvetenskap (kemi + biologi) — Stella behandlar
+  fotosyntes/koldioxid i Kap 3; djurpopulationer är biologi
+  men kopplingen via fotosyntes är central
