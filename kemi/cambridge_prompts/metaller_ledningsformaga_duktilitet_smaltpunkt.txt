@@ -1,0 +1,78 @@
+UPPGIFT: metaller_ledningsformaga_duktilitet_smaltpunkt
+Källa: 2018_Stage8_Paper1 :: fråga 4
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.1 Periodiska systemet
+Sidreferenser: s. 194–205 (metallers egenskaper: elektrisk
+               ledningsförmåga, duktilitet, smältpunkt)
+               s. 10–17 (elektrisk krets som laborationsutrustning)
+Typ: Öppen fråga + kryssfråga
+Poäng: 4
+Stella solvable: true
+Modifiering: minor (namn ändrat)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Gabriella har fem olika material.
+
+Hon använder ett elektriskt kopplingsschema för att ta reda på
+vilka av materialen som är metaller.
+
+[DIAGRAM – APPARATURSKISS]
+Enkel elektrisk krets i serie. SVG, 560px bred, alla etiketter
+på svenska:
+
+Komponenter (ritas medsols som en rektangulär slinga):
+  • Batteri (top-vänster): tvåstrecks-symbol (lång + tunn linje),
+    etikett "batteri"
+  • Glödlampa (top-höger): cirkel med ett kryss inuti, etikett "lampa"
+  • Strömbrytare (bottom-höger): öppen vinkel (horisontell linje +
+    diagonal linje), etikett "strömbrytare"
+  • Klämma 1 (bottom-mitten): rektangel med tandning, etikett "klämma"
+  • GAP (testyta): pil ned med text "testmaterial placeras här"
+  • Klämma 2 (bottom-vänster): rektangel med tandning, etikett "klämma"
+  • Ledare (linjer): kopplar samman alla komponenter
+
+Stil: enkel svart linjeskiss på vit bakgrund, inga färger.
+[SLUT DIAGRAM]
+
+(a) Beskriv hur Gabriella använder utrustningen för att avgöra om
+    ett material är en metall.
+
+    Vad gör hon?
+    ....................................................................................[1]
+
+    Vad ser hon om materialet är en metall?
+    ....................................................................................[1]
+
+(b) Kryssa i två andra egenskaper som de flesta metaller har.
+
+    [ ] spröd
+    [ ] duktil (formbar/töjbar)
+    [ ] dålig värmeledare
+    [ ] hög smältpunkt
+    [ ] låg kokpunkt                                               [2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-kopplingsschema enligt DIAGRAM-blocket. Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "elektrisk ledningsförmåga": metaller leder el → lampan lyser (s. 194–205)
+- "duktil": kan dras ut till trådar / hamras till tunna plattor (s. 194–205)
+- "hög smältpunkt": metaller har generellt höga smältpunkter (s. 194–205)
+- "spröd": icke-metallers egenskap (s. 194–205)
+- Rätta svar (b): duktil + hög smältpunkt
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "brittle" → "spröd"
+- "ductile" → "duktil (formbar/töjbar)"
+- "heat insulators" → "dålig värmeledare"
+- "high melting point" → "hög smältpunkt"
+- "low boiling point" → "låg kokpunkt"
