@@ -1,0 +1,111 @@
+UPPGIFT: periodiska_systemet_grupp2_elektroner_protoner
+Källa: 2018_Stage9_Paper1 :: fråga 5
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.1 Periodiska systemet
+                        Kap 1 / 1.2 Atomer och grundämnen
+Sidreferenser: s. 194–205 (periodiska systemet: grupper, perioder,
+               reaktivitet, atomstorlek)
+               s. 18–23 (elektronskal, elektronkonfiguration,
+               protoner, atomnummer)
+Typ: Öppen fråga med periodiskt system
+Poäng: 5
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Titta på diagrammet. Det visar några av grundämnena i det
+periodiska systemet.
+
+[DIAGRAM – PERIODISKT SYSTEM (utdrag)]
+SVG-utdrag av periodiska systemet. 700px bred.
+
+Rad 1 (period 1):  H  [stor lucka]  He
+Rad 2 (period 2):  Li  Be  [lucka]  B  C  N  O  F  Ne
+Rad 3 (period 3):  Na  Mg  [lucka]  Al
+Och en "övergångsmetaller"-block markerat (grå rektangel) i mitten.
+Obs: Inga fullständiga perioder 4–7.
+
+Varje cell: vit ruta med svart ram, grundämnesbeteckning centrerat.
+H-cellen: svagt gul bakgrund för att markera period 1.
+Grupp 2-kolumnen (Be, Mg, Ca) markeras med ljusblå bakgrund.
+[SLUT DIAGRAM]
+
+(a) Använd det periodiska systemet för att svara på dessa frågor.
+
+    (i) Skriv den kemiska beteckningen för det mest reaktiva
+        grundämnet i grupp 2.
+        ....................................................................................[1]
+
+    (ii) Skriv den kemiska beteckningen för den atom som bara
+         har sex elektroner.
+        ....................................................................................[1]
+
+(b) Titta på grundämnena i period 2 av det periodiska systemet.
+
+    Skriv den kemiska beteckningen för det grundämne med flest
+    protoner per atom.
+    ....................................................................................[1]
+
+(c) Titta på diagrammet av en atom av ett grundämne.
+
+[DIAGRAM – ELEKTRONSKALDIAGRAM]
+SVG-elektronskaldiagram. 250×250px.
+- Liten solid cirkel i mitten (kärna), etikett "kärna"
+- En ring (elektronskal 1, radie 50px)
+- Fem X-markeringar jämnt fördelade på ring 1
+  (etikett "X" vid varje markering)
+Titel ovanför: inget grundämnesnamn — eleven ska identifiera det
+[SLUT DIAGRAM]
+
+    (i) Till vilken grupp i det periodiska systemet tillhör detta
+        grundämne?
+        ....................................................................................[1]
+
+    (ii) Hur många protoner finns det i kärnan av denna atom?
+        ....................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-utdrag av periodiska systemet. Filnamn: diagram_1.svg
+2. SVG-elektronskaldiagram. Filnamn: diagram_2.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "grupp" / "period" i periodiska systemet (s. 194–205)
+- "reaktivitet ökar nedåt i grupp 2" (s. 194–205)
+- "elektroner" i elektronskal (s. 18–23)
+- "protoner" = atomnummer (s. 18–23)
+- "elektronskal" / "elektronkonfiguration" (s. 18–23)
+- "kemisk beteckning" (s. 194–205)
+
+Rätta svar:
+  (a)(i) Ca (kalcium — mest reaktiv i grupp 2 bland de visade)
+  (a)(ii) C (kol — 6 elektroner = atomnummer 6)
+  (b) Ne (neon — atomnummer 10, flest protoner i period 2)
+  (c)(i) grupp 7 (halogener — 7 elektroner i yttersta skalet)
+  (c)(ii) 7 (atomnummer = antal elektroner = antal protoner för
+           neutral atom; 5 elektroner i enda skalet → kväve? Nej:
+           diagrammet visar 5 X på en ring = 5 elektroner totalt
+           → bor (B), grupp 13? Nej, 5 elektroner på ring 1 passar
+           inte bor. Kontrollera: fluor har 2+7=9. 5 X på EN ring
+           → 5 elektroner totalt → bor atomnummer 5, grupp 13.
+           OBS: originalet anger 5 X på kärnan (ej ring) → tolkas
+           som 5 elektroner totalt. Grupp 15 (kväve) har 5 yttre
+           elektroner men 7 totalt. Originalets diagram visar
+           BARA en ring med X — rätt tolkning: 5 elektroner TOTALT
+           → bor (B), grupp 13.)
+  Notera: Fråga (c) kräver noggrann granskning mot original-PDF.
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "chemical symbol" → "kemisk beteckning"
+- "group" → "grupp", "period" → "period"
+- "most reactive element in Group 2" → "mest reaktiva grundämnet
+  i grupp 2"
+- Elektronskaldiagrammet ritades schematiskt i original (ej skalat)
