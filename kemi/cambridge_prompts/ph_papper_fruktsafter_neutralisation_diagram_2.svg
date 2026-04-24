@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="430" viewBox="0 0 860 430">
+  <defs>
+    <style>
+      .title { font: 700 28px Georgia, 'Times New Roman', serif; fill: #132238; }
+      .head { font: 700 18px Arial, Helvetica, sans-serif; fill: #173149; }
+      .cell { font: 400 18px Arial, Helvetica, sans-serif; fill: #243648; }
+    </style>
+  </defs>
+  <rect width="860" height="430" fill="#f6f8fb"/>
+  <rect x="24" y="24" width="812" height="382" rx="24" fill="#ffffff" stroke="#d8e0ea" stroke-width="2"/>
+  <text x="430" y="68" text-anchor="middle" class="title">Maryams resultat</text>
+
+  <g transform="translate(120 118)">
+    <rect x="0" y="0" width="260" height="56" rx="14" fill="#dfe8f3" stroke="#c1cfdf"/>
+    <rect x="260" y="0" width="360" height="56" rx="14" fill="#e9f1f8" stroke="#c9d8e7"/>
+    <g fill="#ffffff" stroke="#d6dee8">
+      <rect x="0" y="56" width="260" height="44"/>
+      <rect x="260" y="56" width="360" height="44"/>
+      <rect x="0" y="100" width="260" height="44"/>
+      <rect x="260" y="100" width="360" height="44"/>
+      <rect x="0" y="144" width="260" height="44"/>
+      <rect x="260" y="144" width="360" height="44"/>
+      <rect x="0" y="188" width="260" height="44"/>
+      <rect x="260" y="188" width="360" height="44"/>
+      <rect x="0" y="232" width="260" height="44"/>
+      <rect x="260" y="232" width="360" height="44"/>
+    </g>
+    <text x="130" y="34" text-anchor="middle" class="head">fruktsaft</text>
+    <text x="440" y="34" text-anchor="middle" class="head">pH-papperets färg</text>
+
+    <g class="cell">
+      <text x="130" y="84" text-anchor="middle">ananas</text>
+      <rect x="340" y="67" width="48" height="20" rx="10" fill="#ef8d2f"/><rect x="396" y="67" width="48" height="20" rx="10" fill="#f1d54d"/><text x="470" y="84">orange/gul</text>
+
+      <text x="130" y="128" text-anchor="middle">mango</text>
+      <rect x="340" y="111" width="48" height="20" rx="10" fill="#45aa53"/><text x="470" y="128">grön</text>
+
+      <text x="130" y="172" text-anchor="middle">tomat</text>
+      <rect x="340" y="155" width="48" height="20" rx="10" fill="#f1d54d"/><rect x="396" y="155" width="48" height="20" rx="10" fill="#7fc063"/><text x="470" y="172">gul/grön</text>
+
+      <text x="130" y="216" text-anchor="middle">citron</text>
+      <rect x="340" y="199" width="48" height="20" rx="10" fill="#d12c2c"/><text x="470" y="216">röd</text>
+
+      <text x="130" y="260" text-anchor="middle">apelsin</text>
+      <rect x="340" y="243" width="48" height="20" rx="10" fill="#ef8d2f"/><rect x="396" y="243" width="48" height="20" rx="10" fill="#d84a36"/><text x="470" y="260">orange/röd</text>
+    </g>
+  </g>
+</svg>

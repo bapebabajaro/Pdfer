@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="520" viewBox="0 0 860 520">
+  <defs>
+    <style>
+      .title { font: 700 28px Georgia, 'Times New Roman', serif; fill: #132238; }
+      .head { font: 700 18px Arial, Helvetica, sans-serif; fill: #173149; }
+      .cell { font: 400 18px Arial, Helvetica, sans-serif; fill: #243648; }
+    </style>
+  </defs>
+  <rect width="860" height="520" fill="#f6f8fb"/>
+  <rect x="24" y="24" width="812" height="472" rx="24" fill="#ffffff" stroke="#d8e0ea" stroke-width="2"/>
+  <text x="430" y="68" text-anchor="middle" class="title">pH-papperets färger</text>
+
+  <g transform="translate(110 118)">
+    <rect x="0" y="0" width="320" height="56" rx="14" fill="#dfe8f3" stroke="#c1cfdf"/>
+    <rect x="320" y="0" width="320" height="56" rx="14" fill="#e9f1f8" stroke="#c9d8e7"/>
+    <g fill="#ffffff" stroke="#d6dee8">
+      <rect x="0" y="56" width="320" height="44"/>
+      <rect x="320" y="56" width="320" height="44"/>
+      <rect x="0" y="100" width="320" height="44"/>
+      <rect x="320" y="100" width="320" height="44"/>
+      <rect x="0" y="144" width="320" height="44"/>
+      <rect x="320" y="144" width="320" height="44"/>
+      <rect x="0" y="188" width="320" height="44"/>
+      <rect x="320" y="188" width="320" height="44"/>
+      <rect x="0" y="232" width="320" height="44"/>
+      <rect x="320" y="232" width="320" height="44"/>
+      <rect x="0" y="276" width="320" height="44"/>
+      <rect x="320" y="276" width="320" height="44"/>
+      <rect x="0" y="320" width="320" height="44"/>
+      <rect x="320" y="320" width="320" height="44"/>
+    </g>
+    <text x="160" y="34" text-anchor="middle" class="head">typ av lösning</text>
+    <text x="480" y="34" text-anchor="middle" class="head">pH-papperets färg</text>
+
+    <g class="cell">
+      <text x="160" y="84" text-anchor="middle">(mest) sura</text>
+      <rect x="442" y="67" width="76" height="20" rx="10" fill="#d12c2c"/><text x="530" y="84">röd</text>
+
+      <rect x="442" y="111" width="76" height="20" rx="10" fill="#ef8d2f"/><text x="530" y="128">orange</text>
+
+      <text x="160" y="172" text-anchor="middle">(minst sura)</text>
+      <rect x="442" y="155" width="76" height="20" rx="10" fill="#f1d54d"/><text x="530" y="172">gul</text>
+
+      <text x="160" y="216" text-anchor="middle">neutral</text>
+      <rect x="442" y="199" width="76" height="20" rx="10" fill="#45aa53"/><text x="530" y="216">grön</text>
+
+      <text x="160" y="260" text-anchor="middle">(minst basiska)</text>
+      <rect x="442" y="243" width="76" height="20" rx="10" fill="#3f7de0"/><text x="530" y="260">blå</text>
+
+      <rect x="442" y="287" width="76" height="20" rx="10" fill="#2147a6"/><text x="530" y="304">mörkblå</text>
+
+      <text x="160" y="348" text-anchor="middle">(mest basiska)</text>
+      <rect x="442" y="331" width="76" height="20" rx="10" fill="#7e46b6"/><text x="530" y="348">lila</text>
+    </g>
+  </g>
+</svg>

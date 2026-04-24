@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="390" viewBox="0 0 820 390">
+  <defs>
+    <style>
+      .title { font: 700 28px Georgia, 'Times New Roman', serif; fill: #132238; }
+      .head { font: 700 18px Arial, Helvetica, sans-serif; fill: #173149; }
+      .cell { font: 400 19px Arial, Helvetica, sans-serif; fill: #243648; }
+    </style>
+  </defs>
+  <rect width="820" height="390" fill="#f6f8fb"/>
+  <rect x="24" y="24" width="772" height="342" rx="24" fill="#ffffff" stroke="#d8e0ea" stroke-width="2"/>
+  <text x="410" y="68" text-anchor="middle" class="title">Resultattabell</text>
+
+  <g transform="translate(100 120)">
+    <rect x="0" y="0" width="290" height="56" rx="14" fill="#dfe8f3" stroke="#c1cfdf"/>
+    <rect x="290" y="0" width="330" height="56" rx="14" fill="#e9f1f8" stroke="#c9d8e7"/>
+    <g fill="#ffffff" stroke="#d6dee8">
+      <rect x="0" y="56" width="290" height="44"/>
+      <rect x="290" y="56" width="330" height="44"/>
+      <rect x="0" y="100" width="290" height="44"/>
+      <rect x="290" y="100" width="330" height="44"/>
+      <rect x="0" y="144" width="290" height="44"/>
+      <rect x="290" y="144" width="330" height="44"/>
+      <rect x="0" y="188" width="290" height="44"/>
+      <rect x="290" y="188" width="330" height="44"/>
+      <rect x="0" y="232" width="290" height="44"/>
+      <rect x="290" y="232" width="330" height="44"/>
+    </g>
+    <text x="145" y="34" text-anchor="middle" class="head">relativ koncentration av syra</text>
+    <text x="455" y="34" text-anchor="middle" class="head">insamlad gasvolym i cm³</text>
+    <g class="cell" text-anchor="middle">
+      <text x="145" y="84">1</text><text x="455" y="84">5</text>
+      <text x="145" y="128">2</text><text x="455" y="128">12</text>
+      <text x="145" y="172">3</text><text x="455" y="172">29</text>
+      <text x="145" y="216">4</text><text x="455" y="216">25</text>
+      <text x="145" y="260">5</text><text x="455" y="260">27</text>
+    </g>
+  </g>
+</svg>
