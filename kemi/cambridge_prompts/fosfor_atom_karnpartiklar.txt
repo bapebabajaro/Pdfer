@@ -1,0 +1,71 @@
+UPPGIFT: fosfor_atom_karnpartiklar
+Källa: 2018_Stage9_Paper2 :: fråga 15
+Stella Kemi kapitel: Kap 4 — Atomens uppbyggnad
+Stella Kemi delkapitel: 4.1 Atomens uppbyggnad
+Sidreferenser: s. 142–165 (elektron, proton, neutron, kärna,
+               elektronskal, atombeteckning)
+Typ: Kortsvars (delfrågor a–b)
+Poäng: 2
+Stella solvable: true
+Modifiering: minor (diagrambeskrivning rekonstruerad)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Diagrammet visar en atom av fosfor.
+
+[DIAGRAM – ATOMMODELL]
+SVG, 400×400px. Vit bakgrund.
+
+Innehåll:
+  • Tre koncentriska cirklar (elektronskal) runt en
+    central kärna.
+    Skal 1 (innerst): 2 stycken "X"-märkta elektroner
+    Skal 2 (mitten): 8 stycken "X"-märkta elektroner
+    Skal 3 (ytterst): 5 stycken "X"-märkta elektroner
+  • Central kärna: grå cirkel märkt "kärna"
+  • "X" representerar en elektron
+  • Etikett "partikel X" med pil till kärnan
+
+Stil: Svart linjeskiss på vit bakgrund. SVG 400×400px.
+[SLUT DIAGRAM]
+
+(a) Vad heter partikel X?
+    ......................................................................................................................................[1]
+
+(b) Hur många partiklar finns det i kärnan hos denna fosforatom?
+    ......................................................................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-atommodell (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "kärna": atomens centrum, innehåller protoner och neutroner
+  (s. 142–165)
+- "proton": positivt laddad partikel i kärnan (s. 142–165)
+- "neutron": oladdad partikel i kärnan (s. 142–165)
+- "elektron": negativt laddad partikel i elektronskal (s. 142–165)
+- Fosfor (P): atomnummer 15 (15 protoner), masstal 31
+  → 31 − 15 = 16 neutroner → 15 + 16 = 31 kärnpartiklar
+
+Rätt svar:
+  (a) Partikel X = proton (kärnan innehåller protoner och neutroner;
+      "partikel X" pekar på kärnan)
+  (b) 31 (15 protoner + 16 neutroner)
+
+Obs: Originalfrågan visar ett diagram av fosfors atom med
+pilen till kärnan märkt "particle X". Kärnan innehåller
+protoner + neutroner = 31 partiklar totalt.
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "particle X" → "partikel X"
+- "number of particles in the nucleus" →
+  "hur många partiklar finns det i kärnan"
+- Elektronstrukturen 2.8.5 representeras i SVG-diagrammet
