@@ -1,0 +1,101 @@
+UPPGIFT: aggregationstillstand_partikeldiagram_tabellkomplettering
+Källa: 2011_Stage8_Paper2 :: fråga 3
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.1 Vattens egenskaper
+Sidreferenser: s. 60–67 (aggregationstillstånd, partikelmodell,
+               komprimerbarhet, flöde, form, volym)
+Typ: Tabellkomplettering + partikeldiagram
+Poäng: 6
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+(a) De tre aggregationstillstånden är fast ämne, flytande ämne
+    och gas.
+
+    Fyll i tabellen för att visa deras egenskaper.
+
+[DIAGRAM – TABELL (aggregationstillstånd)]
+SVG-tabell, 600px bred. Rubrikrad grå (#cccccc).
+5 kolumner: "egenskap" | "fast ämne" | "flytande ämne" | "gas"
+
+Rad 2: form      | fast form | behållarens form | [TOM: fyller hela behållaren]
+Rad 3: volym     | [TOM: fast volym] | fast volym | fyller hela behållaren
+Rad 4: kan flöda?| nej | [TOM: ja] | [TOM: ja]
+Rad 5: komprimerbar? | bara lite | [TOM: bara lite] | [TOM: ja]
+
+Tomma celler markeras med streckad ram.
+[SLUT DIAGRAM]
+                                                                [3]
+
+(b) Partikelmodellen kan användas för att förklara egenskaperna.
+
+    Cirklar representerar partiklarna i ett flytande ämne.
+
+[DIAGRAM – PARTIKELMODELL (vätska referens)]
+SVG, 150×150px. Cirklar i slumpmässigt, tätt mönster (vätska).
+Etikett: "flytande ämne"
+[SLUT DIAGRAM]
+
+    (i) Rita cirklar för att representera partiklarna i ett
+        fast ämne och en gas.
+
+        [fast ämne: ruta 150×150px för ritning]
+        [gas: ruta 150×150px för ritning]
+
+[DIAGRAM – TOMMA PARTIKELDIAGRAM]
+SVG, 350×200px. Två tomma ramar sida vid sida:
+  Vänster: etikett "fast ämne" (eleven ska rita tätt ordnade cirklar)
+  Höger: etikett "gas" (eleven ska rita glest spridda cirklar)
+[SLUT DIAGRAM]
+                                                                [2]
+
+    (ii) Flytande ämnen kan bara komprimeras lite.
+
+         Förklara varför.
+         .......................................................................................[1]
+
+(c) Gaser utövar ett tryck mot behållarens väggar.
+
+    Vad orsakar detta tryck?
+    .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-tabell (aggregationstillstånd, delvis tom). Filnamn: diagram_1.svg
+2. SVG-partikelmodell (referens vätska). Filnamn: diagram_2.svg
+3. SVG-tomma partikeldiagramramar. Filnamn: diagram_3.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "aggregationstillstånd": fast ämne, flytande ämne, gas (s. 60–67)
+- "komprimerbar": kan tryckas ihop (gas kan; vätska nästan inte;
+  fast ämne inte) (s. 60–67)
+- "partikelmodell": cirklar representerar atomer/molekyler (s. 60–67)
+- Fast ämne: tätt, ordnat mönster; vätska: tätt, oordnat;
+  gas: glest, slumpmässigt (s. 60–67)
+- "tryck" i gas: partiklarna kolliderar med väggarna (s. 60–67)
+
+Rätt svar:
+  (a) form: gas fyller hela behållaren
+      volym: fast ämne har fast volym
+      kan flöda: ja (vätska), ja (gas)
+      komprimerbar: bara lite (vätska), ja (gas)
+  (b)(ii) Partiklarna i en vätska är nära varandra och krafterna
+          dem emellan förhindrar komprimering
+  (c) Gaspartiklar rör sig och kolliderar med behållarväggarna
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "solid / liquid / gas" → "fast ämne / flytande ämne / gas"
+- "shape / volume / can it flow? / can it be compressed?" →
+  "form / volym / kan flöda? / komprimerbar?"
+- "fixed shape / same shape as container / fills the entire
+  container" → svenska
+- "particle theory of matter" → "partikelmodellen"
