@@ -1,0 +1,96 @@
+UPPGIFT: aggregationstillstand_fasoverganger_is_smaltning_laboratoriet
+Källa: 2018_Stage7_Paper2 :: fråga 5
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.1 Vattens egenskaper
+Sidreferenser: s. 60–67 (aggregationstillstånd, smältning,
+               temperaturer, partikelmodell)
+               s. 10–17 (termometer som laborationsutrustning)
+Typ: Öppen fråga med laboration
+Poäng: 5
+Stella solvable: true
+Modifiering: minor (namn ändrat)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Olle undersöker fasövergångar.
+
+Han lägger krossad is i ett bägarglas och värmer det försiktigt.
+
+[DIAGRAM – APPARATURSKISS]
+Schematisk laborationsskiss (SVG), alla etiketter på svenska:
+
+Komponenter uppifrån och ned:
+  1. "Apparat X" — en termometer (smal vertikal rektangel med
+     skala, placerad i bägarglaset, märkt med pil och text)
+  2. Bägarglas (transparent rektangel, ca 80×100px) med krossad is
+     (ojämna vita/grå block i botten)
+  3. Trådnät (horisontell linje med diagonalstreck) under bägarglasett
+  4. Trefot (tre sneda ben) under trådnätet
+  5. Spritlykta med låga (triangelform) under trefoten
+  6. Text "VÄRME↑" under lågan
+
+Stil: svart linjeskiss på vit bakgrund, inga färger utom
+grå is-klumpar. SVG 500×400px.
+[SLUT DIAGRAM]
+
+Var 2:e minut registrerar han temperaturen med Apparat X.
+
+(a) Vad heter Apparat X?
+    ...................................................................[1]
+
+(b) Tabellen visar Olles resultat.
+
+[DIAGRAM – TABELL]
+Tabell med 2 kolumner och 7 rader (inkl. rubrik).
+Rubrik: Uppvärmningstid (min) | Temperatur (°C)
+Rad 1: 0  |  0
+Rad 2: 2  |  0
+Rad 3: 4  | 20
+Rad 4: 6  | 40
+Rad 5: 8  | 50
+Rad 6: 10 | 80
+
+Rekommenderat renderingsverktyg: Markdown-tabell eller SVG-tabell.
+[SLUT DIAGRAM]
+
+    (i) Beskriv mönstret i dessa resultat efter de första 2 minuterna.
+        ....................................................................................[1]
+
+    (ii) Vilket resultat avviker från mönstret?
+         Temperatur: .............. °C                             [1]
+
+(c) Fyll i meningarna.
+
+    Under de första 2 minuterna övergår isen från ett
+    ..................................... till ett ...................................... .
+
+    Under de följande 2 minuterna tar partiklarna upp mer
+    ..................................... och rör sig ..................................... . [2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-apparaturskiss (se DIAGRAM-block 1) — filnamn: diagram_1.svg
+2. SVG- eller Markdown-tabell (se DIAGRAM-block 2) — filnamn: diagram_2.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "aggregationstillstånd" (s. 60–67)
+- "smältning": fasövergång fast → flytande (s. 60–67)
+- "krossad is": fast vatten (s. 60–67)
+- "termometer" (s. 10–17)
+- "partiklarna tar upp energi / rör sig snabbare" (s. 60–67)
+- Svar (c): fast ämne → flytande ämne; kinetisk energi / energi; snabbare
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Oliver" → "Olle" (neutralt svenskt namn)
+- "crushed ice" → "krossad is"
+- "apparatus X" → "Apparat X"
+- "which result does not fit" → "vilket resultat avviker från mönstret"
+- Del (c): "changes state from a ... to a ..." → "övergår från ett ...
+  till ett ..." (Stella aggregationstillstånds-språk)
