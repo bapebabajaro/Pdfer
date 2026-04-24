@@ -1,0 +1,86 @@
+UPPGIFT: alkalimetaller_grupp1_litium_natrium_kalium
+Källa: 2018_Stage9_Paper2 :: fråga 3
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.3 Metallers reaktivitet
+Sidreferenser: s. 220–229 (alkalimetaller, grupp 1, reaktivitet,
+               reaktion med vatten, vätgas, hydroxid)
+               s. 194–205 (periodiska systemet, grupper)
+Typ: Öppen fråga med tabell (delfrågor a–c)
+Poäng: 4
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+En lärare visar sina elever reaktionerna hos några metaller med vatten.
+
+Han börjar med att lägga små mängder av metallerna i en skål med vatten.
+
+Tabellen visar de observationer som eleverna gör.
+
+[DIAGRAM – TABELL]
+SVG-tabell, 600px bred. Rubrikrad grå (#cccccc).
+3 kolumner: "metall" | "kemisk symbol" | "observation"
+
+Rad 2: litium  | Li | bubblar långsamt
+Rad 3: natrium | Na | bubblar snabbt
+Rad 4: kalium  | K  | bubblar mycket snabbt och fattar eld
+[SLUT DIAGRAM]
+
+(a) Läraren måste hålla sig själv och sina elever säkra
+    när han utför experimentet.
+
+    Beskriv ett sätt han kan göra detta.
+    ......................................................................................................................................[1]
+
+(b) En gas bildas när dessa metaller reagerar med vatten.
+
+    Vad heter gasen?
+
+    Ringa in rätt svar.
+
+    koldioxid    vätgas    kväve    syre                              [1]
+
+(c) Alla metaller som läraren använder finns i grupp 1
+    i periodiska systemet.
+
+    (i) Vilken av de tre metallerna är mest reaktiv?
+        .......................................................................................[1]
+
+    (ii) Rubidium finns också i grupp 1.
+         Det befinner sig under kalium i periodiska systemet.
+
+         Förutsäg vad som händer när rubidium läggs i vatten.
+        .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-tabell (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "alkalimetaller": grupp 1 i periodiska systemet (s. 220–229)
+- "reaktivitet": ökar nedåt i grupp 1 (s. 220–229)
+- "vätgas": gas som bildas vid reaktion med vatten (s. 220–229)
+- "hydroxid": basisk produkt (litiumhydroxid, natriumhydroxid,
+  kaliumhydroxid) (s. 220–229)
+
+Rätt svar:
+  (b) vätgas
+  (c)(i) kalium
+  (c)(ii) Rubidium reagerar ännu mer våldsamt än kalium;
+          det bubblar extremt snabbt och fattar troligen
+          omedelbart eld
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- Metallnamn: lithium→litium, sodium→natrium, potassium→kalium,
+  rubidium→rubidium
+- "carbon dioxide / hydrogen / nitrogen / oxygen" →
+  "koldioxid / vätgas / kväve / syre"
+- "Group 1 of the Periodic Table" → "grupp 1 i periodiska systemet"
