@@ -1,61 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330">
-  <rect width="760" height="330" fill="#ffffff"/>
-  <g font-family="Arial, Helvetica, sans-serif" fill="#111111" stroke="#444444" stroke-width="1.5">
-    <text x="380" y="34" text-anchor="middle" font-size="24" font-weight="700" stroke="none">Aggregationstillstånd och egenskaper</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+  <defs>
+    <style>
+      .title { font: 700 28px Georgia, 'Times New Roman', serif; fill: #132238; }
+      .subtitle { font: 400 16px Arial, Helvetica, sans-serif; fill: #556476; }
+      .head { font: 700 20px Arial, Helvetica, sans-serif; fill: #132238; }
+      .label { font: 700 18px Arial, Helvetica, sans-serif; fill: #223247; }
+      .cell { font: 400 18px Arial, Helvetica, sans-serif; fill: #263647; }
+      .hint { font: italic 15px Georgia, 'Times New Roman', serif; fill: #6c7a88; }
+    </style>
+  </defs>
 
-    <rect x="50" y="60" width="160" height="50" fill="#cccccc"/>
-    <rect x="210" y="60" width="170" height="50" fill="#cccccc"/>
-    <rect x="380" y="60" width="180" height="50" fill="#cccccc"/>
-    <rect x="560" y="60" width="150" height="50" fill="#cccccc"/>
+  <rect width="980" height="560" fill="#f6f8fb"/>
+  <rect x="28" y="28" width="924" height="504" rx="24" fill="#ffffff" stroke="#d8e0ea" stroke-width="2"/>
 
-    <rect x="50" y="110" width="160" height="44" fill="#ffffff"/>
-    <rect x="210" y="110" width="170" height="44" fill="#ffffff"/>
-    <rect x="380" y="110" width="180" height="44" fill="#ffffff"/>
-    <rect x="560" y="110" width="150" height="44" fill="#ffffff"/>
+  <text x="490" y="78" text-anchor="middle" class="title">Egenskaper hos olika aggregationstillstånd</text>
+  <text x="490" y="108" text-anchor="middle" class="subtitle">Fyll i de markerade rutorna med rätt egenskap.</text>
 
-    <rect x="50" y="154" width="160" height="44" fill="#ffffff"/>
-    <rect x="210" y="154" width="170" height="44" fill="#ffffff"/>
-    <rect x="380" y="154" width="180" height="44" fill="#ffffff"/>
-    <rect x="560" y="154" width="150" height="44" fill="#ffffff"/>
+  <g transform="translate(74 146)">
+    <rect x="0" y="0" width="190" height="72" rx="14" fill="#dfe7f0" stroke="#bcc8d4"/>
+    <rect x="190" y="0" width="210" height="72" rx="14" fill="#d7efe8" stroke="#b4d9cb"/>
+    <rect x="400" y="0" width="240" height="72" rx="14" fill="#e6eef9" stroke="#c7d7ef"/>
+    <rect x="640" y="0" width="192" height="72" rx="14" fill="#f8ead3" stroke="#e8d0a2"/>
 
-    <rect x="50" y="198" width="160" height="44" fill="#ffffff"/>
-    <rect x="210" y="198" width="170" height="44" fill="#ffffff"/>
-    <rect x="380" y="198" width="180" height="44" fill="#ffffff"/>
-    <rect x="560" y="198" width="150" height="44" fill="#ffffff"/>
+    <rect x="0" y="72" width="190" height="72" fill="#f5f7fa" stroke="#d6dee8"/>
+    <rect x="190" y="72" width="210" height="72" fill="#ffffff" stroke="#d6dee8"/>
+    <rect x="400" y="72" width="240" height="72" fill="#ffffff" stroke="#d6dee8"/>
+    <rect x="640" y="72" width="192" height="72" fill="#ffffff" stroke="#d6dee8"/>
 
-    <rect x="50" y="242" width="160" height="44" fill="#ffffff"/>
-    <rect x="210" y="242" width="170" height="44" fill="#ffffff"/>
-    <rect x="380" y="242" width="180" height="44" fill="#ffffff"/>
-    <rect x="560" y="242" width="150" height="44" fill="#ffffff"/>
+    <rect x="0" y="144" width="190" height="72" fill="#f5f7fa" stroke="#d6dee8"/>
+    <rect x="190" y="144" width="210" height="72" fill="#ffffff" stroke="#d6dee8"/>
+    <rect x="400" y="144" width="240" height="72" fill="#ffffff" stroke="#d6dee8"/>
+    <rect x="640" y="144" width="192" height="72" fill="#ffffff" stroke="#d6dee8"/>
 
-    <g fill="#111111" stroke="none" font-size="18">
-      <text x="130" y="92" text-anchor="middle" font-weight="700">egenskap</text>
-      <text x="295" y="92" text-anchor="middle" font-weight="700">fast ämne</text>
-      <text x="470" y="92" text-anchor="middle" font-weight="700">flytande ämne</text>
-      <text x="635" y="92" text-anchor="middle" font-weight="700">gas</text>
+    <rect x="0" y="216" width="190" height="72" fill="#f5f7fa" stroke="#d6dee8"/>
+    <rect x="190" y="216" width="210" height="72" fill="#ffffff" stroke="#d6dee8"/>
+    <rect x="400" y="216" width="240" height="72" fill="#ffffff" stroke="#d6dee8"/>
+    <rect x="640" y="216" width="192" height="72" fill="#ffffff" stroke="#d6dee8"/>
 
-      <text x="130" y="138" text-anchor="middle">form</text>
-      <text x="295" y="138" text-anchor="middle">fast form</text>
-      <text x="470" y="138" text-anchor="middle">behållarens form</text>
+    <rect x="0" y="288" width="190" height="72" fill="#f5f7fa" stroke="#d6dee8"/>
+    <rect x="190" y="288" width="210" height="72" fill="#ffffff" stroke="#d6dee8"/>
+    <rect x="400" y="288" width="240" height="72" fill="#ffffff" stroke="#d6dee8"/>
+    <rect x="640" y="288" width="192" height="72" fill="#ffffff" stroke="#d6dee8"/>
 
-      <text x="130" y="182" text-anchor="middle">volym</text>
-      <text x="470" y="182" text-anchor="middle">fast volym</text>
-      <text x="635" y="182" text-anchor="middle">fyller hela behållaren</text>
+    <text x="95" y="43" text-anchor="middle" class="head">egenskap</text>
+    <text x="295" y="43" text-anchor="middle" class="head">fast ämne</text>
+    <text x="520" y="43" text-anchor="middle" class="head">flytande ämne</text>
+    <text x="736" y="43" text-anchor="middle" class="head">gas</text>
 
-      <text x="130" y="226" text-anchor="middle">kan flöda?</text>
-      <text x="295" y="226" text-anchor="middle">nej</text>
+    <text x="95" y="116" text-anchor="middle" class="label">form</text>
+    <text x="295" y="116" text-anchor="middle" class="cell">fast form</text>
+    <text x="520" y="116" text-anchor="middle" class="cell">behållarens form</text>
 
-      <text x="130" y="270" text-anchor="middle">komprimerbar?</text>
-      <text x="295" y="270" text-anchor="middle">bara lite</text>
+    <text x="95" y="188" text-anchor="middle" class="label">volym</text>
+    <text x="520" y="188" text-anchor="middle" class="cell">fast volym</text>
+    <text x="736" y="188" text-anchor="middle" class="cell">fyller hela</text>
+    <text x="736" y="210" text-anchor="middle" class="cell">behållaren</text>
+
+    <text x="95" y="260" text-anchor="middle" class="label">kan flöda?</text>
+    <text x="295" y="260" text-anchor="middle" class="cell">nej</text>
+
+    <text x="95" y="332" text-anchor="middle" class="label">komprimerbar?</text>
+    <text x="295" y="332" text-anchor="middle" class="cell">bara lite</text>
+
+    <g fill="none" stroke="#8fa1b3" stroke-width="2.5" stroke-dasharray="10 8">
+      <rect x="662" y="89" width="148" height="38" rx="10"/>
+      <rect x="222" y="161" width="146" height="38" rx="10"/>
+      <rect x="422" y="233" width="196" height="38" rx="10"/>
+      <rect x="662" y="233" width="148" height="38" rx="10"/>
+      <rect x="422" y="305" width="196" height="38" rx="10"/>
+      <rect x="662" y="305" width="148" height="38" rx="10"/>
     </g>
 
-    <g fill="none" stroke="#7a7a7a" stroke-width="2" stroke-dasharray="7 6">
-      <rect x="575" y="120" width="120" height="24" rx="4"/>
-      <rect x="225" y="164" width="140" height="24" rx="4"/>
-      <rect x="395" y="208" width="150" height="24" rx="4"/>
-      <rect x="575" y="208" width="120" height="24" rx="4"/>
-      <rect x="395" y="252" width="150" height="24" rx="4"/>
-      <rect x="575" y="252" width="120" height="24" rx="4"/>
-    </g>
+    <text x="736" y="114" text-anchor="middle" class="hint">svara här</text>
+    <text x="295" y="186" text-anchor="middle" class="hint">svara här</text>
+    <text x="520" y="258" text-anchor="middle" class="hint">svara här</text>
+    <text x="736" y="258" text-anchor="middle" class="hint">svara här</text>
+    <text x="520" y="330" text-anchor="middle" class="hint">svara här</text>
+    <text x="736" y="330" text-anchor="middle" class="hint">svara här</text>
   </g>
 </svg>
