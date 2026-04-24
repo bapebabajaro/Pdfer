@@ -1,0 +1,94 @@
+UPPGIFT: grundamnen_foreningar_blandningar_partikeldiagram
+Källa: 2018_Stage8_Paper1 :: fråga 11
+Stella Kemi kapitel: Kap 1 — Kemins grunder
+Stella Kemi delkapitel: 1.2 Atomer och grundämnen
+                        1.3 Molekyler och kemiska föreningar
+                        1.7 Blandningar
+Sidreferenser: s. 18–23 (atomer, grundämnen)
+               s. 24–28 (föreningar, molekyler)
+               s. 45–49 (blandningar)
+Typ: Diagram-tolkningsfråga + öppen fråga
+Poäng: 5
+Stella solvable: true
+Modifiering: minor (natriumklorid-exemplet förtydligat)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Titta på diagrammen.
+
+[DIAGRAM – PARTIKELMODELL]
+Fem ramar (A–E) i en rad, varje ram 160×160px, SVG totalt 860px bred.
+Cirklar representerar atomer: grå cirkel = atom typ 1 (Ø 22px),
+vit cirkel med svart kontur = atom typ 2 (Ø 22px).
+
+Ram A: 3 st. ensamstående grå cirklar (inga bindningar)
+        → ett grundämne, enskilda atomer
+
+Ram B: 3 st. grå+grå parvis ihopkopplade
+        (diatomisk molekyl av ett grundämne)
+
+Ram C: 3 st. identiska set: 1 grå + 2 vita, alla tre bundna ihop
+        (triangelform) → en förening, 3-atomiga molekyler
+
+Ram D: 2 st. grå+grå par + 1 st. grå+vit+vit tripplet (blandade)
+        → blandning av ett grundämne och en förening
+
+Ram E: 3 st. identiska set: 2 grå + 2 vita, alla fyra bundna ihop
+        (fyrkantig form) → en förening
+
+Text under varje ram: "A", "B", "C", "D", "E" centrerat.
+Stil: vit bakgrund, svarta konturlinjer, tunna ram-rektanglar.
+Bindningar ritas som raka svarta linjer mellan cirkelcentra.
+[SLUT DIAGRAM]
+
+(a) Vilket diagram (A, B, C, D eller E) visar:
+
+    (i) Ett grundämne bestående av enskilda atomer?
+        ................................................[1]
+
+    (ii) En förening bestående av molekyler?
+        ................................................[1]
+
+    (iii) En blandning av ett grundämne och en förening?
+          ................................................[1]
+
+(b) Fyll i meningarna och förklara om ämnena är blandningar eller
+    föreningar.
+
+    (i) Havsvatten är en ................................ därför att
+        ....................................................................................[1]
+
+    (ii) Fast natriumklorid är en ................................ därför att
+        ....................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-partikelmodell med 5 ramar A–E. Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "grundämne": innehåller bara en sorts atom (s. 18–23)
+- "förening": innehåller minst två olika slags atomer, kemiskt bundna
+  (s. 24–28)
+- "blandning": två eller fler ämnen utan kemisk bindning (s. 45–49)
+- "molekyl": minsta enhet av ett ämne (s. 24–28)
+- "natriumklorid" (NaCl) = förening av natrium och klor (s. 24–28)
+
+Rätta svar:
+  (a)(i) A   (a)(ii) C eller E   (a)(iii) D
+  (b)(i) blandning — havsvatten innehåller vatten + lösta salter
+         (ej kemiskt bundna)
+  (b)(ii) förening — NaCl innehåller natrium- och kloratomer
+          kemiskt bundna i ett fast mönster
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "element" → "grundämne", "compound" → "förening",
+  "mixture" → "blandning"
+- "seawater" → "havsvatten"
+- "solid sodium chloride" → "fast natriumklorid"
