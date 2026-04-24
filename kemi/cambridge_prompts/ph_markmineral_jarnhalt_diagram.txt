@@ -1,0 +1,99 @@
+UPPGIFT: ph_markmineral_jarnhalt_diagram
+Källa: 2018_Stage9_Paper2 :: fråga 1
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.3 Syror och baser + 2.4 Koncentration och pH
+Sidreferenser: s. 74–90 (pH-skalan, sur/basisk, pH och ämnen i lösning)
+Typ: Öppen fråga med grafer (delfrågor a–b)
+Poäng: 6
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+För att växa bra behöver växter ta upp mineraler från marken.
+Dessa mineraler innehåller kemiska grundämnen.
+
+(a) De flesta jordar har ett pH mellan 4 och 8,5.
+
+    Diagrammet visar hur pH påverkar mängden järn i marken.
+
+[DIAGRAM – LINJEDIAGRAM 1]
+Python/matplotlib. 600×400px. Vit bakgrund.
+
+  x-axel: "pH i marken", intervall 4–8
+  y-axel: "mängd järn i marken" (inga enheter)
+  Kurva: Järnkurva (etikett "järn"):
+    • Hög platå från pH 4 till pH 6,7
+    • Kraftigt fall efter pH 6,7
+  Gridlinjer på. Fontstorlek ≥ 12pt.
+[SLUT DIAGRAM]
+
+    Diagrammet visar att marken innehåller störst mängd järn
+    mellan pH 4 och 6,7. Ovanför pH 6,7 minskar mängden järn.
+
+    Diagrammet nedan visar hur pH påverkar mängden av andra
+    grundämnen i marken.
+
+[DIAGRAM – LINJEDIAGRAM 2]
+Python/matplotlib. 600×400px. Vit bakgrund.
+
+  x-axel: "pH i marken", intervall 4–8
+  y-axel: "mängd grundämne i marken" (inga enheter)
+  4 kurvor med etiketter:
+    "magnesium" — hög vid pH 4, fallande mot pH 8
+    "kalium"    — jämnt hög från pH 4 till ca 6, sedan svagt fallande
+    "fosfor"    — låg vid pH 4, toppvärde vid pH 6–7, sjunker igen vid 8
+    "kväve"     — jämnt hög fram till pH 7, sedan svagt fallande
+  Legend med alla 4 ämnen. Gridlinjer på. Fontstorlek ≥ 12pt.
+[SLUT DIAGRAM]
+
+    (i) Använd informationen i diagrammen för att svara.
+
+        Förklara varför växter växer bra vid pH 7.
+        .......................................................................................
+        Förklara varför växter inte växer bra vid pH 4.
+        .......................................................................................[2]
+
+    (ii) Vilket grundämne finns i minst mängd när markens pH
+         är större än 7?
+
+         Välj bland: järn  kväve  fosfor  kalium  magnesium
+
+         svar .................................................................................[1]
+
+(b) Marken kan förbättras genom att tillsätta ruttnande
+    växtmaterial eller djuravfall.
+
+    (i) Vilken grupp av organismer orsakar ruttnande?
+        .......................................................................................[1]
+
+    (ii) Förklara varför tillsats av ruttnande växtmaterial
+         eller djuravfall förbättrar marken.
+        .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. matplotlib-linjediagram 1 (järnkurva). Filnamn: diagram_1.png
+2. matplotlib-linjediagram 2 (4 kurvor). Filnamn: diagram_2.png
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "pH" (s. 80–90)
+- "sur" (pH < 7), "basisk" (pH > 7), "neutral" (pH 7) (s. 80–90)
+- "grundämne": järn (Fe), kalium (K), fosfor (P), kväve (N),
+  magnesium (Mg) (s. 194–205)
+- Rätt svar (b)(i): nedbrytare (bakterier/svampar)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- Grundämnesnamnen översatta: iron→järn, potassium→kalium,
+  phosphorus→fosfor, nitrogen→kväve, magnesium→magnesium
+- "Decomposers" → "nedbrytare"
+- Diagrambeskrivningarna är rekonstruerade från texten i
+  originalprovet (grafer är ej OCR-bara men kurvornas form
+  beskrivs i texten)
