@@ -1,0 +1,89 @@
+UPPGIFT: atom_rutherford_helium_elektronstruktur_karna
+Källa: 2011_Stage9_Paper1 :: fråga 6
+Stella Kemi kapitel: Kap 4 — Atomens uppbyggnad
+Stella Kemi delkapitel: 4.1 Atomens historia och uppbyggnad
+Sidreferenser: s. 142–165 (elektron, proton, neutron, kärna,
+               Rutherfords experiment, guldbladförsöket)
+Typ: Öppen fråga med atomdiagram (delfrågor a–b)
+Poäng: 4
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Ernest Rutherford hjälpte till att utveckla en modell av atomen.
+
+(a) Märk ut diagrammet av en heliumatom med dessa ord:
+
+    elektron   kärna   neutron   proton
+
+[DIAGRAM – HELIUMATOM]
+SVG-atommodell, 400×400px. Vit bakgrund.
+
+Innehåll:
+  • Central kärna: grå cirkel, ca 60px diameter
+    Inuti kärnan: 2 "P" (protoner) och 2 "N" (neutroner)
+    — alternativt bara prickar för att eleven ska märka ut
+  • Elektronskal: stor cirkel runt kärnan (radius ca 150px)
+  • Elektroner: 2 stycken "X" på elektronskalcirkeln
+  • Fyra pilar pekar till olika delar med tomma etikettrader
+    (eleven ska skriva: elektron, kärna, neutron, proton)
+[SLUT DIAGRAM]
+                                                                [2]
+
+(b) Ernest Rutherford sköt mycket små partiklar mot ett tunt
+    guldblad.
+
+    Diagrammet visar partiklarnas banor.
+
+[DIAGRAM – RUTHERFORDS GULDBLADSEXPERIMENT]
+SVG-skiss, 500×350px.
+
+Innehåll:
+  • En tunn vertikal linje (guldblad) i mitten
+  • Pilar (partiklar) från vänster, de flesta raka genomgående
+  • Några pilar böjs kraftigt (spridda av kärnan)
+  • En pil studsar tillbaka
+  • Etikett: "guldblad" (pil till linjen)
+  • Etikett: "X" och "X" (atomcentrum bakom guldblad)
+[SLUT DIAGRAM]
+
+    De flesta partiklar går rakt igenom guldbladet.
+    Andra partiklar sprids när de träffar del av guldatomen.
+
+    Vilken del av guldatomen gör att de små partiklarna
+    sprids?
+    .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-heliumatom (med pilar för märkning). Filnamn: diagram_1.svg
+2. SVG-Rutherfords guldbladsexperiment. Filnamn: diagram_2.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "kärna": positivt laddad, i atomens centrum (s. 142–165)
+- "proton": positivt laddad partikel i kärnan (s. 142–165)
+- "neutron": oladdad partikel i kärnan (s. 142–165)
+- "elektron": negativt laddad partikel i elektronskal (s. 142–165)
+- "Rutherfords experiment" / "guldbladförsöket" (s. 142–165)
+
+Rätt svar:
+  (a) Märkning: kärna (central cirkel), proton och neutron (inuti
+      kärnan), elektron (på yttre skalet)
+  (b) Kärnan (den positivt laddade och täta kärnan sprider
+      partiklar via elektrisk repulsion)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "electron / nucleus / neutron / proton" →
+  "elektron / kärna / neutron / proton"
+- "fired very small particles at a thin gold foil" →
+  "sköt mycket små partiklar mot ett tunt guldblad"
+- "scattered when they hit part of the gold atom" →
+  "sprids när de träffar del av guldatomen"
