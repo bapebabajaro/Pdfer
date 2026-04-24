@@ -1,0 +1,94 @@
+UPPGIFT: rostning_tillstand_jarnspik_korrosion
+Källa: 2011_Stage8_Paper1 :: fråga 9
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.4 Korrosion och ytbehandling
+Sidreferenser: s. 225–229 (rost, korrosion, järn + syre + vatten,
+               korrosionsskydd: målning, förzinkning, galvanisering)
+Typ: Öppen fråga med apparaturskiss (delfrågor a–b)
+Poäng: 5
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Rostning är ett exempel på en kemisk reaktion som inte är
+användbar.
+
+(a) Mia undersöker vilka betingelser som krävs för att
+    järnspikar ska rosta.
+
+    Hon använder följande utrustning:
+
+[DIAGRAM – APPARATURSKISS (3 provrör)]
+SVG-skiss, 600×350px. Svart linjeskiss, svenska etiketter.
+
+Tre provrör (A, B, C) med innehåll:
+
+Provrör A — Spik i vatten med luft:
+  • Provrör med vatten i botten
+  • En järnspik nedsänkt i vattnet
+  • Luftutrymme ovanför vattnet
+  • Etiketter: "vatten och luft", "vatten", "luft"
+
+Provrör B — Spik utan luft (oljeskyddad):
+  • Provrör med kokad vatten i botten (färre lösta gaser)
+  • Ett lager olja ovanpå vattnet (utestänger luft)
+  • En järnspik nedsänkt
+  • Etiketter: "ingen luft", "olja", "kokt vatten"
+
+Provrör C — Spik i torr luft (kalciumklorid absorberar fukt):
+  • Provrör med torrt kalciumklorid i botten
+  • En järnspik ovanför kalciumkloridet
+  • Etiketter: "torr luft", "kalciumklorid", "järnspik"
+[SLUT DIAGRAM]
+
+    (i) I vilket provrör rostar spiken?
+        .......................................................................................[1]
+
+    (ii) Fyll i kvationen för denna reaktion.
+
+         Välj ord från listan:
+
+         aluminium   koldioxid   järn   syre   vatten
+
+         ....................  +  ....................  +  ....................  →  rost    [2]
+
+(b) Beskriv två saker som Mia kan göra med järnet för att
+    förhindra att det rostar.
+
+    1  ......................................................................................................................................
+    2  ......................................................................................................................................[2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-apparaturskiss (3 provrör). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "rost" / "rostning" / "korrosion" (s. 225–229)
+- "järn + syre + vatten → rost" (s. 225–229)
+- Korrosionsskydd (välj bland):
+  • målning (s. 225–229)
+  • galvanisering / förzinkning (s. 225–229)
+  • beläggning med olja/fett (s. 225–229)
+  • rostfritt stål (legeringar) (s. 225–229)
+
+Rätt svar:
+  (a)(i) Provrör A (vatten + luft = båda krävs)
+  (a)(ii) järn + syre + vatten → rost
+  (b) t.ex. 1. Måla järnet 2. Galvanisera (belägga med zink)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Mia" behålls
+- "iron nails to rust" → "järnspikar ska rosta"
+- "dry air / calcium chloride" → "torr luft / kalciumklorid"
+- "no air / oil / boiled water" → "ingen luft / olja / kokt vatten"
+- "water and air" → "vatten och luft"
+- "aluminium / carbon dioxide / iron / oxygen / water" →
+  "aluminium / koldioxid / järn / syre / vatten"
