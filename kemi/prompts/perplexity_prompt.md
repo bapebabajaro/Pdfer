@@ -5,6 +5,9 @@
 ```
 Gör följande steg i ordning utan att hoppa över något.
 
+VIKTIGT: Skriv INGEN förklarande text i chatten utöver eventuella kortfattade felmeddelanden.
+Ditt enda synliga output ska vara den JSON som pushas till GitHub. Jobba tyst.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 STEG 1 — Hämta lista på alla kemiprov (mappar med JPG-sidor):
 https://api.github.com/repos/bapebabajaro/Pdfer/contents/kemi/pdfs_png
@@ -13,8 +16,11 @@ STEG 2 — Hämta lista på redan processade prov:
 https://api.github.com/repos/bapebabajaro/Pdfer/contents/kemi/questions/inbox
 https://api.github.com/repos/bapebabajaro/Pdfer/contents/kemi/questions/processed
 
-STEG 3 — Jämför listorna. Hitta det FÖRSTA mappnamnet (alfabetisk ordning) från
-STEG 1 som INTE redan finns som .json i inbox eller processed.
+STEG 3 — Jämför listorna. Hitta det prov att analysera enligt denna prioriteringsordning:
+1. Ta det FÖRSTA mappnamnet (alfabetisk ordning) från STEG 1 som INTE redan finns
+   som .json i inbox eller processed — MEN hoppa över alla mappar vars namn innehåller
+   "olevel" eller "pure" (skiftlägesokänsligt). De behandlas sist.
+2. Om inga sådana återstår: ta det första "olevel"/"pure"-provet alfabetiskt.
 Det är provet du ska analysera. Notera mappnamnet.
 
 STEG 4 — Hämta och läs referensboken (Stella Kemi OCR, 414 KB):
