@@ -33,8 +33,13 @@ uppgifter är producerade än. Fortsätt till STEG 3.
 STEG 3 — Välj nästa fråga att producera:
 
 Gå igenom alla frågor från STEG 1, i den ordning de förekommer (fil för fil,
-fråga för fråga). Hitta den FÖRSTA fråga vars källnyckel {filename}::{q_nr}
-INTE redan finns representerad som en mapp under kemi/uppgifter/.
+fråga för fråga). Hoppa DIREKT ÖVER frågor där:
+  ✗ stella_solvable = false   → aldrig producera
+  ✗ modification = "major"    → aldrig producera
+
+Hitta den FÖRSTA kvarvarande fråga (stella_solvable=true + modification≠major)
+vars källnyckel {filename}::{q_nr} INTE redan finns representerad som en mapp
+under kemi/uppgifter/.
 
 Kontrollera genom att söka efter en fil med namnet `kalla.txt` inuti varje
 uppgiftsmapp — den innehåller källnyckeln. Välj den första matchande frågan.
