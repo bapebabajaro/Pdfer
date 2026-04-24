@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" style="font-family:Arial,sans-serif;">
+  <!-- Header row -->
+  <rect x="0" y="0" width="150" height="34" fill="#cccccc" stroke="#000" stroke-width="1"/>
+  <text x="75" y="22" text-anchor="middle" font-size="13" font-weight="bold">egenskap</text>
+  <rect x="150" y="0" width="150" height="34" fill="#cccccc" stroke="#000" stroke-width="1"/>
+  <text x="225" y="22" text-anchor="middle" font-size="13" font-weight="bold">fast &#228;mne</text>
+  <rect x="300" y="0" width="150" height="34" fill="#cccccc" stroke="#000" stroke-width="1"/>
+  <text x="375" y="22" text-anchor="middle" font-size="13" font-weight="bold">flytande &#228;mne</text>
+  <rect x="450" y="0" width="150" height="34" fill="#cccccc" stroke="#000" stroke-width="1"/>
+  <text x="525" y="22" text-anchor="middle" font-size="13" font-weight="bold">gas</text>
+
+  <!-- Row 2: form -->
+  <rect x="0" y="34" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="75" y="57" text-anchor="middle" font-size="12">form</text>
+  <rect x="150" y="34" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="225" y="57" text-anchor="middle" font-size="12">fast form</text>
+  <rect x="300" y="34" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="375" y="57" text-anchor="middle" font-size="12">beh&#229;llarens form</text>
+  <rect x="450" y="34" width="150" height="34" fill="#fffbe6" stroke="#aaaaaa" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="525" y="51" text-anchor="middle" font-size="11" fill="#555">fyller hela</text>
+  <text x="525" y="64" text-anchor="middle" font-size="11" fill="#555">beh&#229;llaren</text>
+
+  <!-- Row 3: volym -->
+  <rect x="0" y="68" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="75" y="91" text-anchor="middle" font-size="12">volym</text>
+  <rect x="150" y="68" width="150" height="34" fill="#fffbe6" stroke="#aaaaaa" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="225" y="91" text-anchor="middle" font-size="11" fill="#555">fast volym</text>
+  <rect x="300" y="68" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="375" y="91" text-anchor="middle" font-size="12">fast volym</text>
+  <rect x="450" y="68" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="525" y="85" text-anchor="middle" font-size="11">fyller hela</text>
+  <text x="525" y="98" text-anchor="middle" font-size="11">beh&#229;llaren</text>
+
+  <!-- Row 4: kan floda? -->
+  <rect x="0" y="102" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="75" y="125" text-anchor="middle" font-size="12">kan fl&#246;da?</text>
+  <rect x="150" y="102" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="225" y="125" text-anchor="middle" font-size="12">nej</text>
+  <rect x="300" y="102" width="150" height="34" fill="#fffbe6" stroke="#aaaaaa" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="375" y="125" text-anchor="middle" font-size="11" fill="#555">ja</text>
+  <rect x="450" y="102" width="150" height="34" fill="#fffbe6" stroke="#aaaaaa" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="525" y="125" text-anchor="middle" font-size="11" fill="#555">ja</text>
+
+  <!-- Row 5: komprimerbar? -->
+  <rect x="0" y="136" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="75" y="147" text-anchor="middle" font-size="12">komprimerbar?</text>
+  <text x="75" y="162" text-anchor="middle" font-size="10">(kan tryckas ihop)</text>
+  <rect x="150" y="136" width="150" height="34" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="225" y="159" text-anchor="middle" font-size="12">bara lite</text>
+  <rect x="300" y="136" width="150" height="34" fill="#fffbe6" stroke="#aaaaaa" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="375" y="159" text-anchor="middle" font-size="11" fill="#555">bara lite</text>
+  <rect x="450" y="136" width="150" height="34" fill="#fffbe6" stroke="#aaaaaa" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="525" y="159" text-anchor="middle" font-size="11" fill="#555">ja</text>
+</svg>
