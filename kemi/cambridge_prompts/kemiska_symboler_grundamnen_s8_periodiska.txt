@@ -1,0 +1,71 @@
+UPPGIFT: kemiska_symboler_grundamnen_s8_periodiska
+Källa: 2018_Stage8_Paper1 :: fråga 2
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.1 Periodiska systemet
+Sidreferenser: s. 194–205 (grundämnesnamn, kemiska beteckningar,
+               periodiska systemets uppbyggnad)
+Typ: Kopplingsuppgift (dra linjer)
+Poäng: 4
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Dra ett streck mellan varje grundämne och dess rätta kemiska
+beteckning.
+
+[DIAGRAM – KOPPLINGSUPPGIFT]
+Två kolumner placerade bredvid varandra med tomrum i mitten för
+streck. SVG, 600px bred.
+
+Vänster kolumn — grundämne (6 rader):
+  kväve
+  fosfor
+  kalium
+  kisel
+  natrium
+  svavel
+
+Höger kolumn — kemisk beteckning (8 rader, inkl. 2 distraktorer):
+  Ni
+  P
+  N
+  Na
+  Po
+  S
+  K
+  Si
+
+Distraktorerna är: Ni (nickel) och Po (polonium) — de finns ej
+i vänster kolumn och ska inte kopplas till något.
+
+Raderna är inte i linjär ordning; eleven ska dra rätt streck.
+
+Stil: svart text, tunna avgränsningslinjer kring varje rad,
+kopplingsytan i mitten är tom (11 cm bred i original → 200px i SVG).
+[SLUT DIAGRAM]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-kopplingsuppgift enligt DIAGRAM-blocket. Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "grundämne" (element) (s. 194–205)
+- "kemisk beteckning" (chemical symbol) (s. 194–205)
+- Rätta par: kväve–N, fosfor–P, kalium–K, kisel–Si, natrium–Na,
+  svavel–S (s. 194–205)
+- Notera: Stella Kemi använder "kemisk beteckning" (inte "symbol")
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "element" → "grundämne"
+- "chemical symbol" → "kemisk beteckning"
+- Grundämnesnamn översatta: nitrogen→kväve, phosphorus→fosfor,
+  potassium→kalium, silicon→kisel, sodium→natrium, sulfur→svavel
+- Beteckningarna i höger kolumn är oförändrade (internationella)
