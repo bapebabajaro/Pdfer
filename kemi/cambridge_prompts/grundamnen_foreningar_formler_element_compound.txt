@@ -1,0 +1,66 @@
+UPPGIFT: grundamnen_foreningar_formler_element_compound
+Källa: 2011_Stage8_Paper1 :: fråga 12
+Stella Kemi kapitel: Kap 4 — Atomens uppbyggnad
+Stella Kemi delkapitel: 4.3 Grundämnen, föreningar och blandningar
+Sidreferenser: s. 166–193 (grundämne, förening, kemisk formel,
+               H₂O, CO₂, H₂, He, Mg)
+Typ: Kryssfråga (tabell: grundämne eller förening)
+Poäng: 2
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Kemikalier kan vara antingen grundämnen eller föreningar.
+
+Kryssa i rätt ruta för att visa vilka kemikalier som är
+grundämnen och vilka som är föreningar.
+
+Den första är redan gjord.
+
+[DIAGRAM – TABELL (grundämne/förening)]
+SVG-tabell, 500px bred. Rubrikrad grå (#cccccc).
+3 kolumner: "kemikalie (formel)" | "grundämne" | "förening"
+
+Rad 2: vatten (H₂O)          | [tom] | [X] (GIVEN)
+Rad 3: koldioxid (CO₂)       | [TOM] | [TOM]
+Rad 4: vätgas (H₂)           | [TOM] | [TOM]
+Rad 5: helium (He)            | [TOM] | [TOM]
+Rad 6: magnesium (Mg)         | [TOM] | [TOM]
+
+Markera tomma celler med streckad ram.
+[SLUT DIAGRAM]
+                                                                [2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-tabell (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "grundämne": byggt av en enda typ av atomer (s. 166–193)
+- "förening": byggt av minst två olika slags atomer (s. 166–193)
+- "kemisk formel": visar atomer och deras antal (s. 166–193)
+- vatten (H₂O): förening (H + O)
+- koldioxid (CO₂): förening (C + O)
+- vätgas (H₂): grundämne (enbart H)
+- helium (He): grundämne (enbart He)
+- magnesium (Mg): grundämne (enbart Mg)
+
+Rätt svar:
+  H₂O  → förening ✓ (GIVEN)
+  CO₂  → förening ✓
+  H₂   → grundämne ✓
+  He   → grundämne ✓
+  Mg   → grundämne ✓
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "water / carbon dioxide / hydrogen / helium / magnesium" →
+  "vatten / koldioxid / vätgas / helium / magnesium"
+- "element / compound" → "grundämne / förening"
