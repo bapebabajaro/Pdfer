@@ -1,0 +1,84 @@
+UPPGIFT: magnesium_forbrannung_exoterm_kloridlake
+Källa: 2018_Stage9_Paper2 :: fråga 12
+Stella Kemi kapitel: Kap 6 — Kemiska reaktioner
+Stella Kemi delkapitel: 6.1 Exoterma och endoterma reaktioner
+Sidreferenser: s. 244–260 (exoterm/endoterm, förbränning,
+               reaktionsentalpi, värme avges till omgivningen)
+               s. 220–229 (metallers reaktivitet, Mg + HCl → salt + vätgas)
+               s. 74–93 (syror och salter)
+Typ: Öppen fråga (delfrågor a–c)
+Poäng: 4
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Mikael undersöker metallen magnesium.
+
+(a) Han bränner ett stycke magnesium i en bunsenlåga.
+
+    Förbränning frigör energi.
+
+    Vad kallas ett sådant kemiskt förlopp där energi frigörs
+    till omgivningen?
+
+    ......................................................................................................................................[1]
+
+(b) Mikael lägger ett stycke magnesium i saltsyra.
+
+    Syran börjar bubbla.
+
+    (i) Vilken gas bildas?
+        .......................................................................................[1]
+
+    (ii) Denna reaktion bildar också ett salt.
+
+         Ringa in namnet på detta salt.
+
+         magnesiumklorid   magnesiumhydrid   magnesiumhydroxid   magnesiumsulfat
+                                                                               [1]
+
+(c) Mikael lägger ett stycke magnesium i vatten.
+
+    Det sker en mycket långsam reaktion.
+
+    Ringa in namnet på den metall som reagerar
+    mycket snabbare med vatten än magnesium gör.
+
+    kalcium   koppar   guld   silver                                           [1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "exoterm reaktion": frigör energi till omgivningen (s. 244–260)
+- "förbränning": exoterm oxidationsreaktion (s. 244–260)
+- "vätgas": H₂, bildas när metall reagerar med syra (s. 220–229)
+- "magnesiumklorid": salt bildat av Mg + HCl (s. 74–93)
+- "spänningsserien": kalcium är mer reaktiv än magnesium
+  (s. 220–229)
+
+Rätt svar:
+  (a) exoterm (reaktion)
+  (b)(i) vätgas
+  (b)(ii) magnesiumklorid
+  (c) kalcium
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Mike" → "Mikael" (neutralt svenskt namn)
+- "Bunsen burner flame" → "bunsenlåga"
+- "combustion releases energy" → "förbränning frigör energi"
+- "exothermic" → "exoterm"
+- "hydrochloric acid" → "saltsyra"
+- "magnesium chloride / magnesium hydride / magnesium hydroxide /
+  magnesium sulfate" → översatta till svenska
+- "calcium / copper / gold / silver" → "kalcium / koppar /
+  guld / silver"
