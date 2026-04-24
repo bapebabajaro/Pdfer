@@ -1,0 +1,91 @@
+UPPGIFT: aggregationstillstand_fasoverganger_kondensation_sublimation
+Källa: 2011_Stage7_Paper2 :: fråga 2
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.1 Vattens egenskaper
+Sidreferenser: s. 60–67 (fasövergångar: smältning, stelning,
+               avdunstning, kondensation, sublimering)
+Typ: Matchning + komplettering
+Poäng: 4
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+(a) Farid har tre olika bränslen.
+
+    Dra streck mellan varje bränsle och rätt aggregationstillstånd.
+
+[DIAGRAM – MATCHNING (bränslen/aggregationstillstånd)]
+SVG-matchningsdiagram, 500×200px.
+
+Vänster kolumn (bränsle):
+  "Bränslet förvaras i påsar."
+  "Bränslet flödar längs ett rör dit det behövs."
+  "Bränslet förvaras under tryck i cylindrar."
+
+Höger kolumn (aggregationstillstånd):
+  "gas"
+  "flytande"
+  "fast ämne"
+
+(Rätt koppling: påsar→fast, rör→flytande, tryckcylinder→gas)
+[SLUT DIAGRAM]
+                                                                [1]
+
+(b) (i) Fasta ämnen, flytande ämnen och gaser kan övergå från
+        ett aggregationstillstånd till ett annat.
+
+        Använd orden i listan för att namnge de processer som
+        visas i diagrammet.
+
+        kondensation   avdunstning   stelning   sublimering
+
+[DIAGRAM – FASÖVERGÅNGSDIAGRAM]
+SVG-pildiagram, 500×300px.
+
+Tre rutor:
+  "fast ämne" (vänster) | "flytande ämne" (mitten) | "gas" (höger)
+
+Pilar:
+  fast ämne → gas: pil märkt "process: ..........................." (sublimering)
+  gas → flytande: pil märkt "process: ..........................." (kondensation)
+(Eleven ska fylla i namnen)
+[SLUT DIAGRAM]
+                                                                [2]
+
+    (ii) Rita in en pil (→) i diagrammet för att visa vad som
+         händer vid smältning.                                  [1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-matchningsdiagram (bränslen). Filnamn: diagram_1.svg
+2. SVG-fasövergångsdiagram (med tomma processnamn). Filnamn: diagram_2.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "aggregationstillstånd": fast ämne, flytande ämne, gas (s. 60–67)
+- "fasövergång" (s. 60–67)
+- "smältning": fast → flytande (s. 60–67)
+- "stelning": flytande → fast (s. 60–67)
+- "avdunstning": flytande → gas (s. 60–67)
+- "kondensation": gas → flytande (s. 60–67)
+- "sublimering": fast → gas direkt (s. 60–67)
+
+Rätt svar:
+  Diagram 1: fast ämne → gas = sublimering
+              gas → flytande = kondensation
+  Diagram 2: Pil från "fast ämne" till "flytande ämne" = smältning
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Farid" behålls
+- "condensation / evaporation / freezing / sublimation" →
+  "kondensation / avdunstning / stelning / sublimering"
+- "state of matter" → "aggregationstillstånd"
+- "gas / liquid / solid" → "gas / flytande / fast ämne"
+- "melting" → "smältning"
