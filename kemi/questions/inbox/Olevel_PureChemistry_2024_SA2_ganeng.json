@@ -1,0 +1,206 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_ganeng.pdf",
+  "processed_at": "2026-04-24",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 2,
+      "text": "P, Q, R and S are pieces of apparatus.\n\n[DIAGRAM – APPARATUS AND TABLE]\nFour labelled apparatus images: P = burette (50 cm³), Q = gas syringe (100 cm³), R = measuring cylinder (50 cm³), S = pipette (25 cm³).\nBelow: a table with 2 columns and 4 rows (excluding header).\nColumn 1: 'apparatus', Column 2: 'measurement made'\nRow A: P | the volume of acid added to alkali in a titration\nRow B: Q | 0.24 dm³ of hydrogen gas produced when magnesium reacts with an acid\nRow C: R | 75 cm³ of a gas given off in a rate-determining experiment\nRow D: S | 20 cm³ of alkali for use in a titration\nRecommended rendering tool: SVG table.\n\nWhich row describes the correct apparatus for the measurement made?\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.1_Undersokningar_och_laborativt_arbete",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "2",
+      "page": 2,
+      "text": "X is a mixture of colourless compounds. The diagram shows a chromatogram of X and of three pure compounds, P, Q and R.\n\n[DIAGRAM – CHROMATOGRAM]\nA chromatography plate with a horizontal start line at the bottom. Four lanes labelled X, P, Q, R from left to right. Spots visible: X lane has spots at two different heights; P lane has one spot at low height; Q lane has one spot at medium height; R lane has spots at low and high heights. Solvent front visible at top.\nRecommended rendering tool: image generator.\n\nWhich statement is NOT correct?\n\nA  X could contain P and R.\nB  Q has a greater Rf value than R.\nC  P and R have different solubilities in the solvent.\nD  A locating agent was used to develop the chromatogram of X.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "3",
+      "page": 3,
+      "text": "Which substance can be distilled using the apparatus below?\n\n[DIAGRAM – DISTILLATION APPARATUS AND TABLE]\nA simple distillation setup: round-bottom flask containing a mixture, heated by a water bath with heat source below; thermometer in flask neck; condenser with water-in and water-out labels; collecting vessel for distillate on the right.\nBelow: a table with 2 columns and 4 rows (excluding header).\nColumn 1: 'melting point/ °C', Column 2: 'boiling point/ °C'\nRow A: −138 | 0\nRow B: −123 | 50\nRow C: 0 | 108\nRow D: 41 | 182\nRecommended rendering tool: SVG for apparatus, SVG table for data.\n\nWhich substance can be distilled using the apparatus?\n\nA  substance A\nB  substance B\nC  substance C\nD  substance D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "4",
+      "page": 3,
+      "text": "Which row about a change of state is correct?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: 'change of state', Column 2: 'energy change', Column 3: 'process'\nRow A: solid → liquid | heat given out | melting\nRow B: gas → liquid | heat taken in | evaporation\nRow C: solid → gas | heat taken in | sublimation\nRow D: liquid → solid | heat given out | condensing\nRecommended rendering tool: SVG table.\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "5",
+      "page": 4,
+      "text": "The cooling curve for substance X is shown below.\n\n[DIAGRAM – COOLING CURVE]\nA line graph. Y-axis: 'temperature/ °C' with markings at 0, 50, 100, 150, 200, 250. X-axis: 'time/ min'. The curve starts at approximately 200 °C, decreases, levels off at a plateau at 150 °C, continues decreasing, then levels off at a second plateau at 50 °C, before decreasing again toward 0 °C.\nRecommended rendering tool: image generator.\n\nAt which temperature does both solid and liquid exist?\n\nA  0 °C\nB  50 °C\nC  150 °C\nD  200 °C",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "6",
+      "page": 4,
+      "text": "The ion of an element Z is shown below.\n\n[DIAGRAM – ION ELECTRON STRUCTURE AND TABLE]\nA dot-and-cross diagram showing a Z³⁺ ion enclosed in square brackets with a 3+ superscript. The ion has two concentric circles: the inner shell has 2 electrons, the outer shell has 8 electrons (shown as crosses), giving a total of 10 electrons.\nBelow: a table with 2 columns and 4 rows (excluding header).\nColumn 1: 'group', Column 2: 'period'\nRow A: 13 | 2\nRow B: 13 | 3\nRow C: 15 | 2\nRow D: 15 | 3\nRecommended rendering tool: SVG.\n\nIn which group and period does element Z belong to in the Periodic Table?\n\nA  group 13, period 2\nB  group 13, period 3\nC  group 15, period 2\nD  group 15, period 3",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "7",
+      "page": 4,
+      "text": "Which row includes an element, a compound and a mixture?\n\nA  sea water, tap water, pure water\nB  sodium chloride, chlorine, pure water\nC  sea water, sodium chloride, chlorine\nD  sodium chloride, sea water, pure water",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.7_Blandningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "8",
+      "page": 5,
+      "text": "Which row correctly classifies how graphite, aluminium and molten sodium chloride conduct electricity?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: 'using mobile ions and electrons', Column 2: 'using mobile electrons only', Column 3: 'using mobile ions only'\nRow A: molten sodium chloride | graphite | aluminium\nRow B: molten sodium chloride | aluminium, graphite | none of the above\nRow C: aluminium | graphite | molten sodium chloride\nRow D: none of the above | aluminium, graphite | molten sodium chloride\nRecommended rendering tool: SVG table.\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "15",
+      "page": 7,
+      "text": "The diagram shows the results of a pH test on a sample of garden soil.\n\n[DIAGRAM – pH SCALE]\nA horizontal pH scale from 3 to 11 with tick marks at each integer. An arrow labeled 'soil reading' points downward to pH 4.\nRecommended rendering tool: image generator.\n\nWhat could be added to the soil to change its pH to 7?\n\nA  calcium oxide\nB  sodium oxide\nC  sodium chloride\nD  ammonium nitrate",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "16",
+      "page": 7,
+      "text": "The graph shows how pH changes as 0.1 mol/dm³ of dilute sodium hydroxide is gradually added to 0.1 mol/dm³ of ethanoic acid.\n\n[DIAGRAM – GRAPH AND TABLE]\nA line graph. Y-axis: 'pH' (0 to 14). X-axis: 'volume of NaOH used/ cm³' (0 to 50). The titration curve starts at approximately pH 4, rises gradually, then sharply at around 25 cm³, and levels off at approximately pH 13.\nBelow: a table with 3 columns and 4 rows (excluding header).\nColumn 1: 'indicator', Column 2: 'colour change', Column 3: 'pH at which colour change occurs'\nRow A: crystal violet | yellow → violet | 0.0 – 2.0\nRow B: methyl orange | red → yellow | 3.1 – 4.4\nRow C: phenolphthalein | colourless → pink | 8.3 – 10.0\nRow D: indigo carmine | blue → yellow | 11.4 – 13.0\nRecommended rendering tool: image generator for graph, SVG table for data table.\n\nWhich indicator is most suitable to be used in the titration to identify the end-point of neutralisation?\n\nA  crystal violet\nB  methyl orange\nC  phenolphthalein\nD  indigo carmine",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "17",
+      "page": 8,
+      "text": "Copper(II) sulfate is made by reacting excess insoluble solid M with solution N.\n\nWhich row identifies M and N and the method used to extract crystals of copper(II) sulfate from the mixture?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: 'M', Column 2: 'N', Column 3: 'method'\nRow A: copper | sodium sulfate | filter the mixture to obtain the residue\nRow B: copper | sulfuric acid | filter the mixture and evaporate filtrate until crystals form\nRow C: copper(II) oxide | sulfuric acid | filter the mixture to obtain the residue\nRow D: copper(II) carbonate | sulfuric acid | filter the mixture and evaporate filtrate until crystals form\nRecommended rendering tool: SVG table.\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "18",
+      "page": 8,
+      "text": "Which of the following pairs of gases changes the colour of damp red litmus paper?\n\nA  ammonia and chlorine\nB  ammonia and carbon dioxide\nC  chlorine and hydrogen\nD  chlorine and sulfur dioxide",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "22",
+      "page": 9,
+      "text": "The diagram shows the electrolysis of molten lead(II) bromide.\n\n[DIAGRAM – ELECTROLYSIS APPARATUS AND TABLE]\nA circuit diagram: a battery/power supply connected to two electrodes (electrode X on the left, electrode Y on the right) dipping into a container of molten lead(II) bromide. A heat source is shown below the container.\nBelow: a table with 2 columns and 4 rows (excluding header).\nColumn 1: 'electrode X', Column 2: 'electrode Y'\nRow A: brown gas | grey metal\nRow B: colourless gas | grey metal\nRow C: grey metal | colourless gas\nRow D: grey metal | brown gas\nRecommended rendering tool: SVG.\n\nWhat is seen at each electrode?\n\nA  brown gas at electrode X, grey metal at electrode Y\nB  colourless gas at electrode X, grey metal at electrode Y\nC  grey metal at electrode X, colourless gas at electrode Y\nD  grey metal at electrode X, brown gas at electrode Y",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "23",
+      "page": 10,
+      "text": "The diagram shows an experiment to electroplate a nickel spoon with silver.\n\n[DIAGRAM – ELECTROPLATING APPARATUS AND TABLE]\nA circuit diagram: a power supply connected to two electrodes in an electrolyte solution. The nickel spoon is on the right side. The left electrode is unlabelled.\nBelow: a table with 3 columns and 4 rows (excluding header).\nColumn 1: 'positive electrode', Column 2: 'negative electrode', Column 3: 'electrolyte'\nRow A: nickel spoon | pure nickel | silver nitrate solution\nRow B: nickel spoon | pure silver | nickel nitrate solution\nRow C: pure nickel | nickel spoon | silver nitrate solution\nRow D: pure silver | nickel spoon | silver nitrate solution\nRecommended rendering tool: SVG.\n\nWhich row correctly describes the positive electrode, the negative electrode and the electrolyte?\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "24",
+      "page": 10,
+      "text": "The electrical energy, or voltage, of two simple cells is measured.\n\n[DIAGRAM – TWO ELECTROCHEMICAL CELLS]\nCell 1: a voltmeter (V) connected to two electrodes — zinc (left) and magnesium (right) — both dipping into an electrolyte solution.\nCell 2: a voltmeter (V) connected to two electrodes — magnesium (left) and copper (right) — both dipping into the same electrolyte.\nRecommended rendering tool: SVG.\n\nWhich statement correctly describes the results of the experiment?\n\nA  The voltage of cell 1 is greater than cell 2.\nB  The electrolyte gradually turns blue in cell 2.\nC  Electrons flow from zinc to magnesium in cell 1.\nD  Magnesium loses electrons and undergoes oxidation in both cells.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "25",
+      "page": 11,
+      "text": "Sodium and rubidium are elements in Group 1 of the Periodic Table.\n\nWhich statement is correct?\n\nA  Sodium atoms have more electrons than rubidium atoms.\nB  Sodium has a lower density than rubidium.\nC  Sodium has a lower melting point than rubidium.\nD  Sodium is more reactive than rubidium.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "28",
+      "page": 12,
+      "text": "Each beaker contains two strips of metal fastened together and immersed in hydrochloric acid. All the strips are of the same size.\n\n[DIAGRAM – FOUR BEAKERS]\nFour beakers labelled A, B, C and D, each containing hydrochloric acid with two metal strips fastened together.\nBeaker A: magnesium and zinc strips.\nBeaker B: lead and zinc strips.\nBeaker C: iron and zinc strips.\nBeaker D: copper and zinc strips.\nRecommended rendering tool: SVG.\n\nAfter 5 minutes, which beaker contains the least amount of zinc ions?\n\nA  beaker A\nB  beaker B\nC  beaker C\nD  beaker D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "29",
+      "page": 12,
+      "text": "Three metal carbonates were each heated as shown below.\n\n[DIAGRAM – HEATING APPARATUS AND TABLE]\nA test tube containing a metal carbonate, heated by a Bunsen burner. A delivery tube leads from the test tube into a beaker of limewater.\nOn mild heating of the carbonate of Y, a white precipitate formed in the limewater. Heating more strongly gave the same observation for the carbonate of X but not for the carbonate of Z.\nBelow: a table with 3 columns and 4 rows (excluding header).\nColumn 1: 'X', Column 2: 'Y', Column 3: 'Z'\nRow A: Zn | Cu | Na\nRow B: Zn | Na | Cu\nRow C: Na | Zn | Cu\nRow D: Na | Cu | Zn\nRecommended rendering tool: SVG for apparatus, SVG table for data.\n\nWhat could X, Y and Z be?\n\nA  X = Zn, Y = Cu, Z = Na\nB  X = Zn, Y = Na, Z = Cu\nC  X = Na, Y = Zn, Z = Cu\nD  X = Na, Y = Cu, Z = Zn",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "32",
+      "page": 14,
+      "text": "25 cm³ of 1.0 mol/dm³ hydrochloric acid reacts with excess of a solid to produce a gas. The graph labelled 'first experiment' shows the volume of gas produced over time. Graphs P and Q show the volume of gas produced under different conditions.\n\n[DIAGRAM – RATE OF REACTION GRAPH]\nA line graph. Y-axis: 'volume of gas/ cm³'. X-axis: 'time/ s'. Three curves are shown: 'first experiment' (middle curve — moderate rise reaching a plateau); curve P (steeper rise reaching a higher plateau than the first experiment); curve Q (slower rise reaching a lower plateau than the first experiment). All curves begin at the origin.\nRecommended rendering tool: image generator.\n\nWhich changes in conditions produce graphs P and Q, if all other conditions are kept the same?\n\nA  P uses a catalyst and Q has a lower temperature.\nB  P uses 25 cm³ of more concentrated acid and Q uses smaller pieces of solid.\nC  P uses a higher temperature and Q uses 25 cm³ of 0.5 mol/dm³ hydrochloric acid.\nD  P uses smaller pieces of solid and Q uses larger pieces of solid.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "34",
+      "page": 15,
+      "text": "Petroleum (crude oil) is separated into useful fractions by fractional distillation. The positions at which fractions X and Y are collected from the fractionating column are shown.\n\n[DIAGRAM – FRACTIONATING COLUMN]\nA fractionating column with petroleum entering at the bottom. Various fractions exit at different heights via horizontal arrows. Fraction X exits from the upper section of the column (higher position). Fraction Y exits from a lower position below X. Additional fractions exit at the very top and at the bottom.\nRecommended rendering tool: SVG.\n\nWhich statement is correct?\n\nA  The temperature increases up the column.\nB  X condenses at a lower temperature than Y.\nC  X has a higher boiling point than Y.\nD  X has longer chain molecules than Y.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    }
+  ]
+}
