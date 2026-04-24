@@ -1,0 +1,79 @@
+UPPGIFT: svavel_icke_metall_egenskaper
+Källa: 2011_Stage7_Paper1 :: fråga 11 (delfråga b)
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.1 Metallers och icke-metallers egenskaper
+Sidreferenser: s. 194–210 (metaller vs icke-metaller: glans,
+               ledningsförmåga, smältpunkt, utseende)
+Typ: Kortsvars med motivering
+Poäng: 2
+Stella solvable: true
+Modifiering: minor (kontext från vulkanutbrott omformulerad)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Vid vulkanutbrott frigörs svavelgas till luften.
+
+Informationsrutan visar egenskaper hos svavel.
+
+[DIAGRAM – INFORMATIONSRUTA]
+SVG-ruta (rektangel med tunn kantlinje), 400×150px.
+
+Text i rutan:
+  • Svavel är ett klaregult kristallint fast ämne vid rumstemperatur.
+  • Svavel löser sig inte i vatten.
+  • Svavel leder inte elektricitet.
+[SLUT DIAGRAM]
+
+Är svavel en metall eller en icke-metall?
+
+...............................................................................
+
+Vilken uppgift i informationsrutan fick dig att bestämma dig?
+
+.......................................................................................[1]
+
+Beskriv ytterligare två skillnader mellan metaller och icke-metaller.
+
+1  ......................................................................................................................................
+
+2  ......................................................................................................................................[2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-informationsruta (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "metall" / "icke-metall" (s. 194–210)
+- "elektrisk ledningsförmåga": metaller leder, icke-metaller
+  leder (oftast) inte (s. 194–210)
+- "glans": metaller är blanka, icke-metaller är matt/färgade
+  (s. 194–210)
+- "duktilitet": metaller är formbara, icke-metaller är sköra
+  (s. 194–210)
+- "smältpunkt": metaller har generellt hög smältpunkt
+  (undantag: kvicksilver) (s. 194–210)
+
+Rätt svar:
+  Svavel = icke-metall
+  Avgörande uppgift: "leder inte elektricitet" (icke-metallers
+  karaktärsdrag)
+  Två andra skillnader (välj bland):
+    • Metaller är blanka (glans); icke-metaller är matta
+    • Metaller är duktila (böjbara); icke-metaller är sköra
+    • Metaller har hög smältpunkt; icke-metaller ofta låg
+    • Metaller leder värme; icke-metaller är dåliga värmeledare
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- Kontexten "sulfur gas from a volcano" → "svavelgas vid
+  vulkanutbrott" (samma innehåll, Stella-termer)
+- "bright yellow crystalline solid" → "klaregult kristallint
+  fast ämne"
+- "does not conduct electricity" → "leder inte elektricitet"
+- "metal or non-metal" → "metall eller icke-metall"
