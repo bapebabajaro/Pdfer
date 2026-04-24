@@ -1,0 +1,56 @@
+UPPGIFT: universalindikator_ph_surhet_alkalinitet
+Källa: 2018_Stage7_Paper2 :: fråga 9
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.3 Syror och baser + 2.4 Koncentration och pH
+Sidreferenser: s. 74–79 (indikatorer, neutral, sur, basisk)
+               s. 80–90 (pH-skalan, svag/stark syra/bas)
+Typ: Kryssfråga + kortsvars
+Poäng: 2
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Universalindikator kan användas för att uppskatta pH-värdet i en
+lösning.
+
+(a) Vilket alternativ beskriver bäst en lösning med pH 5?
+
+    Kryssa i rätt ruta.
+
+    [ ] neutral
+    [ ] starkt sur
+    [ ] starkt basisk
+    [ ] svagt sur
+    [ ] svagt basisk                                               [1]
+
+(b) Vad är pH-värdet för en neutral lösning?
+
+    .................................                              [1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "universalindikator" (s. 74–79)
+- "pH-värde" (s. 80–90)
+- "neutral" = pH 7 (s. 80–90)
+- "sur" = pH < 7, "basisk" = pH > 7 (s. 74–79)
+- "svagt sur" (pH 5–6), "starkt sur" (pH 1–3),
+  "svagt basisk" (pH 8–9), "starkt basisk" (pH 12–14) (s. 80–90)
+- Svar (a): svagt sur. Svar (b): 7
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "alkaline" → "basisk" konsekvent (Stella-term; "alkalisk" är
+  inte Stellas primära term)
+- "strongly acidic/weakly acidic/strongly alkaline/weakly alkaline"
+  → "starkt sur / svagt sur / starkt basisk / svagt basisk"
+- "Universal Indicator" → "universalindikator"
