@@ -1,0 +1,196 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_fuhua.pdf",
+  "processed_at": "2026-04-24",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 2,
+      "text": "Nitrogen dioxide gas is almost twice as dense as nitrogen gas. A gas jar of nitrogen dioxide was placed on top of a gas jar of nitrogen gas with the open ends together. After half an hour, which of these statements would be true?\n\nA  Both gases would not have mixed.\nB  The bottom gas jar contained nitrogen gas only.\nC  The top gas jar contained nitrogen dioxide gas only.\nD  Some of each gas would have moved into the other gas jar.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.7_Blandningar",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "2",
+      "page": 2,
+      "text": "The diagram shows the apparatus used to separate hexane (boiling point 70 °C) and water.\n\n[DIAGRAM – DISTILLATION APPARATUS AND FOUR GRAPHS]\nDistillation apparatus with flask, condenser, and collection flask. Point T marked at the top of the condenser.\nFour graphs (A–D) show temperature/°C on y-axis (range 70–100) against 'total volume of distillate' on x-axis.\nGraph A: starts at 70, stays flat, jumps to 100 and stays flat (two plateaus — correct).\nGraph B: starts at 100, stays flat, drops to 70 and stays flat.\nGraph C: rises linearly from 70 to 100.\nGraph D: falls linearly from 100 to 70.\nRecommended rendering tool: image generator.\n\nWhich graph would be obtained if the temperature at point T was plotted against the total volume of distillate collected?\n\nA  graph A\nB  graph B\nC  graph C\nD  graph D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "3",
+      "page": 3,
+      "text": "A student titrated 25.0 cm³ of sodium hydroxide with hydrochloric acid. The diagram shows the volume of hydrochloric acid in the burette at the start and the end of the titration.\n\n[DIAGRAM – TWO BURETTE READINGS]\nLeft burette (start): meniscus at approximately 1.20 cm³.\nRight burette (end): meniscus at approximately 30.80 cm³.\nBurettes have markings from 0 (top) to 32+ (bottom).\nRecommended rendering tool: image generator.\n\nWhat volume of hydrochloric acid was added from the burette?\n\nA  29.00 cm³\nB  29.60 cm³\nC  31.30 cm³\nD  32.70 cm³",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.1_Undersokningar_och_laborativt_arbete",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "4",
+      "page": 3,
+      "text": "The formulae of the ions of some elements are shown below:\n\nP³⁻   S²⁻   Cl⁻   Li⁺   Mg²⁺\n\nWhich of the following statements about these ions is correct?\n\nA  They all have more electrons than protons.\nB  They all have the same number of electron shells.\nC  They all have the same number of neutrons in their nuclei.\nD  They all have the same electronic structures as noble gases.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "7",
+      "page": 4,
+      "text": "Elements X and Y form an ionic compound of formula X₃Y. What could the atomic numbers of X and Y be?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 5 rows (including header).\nColumn 1: row letter (A–D)\nColumn 2: 'X'\nColumn 3: 'Y'\nRow A: 3 | 1\nRow B: 8 | 4\nRow C: 11 | 7\nRow D: 13 | 9\nRecommended rendering tool: SVG table.\n\nA  X=3, Y=1\nB  X=8, Y=4\nC  X=11, Y=7\nD  X=13, Y=9",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "9",
+      "page": 4,
+      "text": "Which of the following reactions shows the amphoteric property of zinc oxide?\n\nA  2ZnO + C → 2Zn + CO2\nB  ZnO + Mg → MgO + Zn\nC  ZnO + 2HCl → ZnCl2 + H2O\nD  ZnO + 2NaOH → Na2ZnO2 + H2O",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "10",
+      "page": 5,
+      "text": "The following statements about dilute sulfuric acid are all correct.\n\n1  It reacts with copper(II) oxide, forming a blue solution.\n2  It turns anhydrous copper(II) sulfate from white to blue.\n3  A white precipitate is formed when aqueous barium nitrate is added.\n4  Addition of methyl orange shows that the solution has a pH value of less than 4.0.\n\nWhich two statements confirm the acidic nature of the solution?\n\nA  1 and 2\nB  1 and 4\nC  2 and 3\nD  3 and 4",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "11",
+      "page": 5,
+      "text": "A titration method can be used to prepare aqueous potassium sulfate from potassium carbonate and dilute sulfuric acid. Which of the following conclusions from this information is correct?\n\nA  Potassium carbonate is an acidic salt.\nB  Potassium carbonate is insoluble in water.\nC  Potassium carbonate neutralises dilute sulfuric acid.\nD  Potassium carbonate reacts more vigorously than sodium carbonate with dilute sulfuric acid.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "12",
+      "page": 5,
+      "text": "Solid X is gradually added to aqueous solution Y. The changes in pH are shown in the graph below.\n\n[DIAGRAM – pH GRAPH AND TABLE]\nLine graph: y-axis 'pH' (0–14), x-axis 'mass of solid X added / g'. Curve starts near 0, rises gradually, then sharply through 7 and levels off near 7–8 (S-shaped neutralisation curve starting acidic).\nBelow the graph: a table with 3 columns and 5 rows (including header).\nColumn 1: row letter (A–D)\nColumn 2: 'X'\nColumn 3: 'Y'\nRow A: potassium carbonate | ethanoic acid\nRow B: potassium oxide | ethanoic acid\nRow C: sodium oxide | hydrochloric acid\nRow D: zinc oxide | hydrochloric acid\nRecommended rendering tool: image generator for graph, SVG table for data.\n\nWhat could X and Y be?\n\nA  X = potassium carbonate, Y = ethanoic acid\nB  X = potassium oxide, Y = ethanoic acid\nC  X = sodium oxide, Y = hydrochloric acid\nD  X = zinc oxide, Y = hydrochloric acid",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "20",
+      "page": 7,
+      "text": "An experiment was carried out to investigate the process of rusting in iron nails.\n\n[DIAGRAM – THREE NAILS]\nThree nails labelled X, Y and Z.\nNail X: iron nail wrapped with copper wire.\nNail Y: iron nail wrapped with zinc wire.\nNail Z: iron nail coated with copper (electroplated).\nRecommended rendering tool: image generator.\n\nWhich of the following statements is correct?\n\nA  None of the nails rusted.\nB  X rusted the fastest.\nC  Y rusted the fastest.\nD  Z rusted the fastest.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "24",
+      "page": 8,
+      "text": "Element X is one of the components found in car fuels. It forms an oxide Y when burnt in car engines and gets further oxidised into Z when it is released in the atmosphere. Which of the following statements is true about the substances X, Y and Z?\n\nA  Element X could be sulfur.\nB  Substances X, Y and Z exist naturally as gases.\nC  Substances Y and Z increase the pH of river water.\nD  Substance Z binds irreversibly to haemoglobin in blood cells resulting in respiratory difficulties in humans.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "25",
+      "page": 8,
+      "text": "Waste gases from a coal-burning power station are passed through powdered calcium carbonate to reduce pollution to the atmosphere.\n\nWhich waste gas will NOT be removed by the powdered calcium carbonate?\n\nA  carbon dioxide\nB  carbon monoxide\nC  nitrogen dioxide\nD  sulfur dioxide",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "27",
+      "page": 9,
+      "text": "Elements P, Q and R have the following properties:\n• P reacts with Group 1 metals to form ionic compounds.\n• Q reacts with oxygen to form compounds with giant covalent structures and very high melting and boiling points.\n• R reacts violently with acids to give off hydrogen gas.\n\nWhat is the arrangement order of these elements across a period in the Periodic Table?\n\nA  P, Q, R\nB  Q, R, P\nC  R, P, Q\nD  R, Q, P",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "28",
+      "page": 9,
+      "text": "Gaseous chlorine was passed through the apparatus set-up shown below. The apparatus was continuously heated throughout with a Bunsen flame.\n\n[DIAGRAM – APPARATUS WITH TABLE]\nApparatus: U-tube containing potassium bromide (region 1), potassium chloride (region 2), and potassium iodide (region 3 at bottom), with cotton wool plug at exit (region 4). Chlorine gas enters at the left.\nBelow: a table with 5 columns and 5 rows (header + 4 answer rows) showing expected colours at each region.\nRow A: brown gas | yellow-green gas | violet gas | yellow-green gas\nRow B: violet gas | yellow-green gas | brown gas | violet gas\nRow C: yellow-green gas | brown gas | violet gas | violet gas\nRow D: yellow-green gas | brown gas | brown gas | brown gas\nRecommended rendering tool: image generator for apparatus, SVG table for observations.\n\nWhat would be the observations made at regions 1, 2, 3 and 4?\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "30",
+      "page": 10,
+      "text": "The following graph shows the change in reactant and product concentrations with time during a chemical reaction.\n\n[DIAGRAM – CONCENTRATION vs TIME GRAPH]\nLine graph with x-axis 'time (s)' and y-axis 'concentration (mol/dm³)'.\nThree curves: X starts high and decreases to near zero (reactant); Y starts at zero and rises to highest level (major product); Z starts at zero and rises to an intermediate level (minor product).\nRecommended rendering tool: image generator.\n\nWhich equation represents the reaction shown in the graph?\n\nA  X → Y + Z\nB  X → 2Y + Z\nC  Z → 2X + Y\nD  Z → 2Y + X",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "31",
+      "page": 10,
+      "text": "Copper(II) sulfate reacts violently in excess magnesium powder to give magnesium sulfate and copper metal.\n\nCuSO4 (aq) + Mg (s) → MgSO4 (aq) + Cu (s)    ΔH = −164 kJ/mol\n\nWhich of the following will be observed when 25 cm³ of 0.05 mol/dm³ copper(II) sulfate is reacted with 2 g of magnesium powder?\n\nA  164 kJ of heat is absorbed in the reaction.\nB  328 kJ of heat is released in the reaction.\nC  The temperature of the solution increases.\nD  The solution remains blue as there is insufficient magnesium powder.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "32",
+      "page": 11,
+      "text": "Hydrogen peroxide solution is catalytically decomposed by manganese(IV) oxide to yield water and oxygen gas. Three experiments were performed using a fixed mass of catalyst but with:\n(i)   50 cm³ of 2.0 mol/dm³ hydrogen peroxide\n(ii)  100 cm³ of 1.0 mol/dm³ hydrogen peroxide\n(iii) 100 cm³ of 2.0 mol/dm³ hydrogen peroxide\n\n[DIAGRAM – LINE GRAPH AND TABLE]\nLine graph with x-axis 'time' and y-axis 'total volume of oxygen evolved'. Three curves X, Y, Z with X reaching the highest plateau, Y and Z lower.\nBelow: a table mapping curves X, Y, Z to experiments (i), (ii), (iii).\nRow A: X=(i), Y=(ii), Z=(iii)\nRow B: X=(i), Y=(iii), Z=(ii) [wait - need to match by volume and concentration]\nRow C: X=(iii), Y=(i) or (ii) combos\nRow D: Z=(iii), Y=(ii), X=(i)\nRecommended rendering tool: image generator for graph, SVG table.\n\nOn the graph above, which of the curves X, Y and Z relate to the solutions (i), (ii) and (iii)?\n\nA  X=(i), Y=(ii), Z=(iii)\nB  X=(i), Y=(iii), Z=(ii)\nC  X=(iii), Y=(i), Z=(ii)\nD  X=(iii), Y=(ii), Z=(i)",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "35",
+      "page": 12,
+      "text": "What happens when a current is drawn from the simple cell shown below?\n\n[DIAGRAM – GALVANIC CELL]\nA simple cell: zinc electrode on the left and copper electrode on the right, both immersed in aqueous sodium sulfate solution. A voltmeter (V) is connected at the top.\nRecommended rendering tool: image generator.\n\nA  Copper electrode dissolves to form copper(II) ions.\nB  Electrons flow from the copper to zinc electrode.\nC  Hydrogen gas is liberated at the zinc electrode.\nD  Zinc electrode dissolves to form zinc ions.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "36",
+      "page": 12,
+      "text": "Which of the following statements about biofuel is true?\n\nA  Biofuel can be separated by simple distillation.\nB  Biofuel is an alternative fuel source to petroleum.\nC  Biofuel is formed from the remains of dead animals.\nD  Biofuel is the main feedstock for the petrochemical industry.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    }
+  ]
+}
