@@ -1,0 +1,76 @@
+UPPGIFT: korrosion_rost_jarn_ordkvation_syre_vatten
+Källa: 2018_Stage8_Paper1 :: fråga 8
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.5 Korrosion och korrosionsskydd
+Sidreferenser: s. 230–243 (korrosion, rost, järnoxid,
+               skyddsmetoder, ordkvation för rostning)
+               s. 18–23 (atomer, för del b)
+Typ: Öppen fråga
+Poäng: 4
+Stella solvable: true
+Modifiering: minor (kontext: staket → grind/staket OK)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Bilden visar ett järnstaket.
+
+[DIAGRAM – APPARATURSKISS / FÖREMÅLSSKISS]
+Schematisk SVG-skiss av ett järnstaket:
+- Horisontell bas (marklinje)
+- Två vertikala stolpar
+- Tre vertikala spjälor med spetsiga toppar
+- En horisontell tvärslå i mitten
+- Ytan prickad med oregelbundna bruna/röda fläckar (rostfärg #8B4513)
+  för att representera korrosion/rost
+- Etikett "järnstaket" med pil
+SVG-storlek: 400×300px. Svart kontur, rostfärgade fläckar.
+[SLUT DIAGRAM]
+
+(a) Järn måste målas för att hindra det från att rosta.
+
+    När järn rostar bildas järnoxidhydrat (rost).
+
+    (i) Var kommer syret i järnoxidhydratet ifrån?
+        ....................................................................................[1]
+
+    (ii) Fyll i ordkvationen för rostningsprocessen.
+
+         järn + ............................  + ............................  → rost [1]
+
+    (iii) Järnoxid är en av järnets föreningar.
+
+          Ange ett namn på ytterligare en järnförening.
+          ....................................................................................[1]
+
+(b) Järn består av små partiklar som alla är identiska.
+
+    Vad kallas dessa partiklar?
+    ....................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-skiss av järnstaket med rost. Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "korrosion" / "rostar" (s. 230–243)
+- "järnoxidhydrat" = rost, kemisk formel Fe₂O₃·nH₂O (s. 230–243)
+- "ordkvation": järn + syre + vatten → rost (s. 230–243)
+- "förening" (s. 24–28)
+- "atomer" = de minsta partiklarna i ett grundämne (s. 18–23)
+  — svar på del (b) är "atomer" (inte molekyler, järn är ett metall-
+  kristall av atomer)
+
+Möjliga svar (iii): järnsulfid, järnklorid, järnkarbonat m.fl.
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "iron gate" → "järnstaket" (mer neutralt och igenkännbart i Sverige)
+- "hydrated iron oxide" → "järnoxidhydrat (rost)"
+- "rusting" → "rostningsprocessen"
+- Del (b): "particles" är avsiktligt vagt i original; Stella-svar = atomer
