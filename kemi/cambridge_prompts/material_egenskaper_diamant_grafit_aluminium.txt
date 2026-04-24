@@ -1,0 +1,85 @@
+UPPGIFT: material_egenskaper_diamant_grafit_aluminium
+Källa: 2011_Stage7_Paper2 :: fråga 12
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.2 Kol och dess former
+Sidreferenser: s. 194–220 (metallers och icke-metallers egenskaper;
+               diamant, grafit, aluminium, plast; egenskaper och
+               användningsområden)
+Typ: Matchning (material → egenskap → användning)
+Poäng: 2
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Olika material har olika egenskaper och användningsområden.
+
+Dra streck för att koppla ihop varje material med dess egenskap
+och varje egenskap med dess användning.
+
+(En koppling är redan gjord som exempel.)
+
+[DIAGRAM – MATCHNINGSDIAGRAM]
+SVG, 700×400px.
+
+Tre kolumner: "material" | "egenskap" | "användning"
+
+material:
+  diamant
+  grafit
+  aluminium
+  plast
+
+egenskap:
+  glänsande
+  skiktad struktur som kan glida
+  värmeisolerande och vattentät
+  lätt och korroderar inte
+
+användning:
+  smörjmedel
+  tillverkning av smycken (redan dragen — diamant → glänsande → smycken)
+  tillverkning av behållare för varma drycker
+  tillverkning av flygplanskroppar
+
+Rätt kopplingar:
+  diamant → glänsande → smycken (GIVEN)
+  grafit → skiktad struktur → smörjmedel
+  aluminium → lätt och korroderar inte → flygplanskroppar
+  plast → värmeisolerande och vattentät → behållare för varma drycker
+[SLUT DIAGRAM]
+                                                                [2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-matchningsdiagram (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "diamant": hårdaste naturliga ämnet, ren kolform (s. 194–220)
+- "grafit": mjuk kolform med skiktad struktur (s. 194–220)
+- "aluminium": lätt metall som inte korroderar lätt (s. 194–210)
+- "plast": syntetiskt material, dålig värmeledare (s. 194–220)
+- "korrosion": metall angrips av fukt/syre (s. 225–229)
+- "smörjmedel": ämne som minskar friktion (Stella: grafit) (s. 194–220)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "diamond" → "diamant", "graphite" → "grafit",
+  "aluminium" → "aluminium", "plastic" → "plast"
+- "sparkly" → "glänsande"
+- "made of layers that slide" → "skiktad struktur som kan glida"
+- "thermal insulator and waterproof" →
+  "värmeisolerande och vattentät"
+- "lightweight and does not corrode" →
+  "lätt och korroderar inte"
+- "as a lubricant" → "smörjmedel"
+- "to make jewellery" → "tillverkning av smycken"
+- "to make container for hot drink" →
+  "tillverkning av behållare för varma drycker"
+- "to make aircraft bodies" → "tillverkning av flygplanskroppar"
