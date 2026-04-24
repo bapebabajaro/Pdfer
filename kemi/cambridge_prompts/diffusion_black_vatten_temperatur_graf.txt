@@ -1,0 +1,103 @@
+UPPGIFT: diffusion_black_vatten_temperatur_graf
+Källa: 2011_Stage8_Paper2 :: fråga 8
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.1 Vattens egenskaper (partikelmodell)
+Sidreferenser: s. 60–67 (diffusion, partikelrörelse, temperatur
+               och rörelseenergi)
+Typ: Öppen utredningsuppgift med graf (delfrågor a–d)
+Poäng: 5
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Jamal undersöker hur bläck diffunderar i vatten.
+
+Han använder denna apparatur: sex provrör med vatten i
+olika temperaturer (10, 20, 30, 40, 50, 60 °C).
+
+Jamal registrerar hur lång tid det tar för bläcket i varje
+provrör att diffundera jämnt.
+
+Här är hans resultat.
+
+[DIAGRAM – TABELL (diffusionsresultat)]
+SVG-tabell, 400px bred. Rubrikrad grå.
+2 kolumner: "vattentemperatur i °C" | "tid för diffusion i minuter"
+
+Rad 2: 10 | 24
+Rad 3: 20 | 23
+Rad 4: 30 | 16
+Rad 5: 40 | 12
+Rad 6: 50 | 8
+Rad 7: 60 | 4
+[SLUT DIAGRAM]
+
+(a) Samma volym vatten används i varje provrör.
+
+    Varför är detta viktigt?
+    .......................................................................................[1]
+
+(b) Jamal ritar ett diagram.
+
+[DIAGRAM – LINJEDIAGRAM (diffusion vs temperatur)]
+Python/matplotlib. 550×450px. Vit bakgrund.
+x-axel: "vattentemperatur / °C", intervall 0–70
+y-axel: "tid / minuter", intervall 0–25
+Punkter från tabellen ovan. En punkt avviker (20°C = 23 min
+sticker ut från trenden).
+Gridlinjer på. Fontstorlek ≥ 12pt.
+(Eleven ska sätta ut sista punkterna och rita bästa linje.)
+[SLUT DIAGRAM]
+
+    (i) Slutför diagrammet med Jamals resultat.         [1]
+
+    (ii) Jamal tror att resultatet för en temperatur är fel.
+
+         Det felaktiga resultatet är vid  .............. °C.  [1]
+
+    (iii) Rita den bästa raka linjen genom de rätta punkterna.  [1]
+
+(c) Jamal noterar att resultaten visar ett mönster.
+
+    Beskriv mönstret i hans resultat.
+    .......................................................................................[1]
+
+(d) Föreslå ett sätt som Jamal kan förbättra sin undersökning.
+    .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-tabell (diffusionsresultat). Filnamn: diagram_1.svg
+2. matplotlib-linjediagram (med avvikande punkt). Filnamn: diagram_2.png
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "diffusion": partiklar sprids från hög till låg koncentration
+  (s. 60–67)
+- "partikelrörelse": ökar med temperatur → snabbare diffusion
+  (s. 60–67)
+- "avvikande värde" (s. 10–17)
+- "rättvis undersökning": samma volym vatten i varje provrör
+  (kontrollvariabel)
+
+Rätt svar:
+  (a) Volymen är en kontrollvariabel — annars påverkar den
+      diffusionstiden
+  (b)(ii) Det avvikande värdet är vid 20°C (23 min är för nära
+          24 min trots att 30°C ger 16 min)
+  (c) Högre temperatur → kortare tid för diffusion
+  (d) t.ex. Upprepa varje mätning och ta medelvärdet
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Jamal" behålls
+- "ink" → "bläck"
+- "diffuse evenly" → "diffundera jämnt"
+- "time taken to diffuse" → "tid för diffusion"
+- "anomalous" → "avvikande värde"
