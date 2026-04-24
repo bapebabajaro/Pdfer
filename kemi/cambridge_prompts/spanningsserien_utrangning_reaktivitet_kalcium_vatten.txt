@@ -1,0 +1,97 @@
+UPPGIFT: spanningsserien_utrangning_reaktivitet_kalcium_vatten
+Källa: 2018_Stage9_Paper1 :: fråga 8
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.3 Metallers reaktivitet
+Sidreferenser: s. 220–229 (spänningsserien, utträngning,
+               metallers relativa reaktivitet, reaktion med vatten)
+               s. 37–44 (ordkvationer)
+Typ: Kryssfråga + öppen fråga + ordkvation
+Poäng: 4
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Titta på diagrammet. Det visar några metaller i reaktivitetsordning.
+
+[DIAGRAM – SPÄNNINGSSERIEN]
+SVG-lista (vertikal). 300×550px.
+En vertikal dubbelsidig pil i mitten, märkt:
+  "mest reaktiv" (toppen) och "minst reaktiv" (botten)
+
+Metallerna listade uppifrån och ned:
+  kalium
+  natrium
+  kalcium
+  magnesium
+  aluminium
+  zink
+  järn
+  tenn
+  bly
+  koppar
+  silver
+  guld
+  platina
+
+Stil: svart text på vit bakgrund, varje metall på en horisontell
+linje, pilen till vänster om listan.
+[SLUT DIAGRAM]
+
+Använd diagrammet och dina kemiska kunskaper för att svara.
+
+(a) Vissa metaller kan tränga ut andra metaller ur deras föreningar.
+
+    Kryssa i de TVÅ kombinationer av metall och förening som ger
+    en utträngningsreaktion.
+
+    [ ] koppar och blyklorid
+    [ ] bly och silvernitrat
+    [ ] magnesium och natriumklorid
+    [ ] tenn och kopparklorid
+    [ ] zink och magnesiumnitrat                                   [2]
+
+(b) (i) Kalcium reagerar med kallt vatten.
+
+        Ange namnet på ytterligare en metall som reagerar med
+        kallt vatten.
+        ....................................................................................[1]
+
+    (ii) När kalcium reagerar med vatten bildas en bas och en gas.
+
+         Fyll i ordkvationen för reaktionen mellan kalcium och vatten.
+
+         kalcium + vatten →  ......................  +  ......................     [2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-lista (spänningsserien). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "spänningsserien": metallers reaktivitetsordning (s. 220–229)
+- "utträngningsreaktion": en mer reaktiv metall tränger ut en
+  mindre reaktiv ur en lösning av metallens förening (s. 220–229)
+- "reaktivitet" (s. 220–229)
+- Ordkvation: kalcium + vatten → kalciumhydroxid + vätgas (s. 220–229)
+- "bas" = kalciumhydroxid (s. 74–79)
+- "vätgas" = H₂ (s. 220–229)
+
+Rätta svar:
+  (a) bly och silvernitrat (bly > silver) ✓
+      tenn och kopparklorid (tenn > koppar) ✓
+  (b)(i) kalium, natrium (eller magnesium reagerar men långsamt)
+  (b)(ii) kalcium + vatten → kalciumhydroxid + vätgas
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- Metallnamn översatta: lead→bly, tin→tenn, copper→koppar,
+  iron→järn, zinc→zink, silver→silver, gold→guld, platinum→platina
+- "displacement reaction" → "utträngningsreaktion" (Stella-term)
+- "alkali" (produkten) → "bas" (Stella-term; kalciumhydroxid är
+  en bas, inte ett alkali i strikt Stella-terminologi)
