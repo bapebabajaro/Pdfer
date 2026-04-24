@@ -1,0 +1,136 @@
+UPPGIFT: reaktionshastighet_magnesium_saltsyra_gasspruta_graf
+Källa: 2011_Stage9_Paper2 :: fråga 9
+Stella Kemi kapitel: Kap 6 — Kemiska reaktioner
+Stella Kemi delkapitel: 6.2 Reaktionshastighet
+Sidreferenser: s. 244–280 (reaktionshastighet, faktorer,
+               Mg + HCl: ordkvation, vätgas, koncentration,
+               katalysator, temperatur, yta)
+               s. 10–17 (gasspruta, säkerhetsåtgärder)
+Typ: Öppen utredningsuppgift med graf (delfrågor a–d)
+Poäng: 7
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+David undersöker reaktionen mellan magnesium och saltsyra.
+
+Magnesiumklorid och vätgas bildas.
+
+(a) Skriv ordkvationen för denna reaktion.
+
+    ......................  +  ......................  →  ......................  +  ......................  [1]
+
+(b) Han använder denna apparatur.
+
+[DIAGRAM – APPARATURSKISS (gasspruta)]
+SVG-skiss, 500×350px. Svart linjeskiss, svenska etiketter.
+
+Komponenter:
+  • Konisk kolv märkt "syra" (pil) och "magnesium" (pil)
+  • Gummipropp med röranslutning
+  • Gasspruta (rektangel med rörlig kolv), etikett "gasspruta",
+    "rörelseskala" och "rörelse när gas bildas" (pil)
+[SLUT DIAGRAM]
+
+    (i) Vilken säkerhetsåtgärd måste David vidta?
+
+        Förklara ditt svar.
+        ..........................................................................................................................................
+        ......................................................................................................................................[2]
+
+    (ii) Hur kan han säkerställa att hans resultat är
+         tillförlitliga?
+         .......................................................................................[1]
+
+(c) Tabellen visar hans resultat.
+
+[DIAGRAM – TABELL (gasvolym)]
+SVG-tabell, 450px bred. Rubrikrad grå.
+2 kolumner: "tid i sekunder" | "total gasvolym i sprutan i cm³"
+
+Rad 2: 0   | 0
+Rad 3: 20  | 30
+Rad 4: 40  | 45
+Rad 5: 60  | 55
+Rad 6: 80  | 60
+Rad 7: 100 | 60
+[SLUT DIAGRAM]
+
+[DIAGRAM – LINJEDIAGRAM (gasvolym vs tid)]
+Python/matplotlib. 550×450px. Vit bakgrund.
+x-axel: "tid / sekunder", intervall 0–100
+y-axel: "total gasvolym i sprutan / cm³", intervall 0–70
+Gridlinjer på. Axelrubriker på svenska. Fontstorlek ≥ 12pt.
+(Delar av grafen är redan inritade; eleven ritar resterande
+punkter och bästa linje.)
+[SLUT DIAGRAM]
+
+    (i) Slutför diagrammet med resultaten från tabellen.     [1]
+
+    (ii) Rita bästa linjen för att avsluta diagrammet.       [1]
+
+    (iii) Använd ditt diagram för att ta reda på när
+          reaktionen är avslutad.
+
+          .............. sekunder                                    [1]
+
+    (iv) Fyll i meningen.
+         Reaktionen är snabbast mellan .............. sekunder
+         och .............. sekunder.                               [1]
+
+(d) Vad kan öka reaktionshastigheten mellan magnesium
+    och saltsyra?
+
+    Kryssa i TRE rutor.
+
+    [ ] Använd en mer utspädd saltsyra.
+    [ ] Tillsätt en katalysator.
+    [ ] Använd samma massa magnesium som ett fint pulver.
+    [ ] Använd samma massa magnesium som ett stort stycke.
+    [ ] Öka temperaturen på syran.
+    [ ] Sänk temperaturen på syran.                               [2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-apparaturskiss (gasspruta). Filnamn: diagram_1.svg
+2. SVG-tabell (gasvolym). Filnamn: diagram_2.svg
+3. matplotlib-linjediagram (gasvolym vs tid). Filnamn: diagram_3.png
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "reaktionshastighet" (s. 244–280)
+- "magnesium + saltsyra → magnesiumklorid + vätgas" (s. 220–229)
+- "gasspruta": noggrant mätverktyg (s. 10–17)
+- "katalysator": ämne som ökar reaktionshastigheten utan att
+  förbrukas (s. 244–280)
+- "ytarea": fint pulver har större yta → snabbare reaktion
+  (s. 244–280)
+- "koncentration" (s. 244–280)
+
+Rätt svar:
+  (a) magnesium + saltsyra → magnesiumklorid + vätgas
+  (b)(i) Skyddsglasögon (vätgas är brandfarlig; syra är frätande)
+  (b)(ii) Upprepa varje mätning och ta medelvärdet
+  (c)(iii) ca 80 sekunder (platå uppnås)
+  (c)(iv) snabbast 0–20 sekunder
+  (d) ✓ Tillsätt en katalysator
+      ✓ Använd samma massa som fint pulver
+      ✓ Öka temperaturen
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Davinder" → "David" (neutralt namn)
+- "hydrochloric acid" → "saltsyra"
+- "magnesium chloride / hydrogen" →
+  "magnesiumklorid / vätgas"
+- "gas syringe" → "gasspruta"
+- "safety precaution" → "säkerhetsåtgärd"
+- "reliable" → "tillförlitliga"
+- "catalyst" → "katalysator"
+- "fine powder" → "fint pulver"
