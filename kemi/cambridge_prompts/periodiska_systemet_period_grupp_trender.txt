@@ -1,0 +1,77 @@
+UPPGIFT: periodiska_systemet_period_grupp_trender
+Källa: 2011_Stage9_Paper1 :: fråga 9
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.1 Periodiska systemet och dess struktur
+Sidreferenser: s. 194–220 (period, grupp, trend i egenskaper,
+               alkalimetaller i grupp 1: smältpunkt, reaktivitet)
+Typ: Öppen fråga med periodiska systemet (delfrågor a–b)
+Poäng: 4
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Denna fråga handlar om periodiska systemet.
+
+[DIAGRAM – PERIODISKA SYSTEMET (förenklar)]
+SVG, 700×250px. Förenklat periodiskt system med elementsymboler:
+
+Rad 1:  H                                                         He
+Rad 2:  Li  Be          B   C   N   O   F   Ne
+Rad 3:  Na  Mg          Al  Si  P   S   Cl  Ar
+Rad 4:  K   Ca  [övergångsmetaller...]
+
+Grupp 1 (vänster kolumn): H, Li, Na, K
+Grupp 2: Be, Mg, Ca
+
+Etikett: "övergångsmetaller" (block i mitten)
+
+Obs: Eleven ska markera (skugga) en period och en grupp 1.
+[SLUT DIAGRAM]
+
+(a) (i) Markera en period i periodiska systemet.                [1]
+
+    (ii) Skriv den kemiska symbolen för ett metallelement
+         i tabellen.
+         .......................................................................................[1]
+
+(b) (i) Markera grundämnena i grupp 1 i periodiska systemet
+        nedan.                                                  [1]
+
+    (ii) Smältpunkten minskar uppifrån och ned i gruppen.
+
+         Beskriv ytterligare en trend som förändras
+         uppifrån och ned i gruppen.
+         .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-periodiska systemet (två versioner: en för period-markering,
+en för grupp 1-markering). Filnamn: diagram_1.svg, diagram_2.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "period": horisontell rad i periodiska systemet (s. 194–220)
+- "grupp": vertikal kolumn i periodiska systemet (s. 194–220)
+- "alkalimetaller": grupp 1 (Li, Na, K, ...) (s. 194–220)
+- "trend": hur en egenskap förändras nedåt/högerut (s. 194–220)
+- "smältpunkt minskar nedåt i grupp 1" (s. 194–220)
+
+Rätt svar:
+  (a)(ii) t.ex. Na, Mg, Al, K (alla är metaller)
+  (b)(ii) Exempeltrender (välj en):
+    • Reaktivitet ökar nedåt i grupp 1
+    • Atomstorlek ökar nedåt i grupp 1
+    • Densitet ökar (generellt) nedåt i grupp 1
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "period / group" → "period / grupp"
+- "Group I" → "grupp 1" (Stella använder arabiska siffror)
+- "trend that changes from top to bottom" →
+  "trend som förändras uppifrån och ned"
