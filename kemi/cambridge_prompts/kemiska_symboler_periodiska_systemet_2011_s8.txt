@@ -1,0 +1,68 @@
+UPPGIFT: kemiska_symboler_periodiska_systemet_2011_s8
+Källa: 2011_Stage8_Paper1 :: fråga 1
+Stella Kemi kapitel: Kap 4 — Atomens uppbyggnad
+Stella Kemi delkapitel: 4.2 Periodiska systemet
+Sidreferenser: s. 166–193 (periodiska systemet, kemiska symboler
+               för grundämnen: Al, Ar, K, Ca, C)
+Typ: Matchning (grundämne → kemisk symbol)
+Poäng: 3
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Grundämnena i periodiska systemet har olika kemiska symboler.
+
+Dra streck för att koppla samman varje grundämne med
+sin kemiska symbol.
+
+[DIAGRAM – MATCHNINGSDIAGRAM]
+SVG-matchningsdiagram, 400×300px.
+
+Vänster kolumn (grundämnen):
+  aluminium
+  argon
+  kalium
+  kalcium
+  kol
+
+Höger kolumn (kemiska symboler):
+  K
+  Ca
+  C
+  Ar
+  Al
+
+Rätt kopplingar:
+  aluminium → Al
+  argon → Ar
+  kalium → K
+  kalcium → Ca
+  kol → C
+[SLUT DIAGRAM]
+                                                                [3]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-matchningsdiagram (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "kemisk symbol": ett- eller tvåbokstavsbeteckning för ett
+  grundämne (s. 166–193)
+- "grundämne": rent ämne av en enda typ av atomer (s. 166–193)
+- aluminium (Al), argon (Ar), kalium (K), kalcium (Ca), kol (C)
+
+Obs: Kalium har symbolen K (från latinets kalium); eleven bör
+känna till Stellas tabell med ovanliga symboler (s. 166–193).
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- Grundämnesnamn översatta: aluminium→aluminium,
+  argon→argon, potassium→kalium, calcium→kalcium, carbon→kol
+- Symbolerna (K, Ca, C, Ar, Al) är universella, behålls
