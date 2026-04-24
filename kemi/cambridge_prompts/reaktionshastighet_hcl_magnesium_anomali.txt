@@ -1,0 +1,104 @@
+UPPGIFT: reaktionshastighet_hcl_magnesium_anomali
+Källa: 2018_Stage9_Paper2 :: fråga 9
+Stella Kemi kapitel: Kap 6 — Kemiska reaktioner
+Stella Kemi delkapitel: 6.2 Reaktionshastighet
+Sidreferenser: s. 244–280 (reaktionshastighet, koncentration,
+               avvikande värden, gas, mätning)
+               s. 10–17 (laborationsuppställning, gasspruta)
+Typ: Öppen fråga med tabell och laborationsuppställning
+Poäng: 3
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Fatima och Ahmed undersöker reaktionshastigheten hos reaktionen
+mellan saltsyra och magnesium.
+
+Diagrammet visar den apparatur de använder.
+
+[DIAGRAM – APPARATURSKISS]
+SVG-skiss, 500×400px. Svart linjeskiss, svenska etiketter.
+
+Komponenter:
+  • Konisk kolv (rektangel med avrundad botten) märkt
+    "magnesiumband" (pil in i kolven) och "saltsyra" (pil in)
+  • Gummistopp i kolven med ett glasrör ut
+  • Glasröret leder till ett uppochnedvänt mätglas (fyllt med
+    vatten) stående i ett vattenbad (rektangel med vatten)
+  • Etiketten "vatten" på vattenbadet
+  • Etiketten "mätglas" på mätglaset
+[SLUT DIAGRAM]
+
+Kolven innehåller 1 cm magnesiumband och 25 cm³ saltsyra.
+
+Fatima och Ahmed mäter volymen gas som bildas på 2 minuter.
+
+De upprepar experimentet med olika koncentrationer av syra.
+
+Här är deras resultattabell.
+
+[DIAGRAM – TABELL]
+SVG-tabell, 500px bred. Rubrikrad grå (#cccccc).
+2 kolumner: "relativ koncentration av syra" | "insamlad gasvolym i cm³"
+
+Rad 2: 1 | 5
+Rad 3: 2 | 12
+Rad 4: 3 | 29
+Rad 5: 4 | 25
+Rad 6: 5 | 27
+[SLUT DIAGRAM]
+
+Fatima berättar för Ahmed att ett resultat är ett avvikande värde.
+
+(a) Vilket resultat är det avvikande värdet?
+    ......................................................................................................................................[1]
+
+(b) Hur kan de kontrollera om detta resultat verkligen är
+    ett avvikande värde?
+    ......................................................................................................................................[1]
+
+(c) Fatima och Ahmed vill förbättra sitt experiment för att
+    få mer noggranna resultat.
+
+    Vilken förbättring bör de göra?
+
+    Kryssa i rätt ruta.
+
+    [ ] Byt ut syran mot en bas.
+    [ ] Byt ut den koniska kolven mot ett bägarglas.
+    [ ] Använd en gasspruta i stället för ett mätglas.
+    [ ] Byt ut magnesium mot järn.                                 [1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-apparaturskiss (se DIAGRAM-block 1). Filnamn: diagram_1.svg
+2. SVG-tabell (se DIAGRAM-block 2). Filnamn: diagram_2.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "reaktionshastighet": hur snabbt en reaktion sker (s. 244–280)
+- "koncentration": mängd löst ämne per volymenhet (s. 244–280)
+- "avvikande värde": ett resultat som inte stämmer med mönstret
+  (s. 10–17)
+- "magnesiumband" / "saltsyra" (s. 220–229)
+- "gasspruta": mer noggrann än mätglas vid gasmätning (s. 10–17)
+
+Rätt svar:
+  (a) Relativ koncentration 4 (gav 25 cm³ trots att 3 gav 29 cm³)
+  (b) Upprepa experimentet med koncentration 4
+  (c) Använd en gasspruta i stället för ett mätglas
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Jamila and Ahmed" → "Fatima och Ahmed"
+- "hydrochloric acid" → "saltsyra"
+- "magnesium ribbon" → "magnesiumband"
+- "anomaly" → "avvikande värde" (Stella-term)
+- "gas syringe instead of a measuring cylinder" →
+  "gasspruta i stället för ett mätglas"
