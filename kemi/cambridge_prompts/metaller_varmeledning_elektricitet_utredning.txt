@@ -1,0 +1,118 @@
+UPPGIFT: metaller_varmeledning_elektricitet_utredning
+Källa: 2011_Stage7_Paper1 :: fråga 6
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.1 Metallers egenskaper
+Sidreferenser: s. 194–210 (metallernas egenskaper: värmeledning,
+               elektrisk ledningsförmåga, utredningsdesign,
+               rättvis undersökning)
+               s. 6–30 (laborationsplanering, rättvis undersökning)
+Typ: Öppen utredningsuppgift (delfrågor a–b)
+Poäng: 7
+Stella solvable: true
+Modifiering: minor (namn ändrat)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Luka undersöker egenskaperna hos fyra olika metaller.
+
+(a) Hans första undersökning handlar om värmeledning.
+
+    Luka värmer ena änden av varje metallstav.
+    En del av vaxet som täcker staven smälter och droppar ner.
+
+[DIAGRAM – APPARATURSKISS (värmeledning)]
+SVG-skiss, 500×250px. Svart linjeskiss, svenska etiketter.
+
+Ritning 1 (före):
+  • En metallstav (lång rektangel) med vax (randigt mönster)
+    längs hela staven.
+  • En låga (triangel) under vänster ände.
+  • Etiketter: "värme" (pil till lågan), "vax på metallstaven",
+    "metallstav"
+
+Ritning 2 (efter, 5 min):
+  • Vänster del av staven: vaxet borta (vax har smält och
+    droppat av).
+  • Höger del: vax kvar.
+  • Etiketter som ovan.
+[SLUT DIAGRAM]
+
+    (i) Luka värmer varje metallstav lika länge.
+
+        Föreslå ytterligare två faktorer han bör hålla konstanta
+        för att göra undersökningen rättvis.
+
+        1  ......................................................................................
+        2  ......................................................................................[2]
+
+    (ii) Han vill jämföra hur bra de fyra metallerna leder värme.
+
+         Föreslå en mätning han kan göra och vilken utrustning
+         han behöver.
+
+         Mätning  ......................................................................................
+         Utrustning  .....................................................................................[1]
+
+    (iii) Luka registrerar sina resultat. Rita en resultattabell
+          åt honom att använda.
+
+          [Resultattabell ska ritas — se instruktioner nedan]
+
+[DIAGRAM – RESULTATTABELL (värmeledning)]
+SVG-tabell, 500px bred. Rubrikrad grå (#cccccc).
+Kolumner: "metall" | "mätning" (t.ex. "längd smält vax i mm")
+Rader: Metall A | Metall B | Metall C | Metall D
+Tomma celler i dataraden (eleven ska fylla i).[2]
+[SLUT DIAGRAM]
+
+(b) Lukas andra undersökning handlar om elektrisk ledning.
+
+[DIAGRAM – STAPELDIAGRAM (elektrisk ledningsförmåga)]
+SVG eller matplotlib stapeldiagram, 500×350px.
+x-axel: Metall A, Metall B, Metall C, Metall D
+y-axel: "elektrisk ledningsförmåga" (relativ skala 0–5)
+Stapelnas höjder (uppskattade ur originalet): A≈4, B≈1, C≈3, D≈2
+Rubrik: "Elektrisk ledningsförmåga hos fyra metaller"
+[SLUT DIAGRAM]
+
+    (i) Vilken metall lämpar sig bäst för elektriska ledningar?
+        .......................................................................................[1]
+
+    (ii) Föreslå ytterligare en egenskap hos metaller som är
+         viktig vid tillverkning av elektriska ledningar.
+        .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-apparaturskiss (värmeledning). Filnamn: diagram_1.svg
+2. SVG-resultattabell (tom). Filnamn: diagram_2.svg
+3. Matplotlib-stapeldiagram (elektrisk ledningsförmåga).
+   Filnamn: diagram_3.png
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "värmeledning" / "värmeledningsförmåga" (s. 194–210)
+- "elektrisk ledningsförmåga" (s. 194–210)
+- "rättvis undersökning": en variabel ändras i taget (s. 6–30)
+- "kontrollvariabel" / "faktorer som hålls konstanta" (s. 6–30)
+- Metallegenskaper: glans, duktilitet, ledning av värme och
+  elektricitet (s. 194–210)
+
+Rätt svar:
+  (a)(i) t.ex. stavens längd; mängden vax; värmeintensitet
+  (a)(ii) t.ex. längden smält vax mäts med linjal
+  (b)(i) Metall A (högst stapel)
+  (b)(ii) t.ex. duktilitet/böjbarhet, smältpunkt, korrosionsmotstånd
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Luka" behålls
+- "heat conduction" → "värmeledning"
+- "electrical conductivity" → "elektrisk ledningsförmåga"
+- "fair test" → "rättvis undersökning" (Stella-term)
+- Stapeldiagrammet är rekonstruerat (originalet är en bild)
