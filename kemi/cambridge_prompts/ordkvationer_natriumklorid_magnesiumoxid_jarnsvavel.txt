@@ -1,0 +1,50 @@
+UPPGIFT: ordkvationer_natriumklorid_magnesiumoxid_jarnsvavel
+Källa: 2011_Stage8_Paper1 :: fråga 7
+Stella Kemi kapitel: Kap 6 — Kemiska reaktioner
+Stella Kemi delkapitel: 6.1 Kemiska reaktioner och ordkvationer
+Sidreferenser: s. 37–44 (ordkvationer)
+               s. 220–229 (metallers reaktioner)
+               s. 244–280 (reaktionstyper: syntes, förbränning)
+Typ: Kompletteringsuppgift (fyll i ordkvationer)
+Poäng: 3
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Fyll i ordkvationerna.
+
+(a)  ......................  + natrium  →  natriumklorid           [1]
+
+(b)  ......................  + syre  →  magnesiumoxid              [1]
+
+(c)  järn + svavel  →  ......................                       [1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "ordkvation": reaktionspartner → produkt (s. 37–44)
+- "natrium" (Na), "klor" (Cl₂) → "natriumklorid" (NaCl) (s. 37–44)
+- "magnesium" (Mg) + "syre" (O₂) → "magnesiumoxid" (MgO) (s. 37–44)
+- "järn" (Fe) + "svavel" (S) → "järnsulfid" (FeS) (s. 37–44)
+
+Rätt svar:
+  (a) klor (Cl₂) + natrium → natriumklorid
+  (b) magnesium + syre → magnesiumoxid
+  (c) järn + svavel → järnsulfid
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "sodium" → "natrium", "chlorine" → "klor",
+  "sodium chloride" → "natriumklorid"
+- "oxygen" → "syre", "magnesium oxide" → "magnesiumoxid"
+- "iron" → "järn", "sulfur" → "svavel",
+  "iron sulfide" → "järnsulfid"
