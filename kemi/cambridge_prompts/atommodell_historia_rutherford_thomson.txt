@@ -1,0 +1,93 @@
+UPPGIFT: atommodell_historia_rutherford_thomson
+Källa: 2018_Stage9_Paper2 :: fråga 6
+Stella Kemi kapitel: Kap 4 — Atomens uppbyggnad
+Stella Kemi delkapitel: 4.1 Atomens historia och uppbyggnad
+Sidreferenser: s. 142–165 (atommodellens historia, Dalton, Thomson,
+               Rutherford, Bohr; elektron, proton, neutron, kärna)
+Typ: Öppen fråga med tidslinje (delfrågor a–b)
+Poäng: 3
+Stella solvable: true
+Modifiering: minor (Heisenberg/Schrödinger utelämnas; Stella stannar vid Bohr)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Tidslinjen visar när några vetenskapsmän lade fram sina idéer
+om atomens uppbyggnad.
+
+[DIAGRAM – TIDSLINJE]
+SVG-tidslinje, horisontell. 700×200px.
+
+En horisontell linje (vänster = äldst, höger = nyast).
+Markeringar (lodräta streck med år och namn, ej i skala):
+
+  400 f.Kr. — Demokritos
+  1803      — Dalton
+  1904      — JJ Thomson
+  1910      — Rutherford
+  1913      — Bohr
+  1926      — Schrödinger / Heisenberg
+
+Text "ej i skala" placeras under tidslinjen.
+[SLUT DIAGRAM]
+
+(a) Rutherford var den förste vetenskapsmannen att föreslå
+    den moderna atommodellen.
+
+    (i) Idén att grundämnen är uppbyggda av atomer föreslogs
+        av en vetenskapsman ungefär 100 år före Rutherfords
+        förslag.
+
+        Använd tidslinjen och ange denna vetenskapsmans namn.
+        .......................................................................................[1]
+
+    (ii) Atommodellen som JJ Thomson lade fram 1904 kallades
+         för "russinkaksmodellen".
+
+         Rutherfords upptäckter innebar att russinkaksmodellen
+         inte längre användes.
+
+         Använd tidslinjen för att beräkna hur länge
+         russinkaksmodellen användes.
+
+         .................................................. år                            [1]
+
+(b) Den modell som Rutherford föreslog har förändrats
+    med tiden.
+
+    Varför har modellen förändrats?
+    ..........................................................................................................................................
+    ..........................................................................................................................................
+    ......................................................................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-tidslinje (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "atom": minsta enheten av ett grundämne (s. 142–150)
+- "kärna": atomens centrum med protoner och neutroner (s. 142–165)
+- "elektron": negativt laddad partikel i elektronskal (s. 142–165)
+- "atommodell": vetenskaplig modell av atomens inre struktur
+  (s. 142–165)
+- "russinkaksmodellen": Thomsons modell där elektroner sitter
+  inbäddade i en positivt laddad massa (s. 142–165)
+
+Rätt svar:
+  (a)(i) Dalton (1803, ca 107 år före Rutherfords 1910)
+  (a)(ii) 1910 − 1904 = 6 år
+  (b) Nya experiment och observationer gav bevis som inte
+      stämde med den gamla modellen → modellen reviderades
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "plum pudding model" → "russinkaksmodellen" (Stella-term
+  för Thomsons atommodell)
+- Schrödinger/Heisenberg är med i tidslinjen men Stella
+  stannar vid Bohr; eleven behöver bara använda Dalton/Thomson/
+  Rutherford/Bohr för att svara korrekt
