@@ -1,0 +1,77 @@
+UPPGIFT: metall_icke_metall_identifiering_egenskaper
+Källa: 2011_Stage8_Paper1 :: fråga 10
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.1 Metallers egenskaper
+Sidreferenser: s. 194–210 (metaller vs icke-metaller: värmeledning,
+               glans, duktilitet, ledningsförmåga)
+Typ: Öppen fråga med observationsruta
+Poäng: 3
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Zakaria har ett okänt grundämne.
+
+Han vill ta reda på om det är en metall eller en icke-metall.
+
+Zakaria skriver ned sina resultat.
+
+[DIAGRAM – INFORMATIONSRUTA]
+SVG-ruta (rektangel med tunn kantlinje), 400×150px.
+
+Text i rutan:
+  • När jag värmde ena änden av grundämnet blev andra änden
+    snabbt varm.
+  • Grundämnet löste sig inte i vatten.
+  • Grundämnet är orange till färgen.
+[SLUT DIAGRAM]
+
+(a) Tror du att detta grundämne är en metall eller en icke-metall?
+
+    Vilket påstående i Zakarias resultat fick dig att bestämma dig?
+    .......................................................................................[1]
+
+(b) Beskriv ytterligare två skillnader mellan metaller
+    och icke-metaller.
+
+    1  ......................................................................................................................................
+
+    2  ......................................................................................................................................[2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-informationsruta (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "metall" / "icke-metall" (s. 194–210)
+- "värmeledning": metaller leder värme bra; icke-metaller dåligt
+  (s. 194–210)
+- "elektrisk ledningsförmåga": metaller leder (s. 194–210)
+- "glans": metaller är blanka (s. 194–210)
+- "duktilitet": metaller är formbara (s. 194–210)
+
+Rätt svar:
+  (a) Metall — avgörande bevis: "andra änden snabbt varm"
+      = god värmeledning = metallisk egenskap
+  (b) Exempelskillnader (välj 2):
+    • Metaller leder elektricitet; icke-metaller gör det
+      (vanligtvis) inte
+    • Metaller är blanka (glans); icke-metaller är matta
+    • Metaller är formbara (duktila); icke-metaller är sköra
+    • Metaller har hög smältpunkt; icke-metaller ofta lägre
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Zoran" → "Zakaria" (för att undvika förväxling med ett
+  tidigare namn i materialet; Stella-kontext neutral)
+- "the other end got hot very quickly" →
+  "andra änden snabbt varm"
+- "an orange colour" → "orange till färgen" (koppar är orange
+  — svaret är metall)
