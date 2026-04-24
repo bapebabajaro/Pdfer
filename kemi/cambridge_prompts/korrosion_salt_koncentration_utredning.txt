@@ -1,0 +1,94 @@
+UPPGIFT: korrosion_salt_koncentration_utredning
+Källa: 2018_Stage8_Paper2 :: fråga 6
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.5 Korrosion och korrosionsskydd
+Sidreferenser: s. 230–243 (korrosion, rost, saltvattnets roll,
+               villkor för rostning: syre + vatten)
+               s. 10–17 (laborationsmetodik, variabler, kontroll)
+Typ: Utredningsfråga
+Poäng: 5
+Stella solvable: true
+Modifiering: minor (namn ändrat)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Kalle undersöker rostning.
+
+• Han häller destillerat vatten i fyra bägarglas.
+• Han tillsätter olika mängder salt i tre av bägarglsen.
+• Han lägger en järnspik i varje bägarglas.
+
+[DIAGRAM – APPARATURSKISS]
+Fyra bägarglas i rad, SVG 700px bred × 250px hög.
+Varje bägarglas:
+  - rektangulär behållare (80×120px), transparent
+  - vätska i botten (ljusblå, 50px hög)
+  - en järnspik (grå rektangel 10×50px) stående i vätskan
+  - etikett under glaset (se nedan)
+  - ovanpå spiken vid glas 2–4: bruna/röda prickar (rost)
+
+Etiketter under respektive glas:
+  Glas 1: "ingen spik med inga salt"    ← OBS: originalets "no salt"
+           (liten mängd rost på spiken)
+  Glas 2: "järnspik med 1 g salt"      (mestadels rostig under ytan)
+  Glas 3: "järnspik med 2 g salt"      (hela spiken under ytan rostig)
+  Glas 4: "järnspik med 3 g salt"      (hela spiken under ytan,
+                                          kraftigt rostig)
+Stil: enkel schematisk skiss, inga fotorealistiska element.
+[SLUT DIAGRAM]
+
+Efter en vecka antecknar Kalle sina observationer.
+
+[DIAGRAM – TABELL]
+Tabell, 2 kolumner, 5 rader (inkl. rubrik).
+Rubrik: Tillsatt saltmängd (g) | Observation
+0  | liten mängd rost
+1  | mesta av spiken under vattenytan är rostig
+2  | hela spiken under vattenytan är rostig
+3  | hela spiken under vattenytan är kraftigt rostig
+
+Rekommenderat renderingsverktyg: SVG-tabell eller Markdown-tabell.
+[SLUT DIAGRAM]
+
+(a) (i) Vilken variabel ändrar Kalle i sin utredning?
+        ....................................................................................[1]
+
+    (ii) Ange en variabel som Kalle måste hålla konstant.
+        ....................................................................................[1]
+
+    (iii) Vilken slutsats kan Kalle dra av sin utredning?
+          ....................................................................................[1]
+
+(b) (i) Vilket grundämne löst i vattnet reagerar med järn vid rostning?
+        ....................................................................................[1]
+
+    (ii) Kalle sätter upp ett nytt bägarglas med en järnspik men utan
+         vatten, och täpper till öppningen.
+
+         Förklara varför järnspiken i detta bägarglas inte rostar.
+         ....................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-apparaturskiss (fyra bägarglas). Filnamn: diagram_1.svg
+2. SVG/Markdown-tabell med observationer. Filnamn: diagram_2.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "korrosion" / "rostar" (s. 230–243)
+- "syre" från luften + "vatten" = förutsättningar för rostning (s. 230–243)
+- "variabel" / "kontrollvariabel" (s. 10–17)
+- Svar (b)(i): syre (löst i vatten)
+- Svar (b)(ii): utan vatten saknas ett av de ämnen som krävs för
+  korrosion (s. 230–243)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Chen" → "Kalle"
+- "distilled water" → "destillerat vatten"
+- "iron nail" → "järnspik"
