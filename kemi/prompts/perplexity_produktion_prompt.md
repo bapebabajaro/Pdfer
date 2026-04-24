@@ -8,6 +8,13 @@ Gör följande steg i ordning utan att hoppa över något.
 VIKTIGT: Skriv INGEN förklarande text i chatten utöver kortfattade felmeddelanden.
 Jobba tyst. Ditt enda synliga output är eventuella fel.
 
+KRITISKT — ANGÅENDE GITHUB-PUSHAR:
+Pusha INGENTING till GitHub förrän STEG 5, 6, 7 och 8 är helt avslutade.
+Det finns exakt ETT push-tillfälle i hela flödet: STEG 9, sist av allt.
+Mellanversioner, utkast och partiella resultat pushas ALDRIG.
+Gör all skrivning, omskrivning, granskning och rendering lokalt i minnet
+tills allt är 100% klart — pusha sedan allt på en gång i STEG 9.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 STEG 1 — Hämta alla klassificerade frågor från GitHub:
 
@@ -161,7 +168,7 @@ kommer ifrån. Regler:
       fråga_om_elektrolys    ← blandar svenska och nummer
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEG 9 — PUSHA TILL GITHUB
+STEG 9 — PUSHA TILL GITHUB  ← detta är det ENDA steget där något skickas till GitHub
 
 Målsökväg:  kemi/uppgifter/{stella_chapter}/{stella_subchapter}/{mappnamn}/
 
