@@ -1,0 +1,72 @@
+UPPGIFT: fotosyntes_ordkvation_varierade_blad
+Källa: 2018_Stage9_Paper1 :: fråga 1
+Stella Kemi kapitel: Kap 4 — Livets kemi
+Stella Kemi delkapitel: 4.1 Cellandning och fotosyntes
+Sidreferenser: s. 144–152 (fotosyntes, ordkvation, klorofyll,
+               ljus som energikälla, glukos, koldioxid, vatten,
+               syre)
+Typ: Ordkvation + öppen fråga
+Poäng: 3
+Stella solvable: true
+Modifiering: minor (kontext med varierade blad förklarad på svenska)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Diagrammet visar en växt med brokiga (varierade) blad.
+
+Delar av bladen är gröna och delar är vita.
+
+[DIAGRAM – VÄXTSKISS]
+SVG-skiss av ett blad, 400×300px:
+- Bladets kontur: ovalform
+- Grön yta (fyllnad #2d8a2d) täcker ca 60% av bladet
+  (oregelbunden fläckig form mot bladets bas och kant)
+- Vit yta (fyllnad #ffffff, kontur #aaaaaa) täcker resterande 40%
+  (oregelbundna vita fläckar, framförallt i mitten och spetsen)
+- Etikett "grön yta" med pil till grön del
+- Etikett "vit yta" med pil till vit del
+- Bladskaft nedtill
+Stil: SVG, grön och vit, med mörk konturlinje.
+[SLUT DIAGRAM]
+
+(a) Växter använder fotosyntes för att tillverka mat och kunna växa.
+
+    Fyll i ordkvationen för fotosyntesen.
+
+    ......................  +  ......................  →
+    ......................  +  ......................              [2]
+
+(b) Växten med brokiga blad växer inte lika snabbt som en växt med
+    enbart gröna blad.
+
+    Föreslå en anledning till detta.
+    ....................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-skiss av brokigt blad. Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "fotosyntes" (s. 144–152)
+- Ordkvation: koldioxid + vatten → glukos + syre  (ljus krävs,
+  anges ofta ovanför pilen) (s. 144–152)
+- "klorofyll": det gröna pigmentet som absorberar ljus (s. 144–152)
+  — vita bladdelar saknar klorofyll → kan inte fotosyntetisera
+- "glukos" som fotosyntesprodukt (s. 144–152)
+
+Rätta svar:
+  (a) koldioxid + vatten →(ljus/klorofyll)→ glukos + syre
+  (b) De vita delarna saknar klorofyll och kan inte fotosyntetisera,
+      vilket ger mindre glukos totalt
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "variegated leaves" → "brokiga (varierade) blad"
+  (båda termerna anges för tydlighet)
+- Ordkvation: originalet visar tomma rutor; formatet behålls
