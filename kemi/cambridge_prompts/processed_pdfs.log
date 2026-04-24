@@ -1,0 +1,86 @@
+# Cambridge Lower Secondary Science — Processerade PDF-filer
+# Logg för alla filer som skannats och fått Perplexity-prompts skapade.
+# Skapad: 2026-04-24
+# Format: filnamn | antal kemifrågor | antal prompts skapade | status
+
+2018_Stage7_Paper1.pdf | 2 kemifrågor | 2 prompts | KLAR
+  → syror_baser_ph_bistick_neutralisation.txt (Q5)
+  → aggregationstillstand_tabell_partiklar_form_rorelse.txt (Q8)
+
+2018_Stage7_Paper2.pdf | 3 kemifrågor | 3 prompts | KLAR
+  → aggregationstillstand_fasoverganger_is_smaltning_laboratoriet.txt (Q5)
+  → universalindikator_ph_surhet_alkalinitet.txt (Q9)
+  → metaller_icke_metaller_egenskaper_jamforelse.txt (Q14)
+
+2018_Stage8_Paper1.pdf | 4 kemifrågor | 4 prompts | KLAR
+  → kemiska_symboler_grundamnen_s8_periodiska.txt
+  → metaller_ledningsformaga_duktilitet_smaltpunkt.txt
+  → korrosion_rost_jarn_ordkvation_syre_vatten.txt
+  → cellandning_ordkvation_syre_glukos_koldioxid.txt
+
+2018_Stage8_Paper2.pdf | 5 kemifrågor | 5 prompts | KLAR
+  → grundamnen_foreningar_blandningar_partikeldiagram.txt
+  → korrosion_salt_koncentration_utredning.txt
+  → kopparklorid_struktur_klor_egenskaper_forening.txt
+  → kalciumkarbonat_termisk_nedbrytning_ordkvation.txt
+  → beryllium_syre_forening_definition.txt
+
+2018_Stage9_Paper1.pdf | 5 kemifrågor | 5 prompts | KLAR
+  → fotosyntes_ordkvation_varierade_blad.txt (Q1)
+  → reaktionshastighet_gasvolym_graf_koncentration_temperatur.txt (Q2)
+  → periodiska_systemet_grupp2_elektroner_protoner.txt (Q5)
+  → spanningsserien_utrangning_reaktivitet_kalcium_vatten.txt (Q8)
+  → avdunstning_partikelmodell_kylning.txt (Q9)
+  → skogsskovling_koldioxid_syre_fotosyntes.txt (Q10)
+  → salt_framstallning_filtrering_kristallisering.txt (Q11)
+
+2018_Stage9_Paper2.pdf | 6 kemifrågor | 6 prompts | KLAR
+  → ph_markmineral_jarnhalt_diagram.txt (Q1)
+  → alkalimetaller_grupp1_litium_natrium_kalium.txt (Q3)
+  → atommodell_historia_rutherford_thomson.txt (Q6)
+  → reaktionshastighet_hcl_magnesium_anomali.txt (Q9)
+  → magnesium_forbrannung_exoterm_kloridlake.txt (Q12)
+  → fosfor_atom_karnpartiklar.txt (Q15)
+
+2011_Stage7_Paper1.pdf | 3 kemifrågor | 3 prompts | KLAR
+  → metaller_varmeledning_elektricitet_utredning.txt (Q6)
+  → partiklar_fast_amne_vibrationer.txt (Q9)
+  → svavel_icke_metall_egenskaper.txt (Q11b)
+
+2011_Stage7_Paper2.pdf | 3 kemifrågor | 3 prompts | KLAR
+  → aggregationstillstand_fasoverganger_kondensation_sublimation.txt (Q2)
+  → ph_papper_fruktsafter_neutralisation.txt (Q3)
+  → material_egenskaper_diamant_grafit_aluminium.txt (Q12)
+
+2011_Stage8_Paper1.pdf | 5 kemifrågor | 5 prompts | KLAR
+  → kemiska_symboler_periodiska_systemet_2011_s8.txt (Q1)
+  → ordkvationer_natriumklorid_magnesiumoxid_jarnsvavel.txt (Q7)
+  → rostning_tillstand_jarnspik_korrosion.txt (Q9)
+  → metall_icke_metall_identifiering_egenskaper.txt (Q10)
+  → grundamnen_foreningar_formler_element_compound.txt (Q12)
+
+2011_Stage8_Paper2.pdf | 3 kemifrågor | 3 prompts | KLAR
+  → aggregationstillstand_partikeldiagram_tabellkomplettering.txt (Q3)
+  → diffusion_black_vatten_temperatur_graf.txt (Q8)
+  → luft_kvave_syre_koldioxid_forening_definition.txt (Q9)
+
+2011_Stage9_Paper1.pdf | 4 kemifrågor | 4 prompts | KLAR
+  → halogener_klorgruppen_smaltpunkter_elektronstruktur.txt (Q1)
+  → forbrannung_exoterm_branslen_kalorimetri.txt (Q3)
+  → atom_rutherford_helium_elektronstruktur_karna.txt (Q6)
+  → periodiska_systemet_period_grupp_trender.txt (Q9)
+
+2011_Stage9_Paper2.pdf | 4 kemifrågor | 4 prompts | KLAR
+  → metallers_reaktivitet_zink_kalium_platina.txt (Q5)
+  → uttrangning_magnesium_kopparsulfat_blynitrat.txt (Q6)
+  → avdunstning_kylning_kinetisk_energi_partikel.txt (Q7)
+  → reaktionshastighet_magnesium_saltsyra_gasspruta_graf.txt (Q9)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SAMMANFATTNING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Totalt processerade PDF-filer: 12 av 12
+Totalt skapade prompts: 49
+Status: ALLA FILER KLARA
+
+Prompterna finns i: kemi/cambridge_prompts/
