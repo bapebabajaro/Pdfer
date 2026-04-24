@@ -1,0 +1,76 @@
+UPPGIFT: metallers_reaktivitet_zink_kalium_platina
+Källa: 2011_Stage9_Paper2 :: fråga 5
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.3 Metallers reaktivitet
+Sidreferenser: s. 220–229 (spänningsserien, reaktivitet,
+               reaktion med vatten och syra)
+Typ: Öppen fråga med observationstabell (delfrågor a–c)
+Poäng: 3
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Olika metaller tillsätts till vatten.
+Några av dessa metaller tillsätts också till syra.
+
+Här är resultaten.
+
+[DIAGRAM – TABELL (metallers reaktioner)]
+SVG-tabell, 600px bred. Rubrikrad grå.
+3 kolumner: "metall" | "observation med vatten" | "observation med syra"
+
+Rad 2: zink     | ingen reaktion   | bubblar av gas; metall reagerar långsamt
+Rad 3: kalium   | flyter och fattar eld | —
+Rad 4: kalcium  | bubblar av gas   | reagerar snabbt med många gasbubblor
+Rad 5: platina  | ingen reaktion   | ingen reaktion
+Rad 6: nickel   | ingen reaktion   | enstaka gasbubblor när syran värms
+[SLUT DIAGRAM]
+
+(a) Skriv de fem metallerna i reaktivitetsordning.
+
+    Börja med den mest reaktiva överst.
+
+    mest reaktiv:  ......................
+                   ......................
+                   ......................
+                   ......................
+    minst reaktiv: ......................                          [1]
+
+(b) Ange en annan metall som reagerar på liknande sätt
+    som kalium.
+    .......................................................................................[1]
+
+(c) Varför finns det inget resultat i tabellen för kalium
+    tillsatt till syra?
+    .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-tabell (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "reaktivitet" (s. 220–229)
+- "spänningsserien": metallers reaktivitetsordning (s. 220–229)
+- "alkalimetaller" (kalium): reagerar våldsamt med vatten (s. 220–229)
+- "gas": vätgas bildas (s. 220–229)
+
+Rätt svar:
+  (a) kalium → kalcium → zink → nickel → platina
+  (b) natrium (eller litium) — också alkalimetaller
+  (c) Kalium är för reaktivt för att testas med syra på ett
+      säkert sätt (reaktionen är extremt våldsam/explosiv)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "zinc/potassium/calcium/platinum/nickel" →
+  "zink/kalium/kalcium/platina/nickel"
+- "fizzes slowly/quickly/bursts into flames" →
+  "bubblar av gas; reagerar långsamt / flyter och fattar eld"
+- "most reactive" → "mest reaktiv"
