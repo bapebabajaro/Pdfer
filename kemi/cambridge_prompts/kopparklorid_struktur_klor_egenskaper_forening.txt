@@ -1,0 +1,90 @@
+UPPGIFT: kopparklorid_struktur_klor_egenskaper_forening
+Källa: 2018_Stage8_Paper2 :: fråga 10
+Stella Kemi kapitel: Kap 1 + Kap 5
+Stella Kemi delkapitel: 1.3 Molekyler och kemiska föreningar
+                        5.1 Periodiska systemet
+Sidreferenser: s. 24–28 (föreningar, kemisk bindning, formel)
+               s. 194–205 (klor som icke-metall, egenskaper,
+               kokpunkter, ledningsförmåga; koppar som metall)
+Typ: Öppen fråga + kryssfråga
+Poäng: 4
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Diagrammet visar strukturen hos kopparklorid.
+
+[DIAGRAM – PARTIKELMODELL]
+SVG, 350×250px.
+Två typer av cirklar:
+  • Fyllda mörkröda/kopparfärgade cirklar (Ø 28px) = koppar (Cu)
+  • Fyllda gröna cirklar (Ø 22px) = klor (Cl)
+Legend (bottom-left): "= koppar" (mörkröd cirkel) / "= klor" (grön cirkel)
+
+Arrangemang: alternerande Cu och Cl i ett 4×4-gitter med
+regelbundet avstånd, kopplat som i ett jonkristallgitter
+(inga linjer/bindningar ritade — jonföreningar har inga
+diskreta molekyler).
+
+Stil: vit bakgrund, cirklar fyllda med sina färger.
+[SLUT DIAGRAM]
+
+(a) Hur kan man se på diagrammet att kopparklorid är en förening?
+    ....................................................................................[1]
+
+(b) Klor är en icke-metall.
+
+    Kryssa i det rätta påståendet.
+
+    [ ] Klor är ett fast ämne vid rumstemperatur eftersom det har
+        en hög smältpunkt.
+    [ ] Klor leder elektrisk ström eftersom dess atomer sitter
+        tätt packade.
+    [ ] Klor är en gas vid rumstemperatur eftersom det har en
+        låg kokpunkt.
+    [ ] Klor leder värme eftersom dess atomer sitter långt ifrån
+        varandra.                                                   [1]
+
+(c) Koppar är en metall som används för att tillverka kastruller.
+
+    Använd dina kunskaper om metallers egenskaper för att förklara
+    varför.
+    ....................................................................................[1]
+
+(d) Koppars smältpunkt är 1 084 °C.
+
+    Vad berättar detta om krafterna som håller samman partiklarna
+    i fast koppar?
+    ....................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-partikelmodell (jonkristallgitter). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "förening": innehåller minst två sorts atomer (s. 24–28)
+- "icke-metall" och dess egenskaper: låg kokpunkt, dålig
+  värmeledare, inte metallglans (s. 194–205)
+- "gas vid rumstemperatur" + "låg kokpunkt" — rätt svar (b) (s. 194–205)
+- "metall" + "värmeledare" + "hög smältpunkt" → koppar som
+  kastrullmaterial (s. 194–205)
+- "starka krafter" vid hög smältpunkt (s. 60–67, 194–205)
+
+Rätta svar:
+  (a) Diagrammet visar två olika slags atomer (koppar och klor)
+  (b) Klor är en gas vid rumstemperatur eftersom det har en låg kokpunkt
+  (c) Koppar är en god värmeledare (och har hög smältpunkt)
+  (d) Krafterna är starka (hög smältpunkt kräver mycket energi att bryta)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "cooking pots" → "kastruller"
+- "molecules are close together / far apart" → "atomer sitter tätt
+  packade / långt ifrån varandra" (mer Stella-precis terminologi)
