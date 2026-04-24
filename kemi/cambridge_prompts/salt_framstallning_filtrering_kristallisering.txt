@@ -1,0 +1,70 @@
+UPPGIFT: salt_framstallning_filtrering_kristallisering
+Källa: 2018_Stage9_Paper1 :: fråga 11
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.3 Syror och baser (saltframställning)
+Sidreferenser: s. 74–93 (neutralisation, saltbildning, filtrering,
+               kristallisering, överskott, olösligt ämne)
+               s. 10–17 (laborationstekniker: filtrering, kristallisering)
+Typ: Kompletteringsuppgift (meningslukor i metodsteg)
+Poäng: 2
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Mia ska framställa saltet kalciumnitrat.
+
+Mia tillsätter kalciumkarbonat till utspädd salpetersyra.
+
+Meningarna A–E beskriver delar av den metod hon använder.
+
+Fyll i meningarna B och D.
+
+A  Överskott av kalciumkarbonat tillsätts till utspädd salpetersyra.
+
+B  Överskottet av olösligt kalciumkarbonat avlägsnas genom
+   .............................................................................[1]
+
+C  Filtratet hälls i en avdunstningsskål.
+
+D  Filtratet värms upp tills de första ......................................
+   syns.[1]
+
+E  Lösningen lämnas för att kristallisera.
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "kalciumkarbonat" (s. 74–93)
+- "salpetersyra" → utspädd syra (s. 74–93)
+- "kalciumnitrat": salt bildat av kalciumhydroxid + salpetersyra
+  (s. 74–93)
+- "filtrering": avlägsnande av olösligt ämne (s. 10–17)
+- "filtrat": den genomsipprande vätskan (s. 10–17)
+- "kristallisering": det salt som bildas när vattnet avdunstar
+  (s. 10–17)
+- "överskott": mer fast ämne än vad som löser sig
+
+Rätt svar:
+  B: filtrering
+  D: kristaller
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Mia" → behålls (neutralt namn)
+- "nitric acid" → "salpetersyra"
+- "calcium carbonate" → "kalciumkarbonat"
+- "calcium nitrate" → "kalciumnitrat"
+- "The filtrate is heated until the first _________ appear" →
+  "Filtratet värms upp tills de första _______ syns"
+- "crystallise" → "kristallisera"
+- "The excess insoluble calcium carbonate is removed by ___" →
+  "Överskottet av olösligt kalciumkarbonat avlägsnas genom ___"
