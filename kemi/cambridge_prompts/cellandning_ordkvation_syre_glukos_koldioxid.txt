@@ -1,0 +1,55 @@
+UPPGIFT: cellandning_ordkvation_syre_glukos_koldioxid
+Källa: 2018_Stage8_Paper1 :: fråga 10
+Stella Kemi kapitel: Kap 4 — Livets kemi
+Stella Kemi delkapitel: 4.1 Cellandning och fotosyntes
+Sidreferenser: s. 144–152 (aerob cellandning, reaktionsformel,
+               glukos, syre, koldioxid, vatten, energi)
+Typ: Flervalsfråga (ringa in) + ordkvation
+Poäng: 4
+Stella solvable: true
+Modifiering: minor (namn ändrat)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Yusuf tränar.
+
+(a) Vilken process frigör energi i Yusufs muskler när han tränar?
+
+    Ringa in det rätta svaret.
+
+    rörelse     näring     svettning     cellandning               [1]
+
+(b) Fyll i ordkvationen för denna process.
+
+    ......................  +  ......................  →
+    ......................  +  ......................  +  energi     [3]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "cellandning" (INTE "respiration") (s. 144–152)
+- Ordkvation: glukos + syre → koldioxid + vatten + energi (s. 144–152)
+- "glukos" som energisubstrat (s. 144–152)
+- "syre" som reaktant (s. 144–152)
+- "koldioxid" och "vatten" som produkter (s. 144–152)
+
+Rätta svar:
+  (a): cellandning
+  (b): glukos + syre → koldioxid + vatten + energi
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Yuri" → "Yusuf" (neutralt namn, lättare att uttala på svenska)
+- "respiration" → "cellandning" (Stella-term, kritisk ändring)
+- "nutrition" → "näring"
+- "perspiration" → "svettning"
+- Originalets ordkvation: "oxygen + ... → ... + ..." → Stella-version
+  ger alla fyra platser tomma (mer pedagogiskt)
