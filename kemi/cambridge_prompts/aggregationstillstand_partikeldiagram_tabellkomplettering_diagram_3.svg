@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260">
+  <rect width="720" height="260" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#111111">
+    <text x="195" y="34" text-anchor="middle" font-size="22" font-weight="700">fast ämne</text>
+    <text x="525" y="34" text-anchor="middle" font-size="22" font-weight="700">gas</text>
+    <rect x="65" y="50" width="260" height="170" fill="#fcfcfc" stroke="#444444" stroke-width="2"/>
+    <rect x="395" y="50" width="260" height="170" fill="#fcfcfc" stroke="#444444" stroke-width="2"/>
+    <text x="195" y="246" text-anchor="middle" font-size="16" fill="#666666">Eleven ritar tätt ordnade cirklar här</text>
+    <text x="525" y="246" text-anchor="middle" font-size="16" fill="#666666">Eleven ritar glest spridda cirklar här</text>
+  </g>
+</svg>
