@@ -1,0 +1,90 @@
+UPPGIFT: reaktionshastighet_gasvolym_graf_koncentration_temperatur
+Källa: 2018_Stage9_Paper1 :: fråga 2
+Stella Kemi kapitel: Kap 1 — Kemins grunder
+Stella Kemi delkapitel: 1.6 Kemiska reaktioner
+Sidreferenser: s. 37–44 (reaktionshastighet, koncentration,
+               temperatur, kollisioner, partikelteori)
+Typ: Graf-tolkningsfråga + öppen fråga
+Poäng: 5
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Grafen visar den totala gasvolymen som bildas under en kemisk
+reaktion med en syra.
+
+[DIAGRAM – REAKTIONSGRAF]
+Linjediagram. Python matplotlib (png). Storlek 1000×700px.
+
+X-axel: "tid (sekunder)", skala 0–100 sekunder, gridlinjer var 10 s
+Y-axel: "total gasvolym (cm³)", skala 0–50 cm³, gridlinjer var 10 cm³
+
+Kurvan:
+  - Startar i (0, 0)
+  - Stiger brant 0–20 s (ungefär linjärt med lutning ~1 cm³/s)
+  - Böjer av och planar ut gradvis 20–48 s (sjunkande hastighet)
+  - Helt plan (platå) från ~48 s till 100 s, vid ca 48 cm³
+  - Markera platån med en liten pil och text "reaktionen är klar"
+    vid t = 48 s
+
+Axeltitlar: fetstil, storlek 14pt. Gridlinjer: ljusgrå (#dddddd).
+Vit bakgrund. Kurva i mörkblått (#1a3a6b), linjetjocklek 2.5pt.
+Ingen legend (bara en kurva).
+[SLUT DIAGRAM]
+
+(a) Fyll i meningarna för att beskriva mönstret i grafen.
+
+    Mellan 0 och 48 sekunder ....................................................
+    gasvolymen.
+
+    Efter 48 sekunder ............................................................
+    reaktionen.                                                    [2]
+
+(b) Försöket upprepas med en lägre koncentration av syran.
+    Alla andra faktorer hålls konstanta.
+
+    Vad händer med reaktionshastigheten när syrans koncentration
+    är lägre?
+    ....................................................................................[1]
+
+(c) En ökad temperatur ökar reaktionshastigheten.
+
+    Förklara varför.
+    Använd partikelteori och kollisioner i ditt svar.
+    ...................................................................................
+    ...................................................................................
+    ....................................................................................[2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Linjediagram (matplotlib PNG). Filnamn: diagram_1.png
+Pythonkod-instruktioner: se DIAGRAM-blocket ovan.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "reaktionshastighet": hur snabbt en reaktion sker (s. 37–44)
+- "koncentration": påverkar reaktionshastigheten — lägre
+  koncentration → färre kollisioner → lägre hastighet (s. 37–44)
+- "temperatur": påverkar rörelseenergin hos partiklar (s. 37–44)
+- "kollisioner": partiklar måste kollidera för att reagera (s. 37–44)
+- "partikelteori": vid högre temperatur rör sig partiklarna
+  snabbare → fler och kraftigare kollisioner per tidsenhet (s. 37–44)
+
+Rätta svar:
+  (a) "ökar" (0–48 s) / "är klar / upphör" (efter 48 s)
+  (b) reaktionshastigheten minskar
+  (c) Högre temperatur → partiklarna rör sig snabbare → fler
+      kollisioner per sekund → reaktionen går snabbare
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- Frågan är direkt Stella-kompatibel
+- "rate of reaction" → "reaktionshastighet"
+- "concentration of acid" → "syrans koncentration"
+- "particles and collisions" → "partikelteori och kollisioner"
