@@ -1,0 +1,41 @@
+UPPGIFT: kalciumkarbonat_termisk_nedbrytning_ordkvation
+Källa: 2018_Stage8_Paper2 :: fråga 13
+Stella Kemi kapitel: Kap 1 — Kemins grunder
+Stella Kemi delkapitel: 1.6 Kemiska reaktioner
+Sidreferenser: s. 37–44 (kemiska reaktioner, ordkvationer,
+               produkter och reaktanter)
+Typ: Öppen fråga (ordkvation)
+Poäng: 1
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Kalciumkarbonat värms kraftigt. Kalciumoxid och koldioxid bildas.
+
+Skriv ordkvationen för denna reaktion.
+
+.......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "ordkvation" (s. 37–44)
+- Format: reaktant(er) → produkt(er) (s. 37–44)
+- "kalciumkarbonat" → "kalciumoxid" + "koldioxid" (s. 37–44)
+- Pilen "→" används (inte "=") i ordkvationer (Stella-konvention)
+
+Rätt svar: kalciumkarbonat → kalciumoxid + koldioxid
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Calcium carbonate is heated strongly" → "Kalciumkarbonat värms kraftigt"
+- Inga ytterligare ändringar behövs — frågan är direkt Stella-kompatibel
