@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200" style="background:#fff;font-family:Arial,sans-serif;">
+  <rect x="10" y="10" width="150" height="150" fill="white" stroke="#333" stroke-width="1.5"/>
+  <text x="85" y="178" text-anchor="middle" font-size="13" font-weight="bold" fill="#000">fast &#228;mne</text>
+  <text x="85" y="92" text-anchor="middle" font-size="10" fill="#aaa">(rita t&#228;tt ordnade cirklar)</text>
+  <rect x="200" y="10" width="150" height="150" fill="white" stroke="#333" stroke-width="1.5"/>
+  <text x="275" y="178" text-anchor="middle" font-size="13" font-weight="bold" fill="#000">gas</text>
+  <text x="275" y="92" text-anchor="middle" font-size="10" fill="#aaa">(rita glest spridda cirklar)</text>
+</svg>
