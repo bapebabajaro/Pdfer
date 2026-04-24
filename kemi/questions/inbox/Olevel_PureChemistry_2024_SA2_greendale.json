@@ -1,0 +1,146 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_greendale.pdf",
+  "processed_at": "2026-04-24",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 2,
+      "text": "A student is provided with two drying agents: concentrated sulfuric acid and calcium oxide.\n\nWhich method should he use to collect a sample of dry ammonia?\n\n[DIAGRAM – FOUR DRYING APPARATUS SETUPS]\nFour labelled setups A, B, C and D, each showing moist ammonia passing through a drying agent to produce dry ammonia.\nSetup A: moist ammonia enters a U-tube containing concentrated sulfuric acid; dry ammonia exits at the top.\nSetup B: moist ammonia passes through a horizontal tube containing concentrated sulfuric acid; dry ammonia collected in a downward flask.\nSetup C: moist ammonia passes through a horizontal tube containing calcium oxide granules; dry ammonia collected in a downward flask.\nSetup D: moist ammonia passes through a horizontal tube containing calcium oxide granules (reversed orientation); dry ammonia exits at the top.\nRecommended rendering tool: SVG.\n\nA  setup A\nB  setup B\nC  setup C\nD  setup D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.1_Undersokningar_och_laborativt_arbete",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "3",
+      "page": 3,
+      "text": "The chromatogram of substance S is shown. Some distances, W, X, Y and Z, are labelled on the diagram.\n\n[DIAGRAM – CHROMATOGRAM WITH LABELLED DISTANCES]\nA rectangular chromatography tank. A horizontal baseline is at the bottom (above the solvent level). The solvent front is at the top. A spot for substance S is visible partway up the chromatogram. Four vertical arrows indicate distances measured from the baseline: W (shortest, to a lower reference point), X (medium, to the spot of substance S), Y (longer), Z (longest, to the solvent front).\nRecommended rendering tool: image generator.\n\nHow is the Rf value of substance S calculated?\n\nA  X / Y\nB  W / Z\nC  Y / X\nD  Y / W",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "4",
+      "page": 3,
+      "text": "Small crystals of purple KMnO4 (Mr = 158) and orange K2Cr2O7 (Mr = 294) were placed at the centres of separate petri dishes filled with agar jelly. They were left to stand under the same physical conditions.\n\nAfter some time, the colour of each substance had spread out as shown.\n\n[DIAGRAM – TWO PETRI DISHES]\nTwo petri dishes shown from above.\nDish 1 (KMnO4): a small purple crystal at the centre, surrounded by a large coloured area; a long horizontal arrow indicates the distance the colour has spread.\nDish 2 (K2Cr2O7): a small orange crystal at the centre, surrounded by a smaller coloured area; a shorter horizontal arrow indicates the distance spread.\nThe lengths of the arrows indicate the relative distances travelled by particles of each substance.\nRecommended rendering tool: image generator.\n\nWhich statement is correct?\n\nA  Diffusion is faster in dish 1 because the mass of the particles is greater.\nB  Diffusion is faster in dish 2 because the mass of the particles is greater.\nC  Diffusion is slower in dish 1 because the mass of the particles is smaller.\nD  Diffusion is slower in dish 2 because the mass of the particles is greater.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "12",
+      "page": 6,
+      "text": "Which method should be used to make a pure sample of potassium chloride?\n\nA  adding AgCl(s) to KNO3(aq)\nB  adding excess K2CO3(s) to HCl(aq)\nC  mixing KNO3(aq) with NaCl(aq)\nD  titrating KOH(aq) with HCl(aq)",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "17",
+      "page": 8,
+      "text": "Which pairs of statements correctly describe the differences between the conduction of electricity during electrolysis and the conduction of electricity by metals?\n\n[DIAGRAM – TABLE]\nA table with 2 columns and 3 rows (excluding header).\nColumn 1: 'conduction during electrolysis', Column 2: 'conduction by metals'\nRow 1: The current is due to the movement of both positive and negative ions. | The current is due to the movement of electrons.\nRow 2: Charged particles move towards both electrodes. | Charged particles move in one direction only.\nRow 3: It results in a chemical change. | It does not result in a chemical change.\nRecommended rendering tool: SVG table.\n\nA  1, 2 and 3\nB  1 and 2 only\nC  2 and 3 only\nD  1 only",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "19",
+      "page": 9,
+      "text": "Impure copper can be purified via electrolysis, using copper electrodes and dilute aqueous copper(II) sulfate as the electrolyte. The current is constant and the positive and negative electrodes are weighed at regular time intervals. The following graphs were obtained when the mass of the positive and negative electrodes are plotted against time.\n\n[DIAGRAM – GRAPHS AND TABLE]\nTwo line graphs.\nGraph 1: y-axis 'mass of electrode', x-axis 'time'; the line rises steadily from the origin (mass increasing).\nGraph 2: y-axis 'mass of electrode', x-axis 'time'; the line falls steadily (mass decreasing).\nBelow: a table with 4 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'negative electrode', Column 3: 'positive electrode', Column 4: 'graph for negative electrode', Column 5: 'graph for positive electrode'\nRow A: impure copper | pure copper | 1 | 2\nRow B: impure copper | pure copper | 2 | 1\nRow C: pure copper | impure copper | 1 | 2\nRow D: pure copper | impure copper | 2 | 1\nRecommended rendering tool: image generator for graphs, SVG table for data.\n\nWhich row correctly describes the electrolytic cell and the respective graphs obtained?\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "21",
+      "page": 10,
+      "text": "The apparatus used for the extraction of aluminium by electrolysis of molten aluminium oxide is shown.\n\n[DIAGRAM – INDUSTRIAL ELECTROLYSIS CELL AND TABLE]\nA cross-section of an industrial electrolysis cell: a large container with carbon lining acting as the cathode. Several carbon blocks hang from the top, labelled 'carbon anodes'. The container holds a solution of aluminium oxide in molten cryolite. Molten aluminium collects at the bottom. The positive terminal (+) is connected to the carbon anodes and the negative terminal (−) to the carbon lining.\nBelow: a table with 2 columns and 4 rows (excluding header).\nColumn 1: 'negative electrode', Column 2: 'positive electrode'\nRow A: aluminium ions oxidised to aluminium | oxide ions reduced to oxygen\nRow B: aluminium ions reduced to aluminium | oxide ions oxidised to oxygen\nRow C: oxide ions oxidised to oxygen | aluminium ions reduced to aluminium\nRow D: oxide ions reduced to oxygen | aluminium ions oxidised to aluminium\nRecommended rendering tool: SVG.\n\nWhich row correctly describes the electrolysis of molten aluminium oxide?\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "22",
+      "page": 11,
+      "text": "Two metal electrodes and an electrolyte can be used to produce electrical energy.\n\n[DIAGRAM – ELECTROCHEMICAL CELL AND DATA TABLES]\nA simple cell diagram: two electrodes (metal 1 on left, metal 2 on right) dipping into an electrolyte, connected to a voltmeter (V) at the top.\nData table 1 (5 rows, 3 columns): 'metal 1' | 'metal 2' | 'voltage / V'\nsilver | zinc | 1.56\nsilver | nickel | 1.06\nsilver | iron | 1.25\nsilver | magnesium | K\ncopper | iron | L\nAnswer table (4 rows, 3 columns): 'voltage K' | 'voltage L' | 'relative reactivity of nickel'\nRow A: greater than 1.56 V | greater than 1.25 V | more reactive than iron but less reactive than zinc\nRow B: less than 1.56 V | less than 1.25 V | more reactive than both iron and zinc\nRow C: greater than 1.56 V | less than 1.25 V | less reactive than both iron and zinc\nRow D: less than 1.56 V | greater than 1.25 V | less reactive than both iron and zinc\nRecommended rendering tool: SVG for cell diagram, SVG table for data.\n\nWhich row best describes the voltage values K and L, and the relative reactivity of nickel?\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "24",
+      "page": 12,
+      "text": "Some properties of metals are listed.\n\n1  forms chloride of formula XCl only, where X is the metal\n2  forms coloured compounds\n3  high density\n4  its presence can lower the activation energy of a reaction\n5  low melting point\n\nWhich row shows the properties of group 1 metals and transition metals?\n\n[DIAGRAM – TABLE]\nA table with 2 columns and 4 rows (excluding header).\nColumn 1: 'properties of group 1 metals', Column 2: 'properties of transition metals'\nRow A: 1 and 5 | 2, 3 and 4\nRow B: 1, 4 and 5 | 2 only\nRow C: 2, 3 and 4 | 1 and 5\nRow D: 2 and 3 | 1 and 4 only\nRecommended rendering tool: SVG table.\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "25",
+      "page": 13,
+      "text": "An equal number of moles of metal carbonates XCO3 and ZCO3 are heated strongly. They both decompose and release a gas. The time taken for the compound to decompose completely is measured.\n\n[DIAGRAM – TWO TABLES]\nData table (2 rows, 2 columns): 'metal carbonate' | 'time taken to decompose / s'\nXCO3 | 92\nZCO3 | 266\n\nAnswer table (3 columns, 4 rows excluding header):\n'reactivity of metals X and Z' | 'method of extraction of X' | 'method of extraction of Z'\nRow A: X is more reactive than Z | electrolysis | reduction with carbon\nRow B: X is more reactive than Z | reduction with carbon | electrolysis\nRow C: Z is more reactive than X | electrolysis | reduction with carbon\nRow D: Z is more reactive than X | reduction with carbon | electrolysis\nRecommended rendering tool: SVG table.\n\nWhich row describes the reactivity of the metals and the suggested method of extraction of each metal from its compound?\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "26",
+      "page": 13,
+      "text": "Two large pieces of iron are placed in water. In experiment 1, a small piece of copper is attached to the iron. In experiment 2, a small piece of magnesium is attached to the iron.\n\n[DIAGRAM – TWO EXPERIMENT SETUPS AND TABLE]\nExperiment 1: a large block labelled Fe with a small block labelled Cu attached below it.\nExperiment 2: a large block labelled Fe with a small block labelled Mg attached below it.\nAnswer table (2 columns, 4 rows excluding header):\n'experiment 1' | 'experiment 2'\nRow A: Cu(s) → Cu²⁺(aq) + 2e⁻ | Fe(s) → Fe²⁺(aq) + 2e⁻\nRow B: Cu(s) → Cu²⁺(aq) + 2e⁻ | Mg(s) → Mg²⁺(aq) + 2e⁻\nRow C: Fe(s) → Fe²⁺(aq) + 2e⁻ | Fe(s) → Fe²⁺(aq) + 2e⁻\nRow D: Fe(s) → Fe²⁺(aq) + 2e⁻ | Mg(s) → Mg²⁺(aq) + 2e⁻\nRecommended rendering tool: SVG.\n\nWhich are the equations for reactions that would take place in experiment 1 and experiment 2?\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "28",
+      "page": 15,
+      "text": "25 cm³ of 1.0 mol / dm³ hydrochloric acid reacts with 10 g of a solid to produce a gas. The solid is in excess. The graph labelled 'first experiment' shows the volume of gas produced over time. Graphs P and Q show the volume of gas produced under different conditions.\n\n[DIAGRAM – RATE OF REACTION GRAPH]\nA line graph. Y-axis: 'volume of gas / cm³'. X-axis: 'time / s'. Three curves all starting from the origin: curve P (steepest rise, highest plateau), 'first experiment' (intermediate rise and plateau), curve Q (slowest rise, lowest plateau).\nRecommended rendering tool: image generator.\n\nWhich changes in conditions produce graphs P and Q, if all other conditions are kept the same?\n\nA  P uses 25 cm³ of more concentrated acid and Q has a lower temperature.\nB  P uses higher temperature and Q uses 25 cm³ of more dilute acid.\nC  P uses higher temperature and Q uses smaller pieces of solid.\nD  P uses smaller pieces of solid and Q uses larger pieces of solid.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "30",
+      "page": 16,
+      "text": "Petroleum (crude oil) is separated into useful fractions by fractional distillation. The positions at which fractions X and Y are collected from the fractionating column are shown.\n\n[DIAGRAM – FRACTIONATING COLUMN]\nA fractionating column with petroleum entering at the bottom. Various fractions exit at different heights. Fraction X exits from a higher position in the column than fraction Y. Additional fractions exit at the very top and bottom.\nRecommended rendering tool: SVG.\n\nWhich statements are NOT correct?\n\n1  The temperature increases up the column.\n2  X condenses at a lower temperature than Y.\n3  X has longer chain molecules than Y.\n4  X is more flammable than Y.\n\nA  1 and 3\nB  1 only\nC  2 and 4\nD  3 only",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "40",
+      "page": 19,
+      "text": "The carbon cycle includes the processes combustion, photosynthesis and respiration.\n\nWhich row shows how each process changes the amount of carbon dioxide in the atmosphere?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: 'combustion', Column 2: 'photosynthesis', Column 3: 'respiration'\nRow A: decreases | decreases | increases\nRow B: decreases | increases | decreases\nRow C: increases | decreases | increases\nRow D: increases | increases | decreases\nRecommended rendering tool: SVG table.\n\nA  row A\nB  row B\nC  row C\nD  row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "minor"
+    }
+  ]
+}
