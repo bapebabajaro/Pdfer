@@ -1,0 +1,92 @@
+UPPGIFT: forbrannung_exoterm_branslen_kalorimetri
+Källa: 2011_Stage9_Paper1 :: fråga 3
+Stella Kemi kapitel: Kap 6 — Kemiska reaktioner
+Stella Kemi delkapitel: 6.1 Exoterma och endoterma reaktioner
+Sidreferenser: s. 244–260 (exoterm/endoterm reaktion, förbränning,
+               värmeöverföring till omgivningen)
+               s. 10–17 (kalorimeter, termometer, laborationsuppställning)
+Typ: Öppen fråga med laborationsuppgift (delfrågor a–b)
+Poäng: 4
+Stella solvable: true
+Modifiering: minor (namn ändrade)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Förbränning av bränsle frigör värme till omgivningen.
+
+Förbränning är en kemisk reaktion.
+
+(a) Vad kallas denna typ av kemisk reaktion?
+
+    Stryk under rätt svar.
+
+    ledning   konvektion   endoterm   exoterm                      [1]
+
+(b) Nina undersöker tre olika bränslen.
+
+    Hon använder denna apparatur.
+
+[DIAGRAM – APPARATURSKISS (kalorimetri)]
+SVG-skiss, 450×400px. Svart linjeskiss, svenska etiketter.
+
+Uppifrån och ned:
+  1. Termometer (vertikal stav med skala) i vattnet,
+     etikett "termometer"
+  2. Kalorimeter (cylindrisk behållare) med vatten,
+     etikett "vatten" och "kalorimeter"
+  3. Spritlykta under kalorimetern, etikett "spritlykta"
+  4. Pil: "VÄRME↑" under spritlyktan
+[SLUT DIAGRAM]
+
+    Hon bränner 1 g av varje bränsle varje gång.
+
+[DIAGRAM – TABELL (bränsleresultat)]
+SVG-tabell, 500px bred. Rubrikrad grå.
+4 kolumner: "bränsle" | "starttemperatur i °C" |
+            "sluttemperatur i °C" | "temperaturändring i °C"
+
+Rad 2: paraffin | 15 | 31 | 16
+Rad 3: etanol   | 15 | 33 | [TOM]
+Rad 4: propanol | 20 | [TOM] | 21
+[SLUT DIAGRAM]
+
+    (i) Fyll i tabellen med hennes resultat.                    [1]
+
+    (ii) Vilket bränsle frigav mest värmeenergi till omgivningen?
+
+         Förklara varför.
+         .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+1. SVG-apparaturskiss (kalorimetri). Filnamn: diagram_1.svg
+2. SVG-tabell (bränsleresultat, delvis tom). Filnamn: diagram_2.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "exoterm reaktion": frigör energi till omgivningen (s. 244–260)
+- "endoterm reaktion": tar upp energi från omgivningen (s. 244–260)
+- "förbränning": oxidationsreaktion av ett bränsle (s. 244–260)
+- "kalorimeter": mäter värmeenergi som frigörs (s. 10–17)
+- "termometer" (s. 10–17)
+- "temperaturändring": mäter frigjord energi (s. 244–260)
+
+Rätt svar:
+  (a) exoterm
+  (b)(i) etanol: starttemp 15, sluttemp 33, ändring 18 °C
+         propanol: starttemp 20, sluttemp 41, ändring 21 °C
+  (b)(ii) propanol (störst temperaturökning = mest frigjord energi)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Nina" behålls
+- "paraffin / ethanol / propanol" → "paraffin / etanol / propanol"
+- "spirit burner" → "spritlykta"
+- "calorimeter" → "kalorimeter"
+- "temperature change" → "temperaturändring"
+- "released the most heat energy" → "frigav mest värmeenergi"
