@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="380" viewBox="0 0 860 380">
+  <defs>
+    <style>
+      .title { font: 700 28px Georgia, 'Times New Roman', serif; fill: #132238; }
+      .head { font: 700 18px Arial, Helvetica, sans-serif; fill: #173149; }
+      .cell { font: 400 18px Arial, Helvetica, sans-serif; fill: #243648; }
+    </style>
+  </defs>
+  <rect width="860" height="380" fill="#f6f8fb"/>
+  <rect x="24" y="24" width="812" height="332" rx="24" fill="#ffffff" stroke="#d8e0ea" stroke-width="2"/>
+  <text x="430" y="68" text-anchor="middle" class="title">Observationer när metaller reagerar med vatten</text>
+
+  <g transform="translate(70 120)">
+    <rect x="0" y="0" width="180" height="56" rx="14" fill="#dfe8f3" stroke="#c1cfdf"/>
+    <rect x="180" y="0" width="180" height="56" rx="14" fill="#e7f0f8" stroke="#c8d8e7"/>
+    <rect x="360" y="0" width="360" height="56" rx="14" fill="#eef4db" stroke="#d7e4b1"/>
+
+    <g fill="#ffffff" stroke="#d6dee8">
+      <rect x="0" y="56" width="180" height="52"/>
+      <rect x="180" y="56" width="180" height="52"/>
+      <rect x="360" y="56" width="360" height="52"/>
+      <rect x="0" y="108" width="180" height="52"/>
+      <rect x="180" y="108" width="180" height="52"/>
+      <rect x="360" y="108" width="360" height="52"/>
+      <rect x="0" y="160" width="180" height="52"/>
+      <rect x="180" y="160" width="180" height="52"/>
+      <rect x="360" y="160" width="360" height="52"/>
+    </g>
+
+    <text x="90" y="34" text-anchor="middle" class="head">metall</text>
+    <text x="270" y="34" text-anchor="middle" class="head">kemisk symbol</text>
+    <text x="540" y="34" text-anchor="middle" class="head">observation</text>
+
+    <g class="cell" text-anchor="middle">
+      <text x="90" y="90">litium</text>
+      <text x="270" y="90">Li</text>
+      <text x="540" y="90">bubblar långsamt</text>
+
+      <text x="90" y="142">natrium</text>
+      <text x="270" y="142">Na</text>
+      <text x="540" y="142">bubblar snabbt</text>
+
+      <text x="90" y="194">kalium</text>
+      <text x="270" y="194">K</text>
+      <text x="540" y="194">bubblar mycket snabbt och fattar eld</text>
+    </g>
+  </g>
+</svg>

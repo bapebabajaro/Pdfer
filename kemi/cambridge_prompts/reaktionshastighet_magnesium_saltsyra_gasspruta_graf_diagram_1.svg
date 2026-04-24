@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <defs>
+    <style>
+      .title { font: 700 28px Georgia, 'Times New Roman', serif; fill: #132238; }
+      .label { font: 700 19px Arial, Helvetica, sans-serif; fill: #173149; }
+      .small { font: 400 16px Arial, Helvetica, sans-serif; fill: #4f6070; }
+    </style>
+  </defs>
+  <rect width="900" height="560" fill="#f6f8fb"/>
+  <rect x="22" y="22" width="856" height="516" rx="24" fill="#ffffff" stroke="#d8e0ea" stroke-width="2"/>
+  <text x="450" y="64" text-anchor="middle" class="title">Apparatur för att mäta gasvolym</text>
+
+  <g stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M180 170 L180 210 Q180 220 190 230 L240 300 Q252 318 275 318 L355 318 Q378 318 390 300 L440 230 Q450 220 450 210 L450 170" />
+    <path d="M260 115 L370 115 L370 170 L260 170 Z" />
+    <path d="M315 84 L315 115" />
+    <path d="M315 84 L535 84" />
+    <path d="M535 84 L535 130" />
+    <rect x="535" y="130" width="240" height="72" rx="10"/>
+    <line x1="565" y1="138" x2="565" y2="194"/>
+    <line x1="595" y1="138" x2="595" y2="194"/>
+    <line x1="625" y1="138" x2="625" y2="194"/>
+    <line x1="655" y1="138" x2="655" y2="194"/>
+    <line x1="685" y1="138" x2="685" y2="194"/>
+    <line x1="715" y1="138" x2="715" y2="194"/>
+    <line x1="745" y1="138" x2="745" y2="194"/>
+    <rect x="775" y="126" width="20" height="80" rx="4"/>
+  </g>
+
+  <g fill="#edf4fb" stroke="#adc0d4" stroke-width="2">
+    <path d="M196 248 Q270 258 350 248 L372 308 Q276 318 210 303 Z"/>
+  </g>
+  <g fill="#cfcfcf" stroke="#8a8a8a" stroke-width="2">
+    <rect x="250" y="150" width="130" height="26" rx="6"/>
+  </g>
+  <g fill="#a7b6c6" stroke="#6d7b88" stroke-width="2">
+    <circle cx="292" cy="278" r="8"/>
+    <circle cx="314" cy="292" r="8"/>
+    <circle cx="338" cy="281" r="8"/>
+  </g>
+
+  <g stroke="#4b5b6a" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
+    <path d="M210 360 C165 390, 145 410, 128 430"/>
+    <path d="M398 278 C462 248, 502 236, 540 235"/>
+    <path d="M620 112 C637 92, 658 84, 700 80"/>
+    <path d="M792 166 C828 166, 840 182, 840 212"/>
+  </g>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#4b5b6a"/>
+    </marker>
+  </defs>
+
+  <g>
+    <text x="86" y="448" class="label">konisk kolv</text>
+    <text x="82" y="472" class="small">med syra och magnesium</text>
+
+    <text x="548" y="232" class="label">gasspruta</text>
+    <text x="548" y="256" class="small">samlar upp vätgas</text>
+
+    <text x="706" y="76" class="label">rörelseskala</text>
+    <text x="818" y="224" class="label">rörelse när</text>
+    <text x="818" y="248" class="label">gas bildas</text>
+
+    <text x="456" y="418" class="label">syra</text>
+    <text x="456" y="446" class="label">magnesium</text>
+  </g>
+</svg>
