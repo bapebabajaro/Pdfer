@@ -1,0 +1,53 @@
+UPPGIFT: beryllium_syre_forening_definition
+Källa: 2018_Stage8_Paper2 :: fråga 16
+Stella Kemi kapitel: Kap 1 — Kemins grunder
+Stella Kemi delkapitel: 1.3 Molekyler och kemiska föreningar
+Sidreferenser: s. 24–28 (föreningar, definition, exempel,
+               grundämnen kontra föreningar)
+Typ: Öppen fråga
+Poäng: 3
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Beryllium reagerar med syre och bildar en förening.
+
+(a) Vad heter denna förening?
+    ....................................................................................[1]
+
+(b) Förklara vad som menas med ordet förening.
+    ...................................................................................
+    ...................................................................................
+    ....................................................................................[2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "förening": ett ämne som är uppbyggt av atomer från minst två
+  olika grundämnen, kemiskt bundna till varandra (s. 24–28)
+- Namngivning: beryllium + syre → berylliumoxid (s. 24–28)
+- "kemisk bindning" (s. 24–28)
+- Jämför med "grundämne" (bara en sorts atom) och "blandning"
+  (inga kemiska bindningar) (s. 24–28 + 45–49)
+
+Rätta svar:
+  (a) berylliumoxid (BeO)
+  (b) En förening är ett ämne som innehåller atomer från minst
+      två olika grundämnen, kemiskt bundna till varandra. Det kan
+      inte separeras i sina beståndsdelar med fysikaliska metoder.
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- Direkt Stella-kompatibel fråga; minimal omskrivning
+- "forms a compound" → "bildar en förening"
+- "Explain what is meant by the word compound" →
+  "Förklara vad som menas med ordet förening"
