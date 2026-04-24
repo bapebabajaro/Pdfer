@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" style="background:#fff;font-family:Arial,sans-serif;font-size:14px;">
+  <rect x="0" y="0" width="300" height="40" fill="#cccccc" stroke="black" stroke-width="1"/>
+  <rect x="300" y="0" width="300" height="40" fill="#cccccc" stroke="black" stroke-width="1"/>
+  <text x="150" y="26" text-anchor="middle" font-weight="bold" font-size="14">Uppv&#228;rmningstid (min)</text>
+  <text x="450" y="26" text-anchor="middle" font-weight="bold" font-size="14">Temperatur (&#176;C)</text>
+  <rect x="0" y="40" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="300" y="40" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <text x="150" y="64" text-anchor="middle" font-size="14">0</text>
+  <text x="450" y="64" text-anchor="middle" font-size="14">0</text>
+  <rect x="0" y="76" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="300" y="76" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <text x="150" y="100" text-anchor="middle" font-size="14">2</text>
+  <text x="450" y="100" text-anchor="middle" font-size="14">0</text>
+  <rect x="0" y="112" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="300" y="112" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <text x="150" y="136" text-anchor="middle" font-size="14">4</text>
+  <text x="450" y="136" text-anchor="middle" font-size="14">20</text>
+  <rect x="0" y="148" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="300" y="148" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <text x="150" y="172" text-anchor="middle" font-size="14">6</text>
+  <text x="450" y="172" text-anchor="middle" font-size="14">40</text>
+  <rect x="0" y="184" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="300" y="184" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <text x="150" y="208" text-anchor="middle" font-size="14">8</text>
+  <text x="450" y="208" text-anchor="middle" font-size="14">50</text>
+  <rect x="0" y="220" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="300" y="220" width="300" height="36" fill="white" stroke="black" stroke-width="1"/>
+  <text x="150" y="244" text-anchor="middle" font-size="14">10</text>
+  <text x="450" y="244" text-anchor="middle" font-size="14">80</text>
+</svg>
