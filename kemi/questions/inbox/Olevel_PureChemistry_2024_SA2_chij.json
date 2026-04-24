@@ -1,0 +1,156 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_chij.pdf",
+  "processed_at": "2026-04-24",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 2,
+      "text": "A laboratory assistant has a mixture of solid sulfur and solid carbon. Sulfur is very soluble in hexane and slightly soluble in water. Carbon is insoluble in both solvents.\n\nA sample of the mixture is shaken with water. This is P.\nAnother sample of the mixture is shaken with hexane. This is Q.\n\nWhich procedure is used to prepare a pure sample of sulfur?\n\nA  P is distilled and the distillate is evaporated to dryness to obtain sulfur.\nB  P is filtered and the filtrate is allowed to evaporate to dryness to obtain sulfur.\nC  Q is filtered and the residue is allowed to evaporate to dryness to obtain sulfur.\nD  Q is filtered and the filtrate is allowed to evaporate to dryness to obtain sulfur.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "2",
+      "page": 2,
+      "text": "A student was given 4.0 g of magnesium carbonate powder and 100 cm³ of 0.1 mol/dm³ hydrochloric acid. He wants to determine the rate of reaction by measuring the change in mass of the reaction mixture.\n\nWhich apparatus is NOT likely to be used in this experiment?\n\nA  conical flask\nB  electronic mass balance\nC  stopwatch\nD  test-tube",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.1_Undersokningar_och_laborativt_arbete",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "3",
+      "page": 2,
+      "text": "In which situations do the particles move closer together?\n\n1  A gas is heated from 0 °C to 25 °C.\n2  The pressure of a gas is increased.\n3  Steam condenses to form water.\n4  Water evaporates at room temperature.\n\nA  1 and 2\nB  1 and 4\nC  2 and 3\nD  3 and 4",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "5",
+      "page": 3,
+      "text": "The letters X, Y and Z represent different atoms.\n\n  ³⁷₁₇X     ³⁷₁₈Y     ³⁸₁₈Z\n\nWhich statement is correct?\n\nA  X and Y are the same element.\nB  X and Y have same number of neutrons.\nC  Y and Z have the same number of electrons.\nD  Z has more neutrons than X.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "13",
+      "page": 5,
+      "text": "Which statement about the reaction between ammonium carbonate and dilute hydrochloric acid is FALSE?\n\nA  Ammonium chloride is produced.\nB  Ammonia gas is produced.\nC  The gas evolved turned damp blue litmus paper red.\nD  Water is produced.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "14",
+      "page": 5,
+      "text": "Which salt can be prepared by adding excess carbonate to dilute acid?\n\nA  lead(II) chloride\nB  magnesium chloride\nC  potassium nitrate\nD  sodium sulfate",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "15",
+      "page": 6,
+      "text": "Which graph shows the changes in pH as an excess of hydrochloric acid is added to aqueous sodium hydroxide?\n\n[DIAGRAM – FOUR GRAPHS]\nFour pH vs. volume graphs labelled A, B, C and D.\nGraph A: pH starts at ~7 and curves upward to ~14 (incorrect shape).\nGraph B: pH starts at ~14, stays high then drops sharply through 7 and levels near 0 (correct S-curve starting alkaline going acidic).\nGraph C: pH starts at ~14 and curves downward to ~7 (no sharp drop).\nGraph D: pH starts at ~14, drops sharply through 7, then levels near 0 (correct shape — answer is D).\nAll x-axes labelled 'volume of acid added'.\nRecommended rendering tool: image generator.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "19",
+      "page": 7,
+      "text": "Which reagent could be used to distinguish between dilute sulfuric acid and dilute hydrochloric acid?\n\nA  barium nitrate solution\nB  calcium carbonate\nC  universal indicator\nD  sodium hydroxide solution",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "25",
+      "page": 9,
+      "text": "Potassium, rubidium and sodium are in Group 1 of the Periodic Table.\n\nWhich statement about these three elements is correct?\n\nA  Rubidium is the strongest reducing agent.\nB  Sodium loses its valence electron most easily.\nC  Rubidium has a greater tendency to form negative ions than potassium.\nD  The reaction between sodium and water is the most violent.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "28",
+      "page": 10,
+      "text": "Which statement best supports that an unknown element could be a transition metal?\n\nA  The element burns in air to form a white residue.\nB  The element forms chlorides with the chemical formulae XCl₂ and XCl₃.\nC  The element forms ionic compounds that are soluble in water.\nD  The oxide of the element can react with acids.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "29",
+      "page": 10,
+      "text": "The table below shows the reactions that manganese undergoes.\n\n[DIAGRAM – TABLE]\nA table with 2 columns and 4 rows (including header).\nColumn 1: 'reaction with'\nColumn 2: 'observation'\nRow 1: dilute acid | hydrogen gas produced\nRow 2: cold water | no visible reaction\nRow 3: steam | hydrogen gas is produced\nRecommended rendering tool: SVG table.\n\nWhich row gives the correct arrangement of the metals in order of increasing reactivity?\n\nA  calcium, manganese, lead\nB  lead, calcium, manganese\nC  lead, manganese, calcium\nD  manganese, calcium, lead",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "30",
+      "page": 10,
+      "text": "The list shows the position of metal Y in the reactivity series of metals.\n\nNa   Al   Zn   Fe   Y   Cu   Ag\n\nWhich methods could be used to extract metal Y from its oxide?\n\n1  electrolysis of the molten metal oxide\n2  heating the metal oxide with hydrogen\n3  heating the metal oxide with zinc\n\nA  1, 2 and 3\nB  1 and 2 only\nC  2 only\nD  2 and 3 only",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "31",
+      "page": 11,
+      "text": "The diagrams show four chemical reactions. Which reaction is endothermic?\n\n[DIAGRAM – FOUR REACTION SKETCHES]\nFour labelled reaction sketches A, B, C, D.\nA: Addition of water to calcium oxide — steam and heat visible (exothermic).\nB: Combustion of natural gas with flame (exothermic).\nC: Thermal decomposition of limestone with external heat arrow pointing upward (endothermic — correct answer).\nD: Reaction of acid with alkali (exothermic).\nRecommended rendering tool: image generator.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "33",
+      "page": 12,
+      "text": "Graphs X and Y represent the results of two experiments demonstrating the catalytic decomposition of hydrogen peroxide.\n\nWhich set of values for hydrogen peroxide in each experiment would give the results shown?\n\n[DIAGRAM – GRAPH AND TABLE]\nA line graph with x-axis 'time' and y-axis 'volume of oxygen produced'. Curve X rises steeply to a higher plateau; curve Y rises less steeply to a lower plateau.\nBelow the graph: a table with 5 columns.\nHeader: | | X volume (cm³) | X concentration (mol/dm³) | Y volume (cm³) | Y concentration (mol/dm³) |\nRow A: | 50 | 2.0 | 100 | 1.0 |\nRow B: | 100 | 1.0 | 50 | 2.0 |\nRow C: | 100 | 1.0 | 200 | 0.5 |\nRow D: | 400 | 0.5 | 100 | 1.0 |\nRecommended rendering tool: image generator for graph, SVG table for data table.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "34",
+      "page": 12,
+      "text": "In the fractional distillation of crude oil, different fractions are obtained at the top and bottom of the fractionating column.\n\nWhich properties do the fraction obtained at the top of the fractionating column have, compared with the fraction obtained at the bottom?\n\n1  more viscous\n2  burns more easily\n3  lower boiling point\n\nA  1, 2 and 3\nB  1 and 2 only\nC  1 and 3 only\nD  2 and 3 only",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    }
+  ]
+}
