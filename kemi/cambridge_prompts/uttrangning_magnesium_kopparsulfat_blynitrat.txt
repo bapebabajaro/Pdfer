@@ -1,0 +1,85 @@
+UPPGIFT: uttrangning_magnesium_kopparsulfat_blynitrat
+Källa: 2011_Stage9_Paper2 :: fråga 6
+Stella Kemi kapitel: Kap 5 — Periodiska systemet
+Stella Kemi delkapitel: 5.3 Metallers reaktivitet
+Sidreferenser: s. 220–229 (utträngning, spänningsserien,
+               reaktivitetsordning, ordkvation)
+               s. 37–44 (ordkvationer)
+Typ: Öppen fråga (delfrågor a–c)
+Poäng: 4
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+(a) Anna lägger ett stycke magnesium i en lösning av
+    kopparsulfat.
+
+[DIAGRAM – APPARATURSKISS (utträngning)]
+SVG-skiss, 350×300px.
+  • Bägarglas (rektangel) med lösning (blå färg representerar
+    kopparsulfat), etikett "kopparsulfatlösning"
+  • En metallstav nedsänkt i bägaren, etikett "magnesium"
+  • Pil visar att en rödbrun beläggning bildas på staven
+    (koppar fälls ut), etikett: "koppar (fälls ut)"
+[SLUT DIAGRAM]
+
+    En reaktion sker.
+
+    Ordkvationen för reaktionen är:
+
+    magnesium + kopparsulfat → magnesiumsulfat + koppar
+
+    Varför kallas denna reaktion en utträngningsreaktion?
+    .......................................................................................[1]
+
+(b) Anna lägger ett stycke magnesium i en lösning av
+    blynitrat.
+
+    En utträngningsreaktion sker.
+
+    Skriv ordkvationen för denna reaktion.
+
+    ......................  +  ......................  →  ......................  +  ......................  [2]
+
+(c) Anna lägger ett stycke koppar i en lösning av
+    natriumklorid.
+
+    Det sker ingen reaktion. Ge en orsak till detta.
+    .......................................................................................[1]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-apparaturskiss (utträngning). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "utträngningsreaktion": mer reaktiv metall tränger ut
+  mindre reaktiv metall ur dess förening (s. 220–229)
+- "spänningsserien": magnesium > koppar (Mg mer reaktiv) (s. 220–229)
+- "kopparsulfat / magnesiumsulfat / blynitrat / magnesiumnitrat"
+  (s. 74–93, 220–229)
+- Ordkvation: magnesium + blynitrat →
+  magnesiumnitrat + bly (s. 37–44)
+
+Rätt svar:
+  (a) Magnesium (mer reaktiv) tränger ut koppar (mindre reaktiv)
+      ur kopparsulfatlösningen.
+  (b) magnesium + blynitrat → magnesiumnitrat + bly
+  (c) Koppar är mindre reaktiv än natrium (koppar kan inte
+      tränga ut natrium ur natriumklorid)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Anneka" → "Anna" (neutralt namn)
+- "copper sulfate" → "kopparsulfat"
+- "magnesium sulfate" → "magnesiumsulfat"
+- "lead nitrate" → "blynitrat"
+- "magnesium nitrate" → "magnesiumnitrat"
+- "sodium chloride" → "natriumklorid"
+- "displacement reaction" → "utträngningsreaktion" (Stella-term)
