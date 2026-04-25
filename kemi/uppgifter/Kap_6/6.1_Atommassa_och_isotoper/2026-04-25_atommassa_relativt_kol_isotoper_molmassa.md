@@ -3,6 +3,7 @@ kapitel: Kap_6
 delkapitel: 6.1_Atommassa_och_isotoper
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::9
 datum: 2026-04-25
+stella_sidor: s. 292–295
 visuellt: text
 ---
 
