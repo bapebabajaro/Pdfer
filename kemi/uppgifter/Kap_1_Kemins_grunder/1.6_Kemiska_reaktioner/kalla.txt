@@ -1,0 +1,5 @@
+stella_kemi_OCR.txt::kap1_delkapitel_1.6
+Stella Kemi s. 37–44 — "Kemiska reaktioner".
+REVISION 2026-04-24: Singapore-nivå med konkreta reaktionsformler (C+O₂, H₂CO₃, 2 H₂+O₂, 2 Mg+O₂, 2 Na+Cl₂, CH₄+2 O₂, 4 Fe+3 O₂, CuO+H₂, HCl+NaOH, Zn+2 HCl, fotosyntes) + alkemister + legeringar (sterlingsilver, brons).
+ABCD: A=13, B=13, C=12, D=12 (F24 combo "3" → C).
+50 frågor.

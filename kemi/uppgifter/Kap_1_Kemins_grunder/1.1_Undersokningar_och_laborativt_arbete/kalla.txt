@@ -1,0 +1,5 @@
+stella_kemi_OCR.txt::kap1_delkapitel_1.1
+Stella Kemi s. 10–17 — "Undersökningar och laborativt arbete".
+Genererad 2026-04-24 (revision 2, Singapore-nivå, 50 frågor).
+Format-fördelning: 23 Format 4 (pure-text) + 19 Format 3 (single-visual) + 6 Format 2 (table) + 2 Format 1 (combo).
+ABCD-fördelning: A=13, B=13, C=12, D=12.

@@ -1,0 +1,5 @@
+stella_kemi_OCR.txt::kap1_delkapitel_1.4
+Stella Kemi s. 29 + bakgrund s. 24–25.
+REVISION 2026-04-24: Singapore-nivå med konkreta reaktionsformler (C+O₂→CO₂, 2 H₂+O₂→2 H₂O, S+O₂→SO₂, 2 Mg+O₂→2 MgO, 2 Zn+O₂→2 ZnO, 4 Fe+3 O₂→2 Fe₂O₃, termitreaktion) + kolmonoxid-varning + brandens triangel + flamfärger.
+ABCD: A=13, B=15, C=13, D=9 (något skev — tid/kontext räckte inte till perfekt balansering vid F41-F50).
+50 frågor.

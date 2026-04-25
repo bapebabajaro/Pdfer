@@ -1,0 +1,5 @@
+stella_kemi_OCR.txt::kap1_delkapitel_1.8
+Stella Kemi s. 50–57 — "Separationsmetoder" + laboration "Filtrering".
+REVISION 2026-04-24: omskriven på Singapore-nivå med konkreta scenarion + kemiska formler (NaCl, CaCO₃, HNO₃, Ca(NO₃)₂). Gamla versionen var för abstrakt.
+ABCD: A=13, B=13, C=12, D=12 (F24 combo "4" mappas som D).
+50 frågor.
