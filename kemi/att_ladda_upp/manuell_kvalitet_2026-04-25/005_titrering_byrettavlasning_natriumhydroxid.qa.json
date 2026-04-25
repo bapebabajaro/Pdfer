@@ -1,0 +1,16 @@
+{
+  "source_markdown": "kemi/att_rendera/Kap_1_Kemins_grunder/1.1_Undersokningar_och_laborativt_arbete/2026-04-25_titrering_byrettavlasning_natriumhydroxid_renderas.md",
+  "output": "kemi/att_ladda_upp/manuell_kvalitet_2026-04-25/005_titrering_byrettavlasning_natriumhydroxid.png",
+  "method": "photorealistic imagegen background + deterministic burette scale/meniscus/text overlay",
+  "qa": {
+    "exact_start_reading_cm3": 1.2,
+    "exact_end_reading_cm3": 30.8,
+    "deterministic_scale": true,
+    "no_answer_marked": true,
+    "dimensions": [
+      2200,
+      1400
+    ],
+    "manual_visual_review_required": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source_markdown": "kemi/att_rendera/Kap_1_Kemins_grunder/1.1_Undersokningar_och_laborativt_arbete/2026-04-25_torkning_ammoniak_torkmedel_uppstallning_renderas.md",
+  "output": "kemi/att_ladda_upp/manuell_kvalitet_2026-04-25/006_torkning_ammoniak_torkmedel_uppstallning.png",
+  "method": "photorealistic imagegen base + deterministic PIL labels/text/options overlay",
+  "qa": {
+    "no_ai_generated_text_in_base": true,
+    "deterministic_text": true,
+    "no_answer_marked": true,
+    "visual_setups_count": 4,
+    "drying_agents_labeled_by_overlay": true,
+    "dimensions": [
+      2200,
+      1400
+    ],
+    "manual_visual_review_required": true
+  }
+}
