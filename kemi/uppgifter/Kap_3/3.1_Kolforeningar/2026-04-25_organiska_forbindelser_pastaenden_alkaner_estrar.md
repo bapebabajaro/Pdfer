@@ -3,6 +3,7 @@ kapitel: Kap_3
 delkapitel: 3.1_Kolforeningar
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::38
 datum: 2026-04-25
+stella_sidor: s. 100–141
 visuellt: text
 ---
 
