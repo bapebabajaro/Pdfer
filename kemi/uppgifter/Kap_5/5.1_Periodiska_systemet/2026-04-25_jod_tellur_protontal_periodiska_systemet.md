@@ -3,6 +3,7 @@ kapitel: Kap_5
 delkapitel: 5.1_Periodiska_systemet
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::26
 datum: 2026-04-25
+stella_sidor: s. 192–205
 visuellt: renderas
 ---
 
