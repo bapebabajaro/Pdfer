@@ -1,0 +1,406 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_methodistgirls.pdf",
+  "processed_at": "2026-04-25",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 1,
+      "text": "The diagram shows the setup for a chemical reaction which produces a gas. The gas is then dried and collected.\n\n[DIAGRAM – GAS COLLECTION APPARATUS]\nA conical flask produces a gas. The gas passes through a drying tube containing calcium oxide (CaO). Dry gas is then collected. Labels: 'gas collected' and 'calcium oxide'.\nRecommended rendering tool: SVG.\n\nWhat could the gas be?\n\nA  carbon dioxide\nB  hydrogen\nC  oxygen\nD  sulfur dioxide",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "2",
+      "page": 1,
+      "text": "The melting and boiling points of the gases in a sample of air are shown.\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 3 rows (excluding header).\nColumn 1: 'gas', Column 2: 'melting point / °C', Column 3: 'boiling point / °C'\nRow 1: oxygen | −219 | −183\nRow 2: argon | −189 | −186\nRow 3: nitrogen | −210 | −196\nRecommended rendering tool: SVG table.\n\nAt which temperature will the sample of air contain oxygen as the only liquid?\n\nA  −174 °C\nB  −187 °C\nC  −215 °C\nD  −222 °C",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "3",
+      "page": 1,
+      "text": "Which of the following pairs of substances can be separated by heating?\n\nA  ammonium chloride and iodine\nB  ammonium chloride and potassium iodide\nC  copper(II) nitrate and potassium iodide\nD  copper(II) nitrate and sodium chloride",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "4",
+      "page": 2,
+      "text": "The following diagrams can be used to illustrate the following.\n\n1  a mixture of elements and compounds\n2  a mixture of elements\n3  molecules of an element\n4  molecules of a compound\n\n[DIAGRAM – FOUR PARTICLE DIAGRAMS]\nFour labelled boxes W, X, Y, Z showing different particle arrangements:\nW: open circles of same size (same type, widely spaced).\nX: two types of open circles of same size mixed (two types of elements).\nY: open squares and open circles (two different types — element molecules + compound molecules).\nZ: mixed large solid circles and small open circles (two very different types — mixture with compound).\nRecommended rendering tool: SVG.\n\nWhat is the correct order of the diagrams?\n\n|   | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|\n| A | Y | Z | X | W |\n| B | Z | Y | X | W |\n| C | Z | Y | W | X |\n| D | Z | X | W | Y |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.7_Blandningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "5",
+      "page": 2,
+      "text": "A student wrote the following statements in her test script:\n\nStatement 1: 'Hydrogen chloride has a lower boiling point than calcium chloride as covalent bonds are weaker than electrostatic forces of attraction.'\n\nStatement 2: 'In a gaseous sample of methane, the intermolecular forces of attraction between the CH₄ molecules are weak.'\n\nStatement 3: 'In silicon dioxide, all valence electrons of silicon are used in the making of covalent bonds.'\n\nWhich of the above statements are correct?\n\nA  statement 1 and statement 2\nB  statement 1 and statement 3\nC  statement 2 and statement 3\nD  statement 1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "6",
+      "page": 3,
+      "text": "The table shows the proton number and nucleon number of elements M and N.\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 2 rows (excluding header).\nColumn 1: 'element', Column 2: 'proton number', Column 3: 'nucleon number'\nRow 1: M | 13 | 27\nRow 2: N | 8 | 16\nRecommended rendering tool: SVG table.\n\nWhen M and N react to form a compound, what will be the mass of one mole of the compound?\n\nA  43\nB  70\nC  102\nD  113",
+      "has_diagram": true,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "7",
+      "page": 3,
+      "text": "The relative masses and relative charges of particles V to Z are shown in Fig. 1 and Fig. 2 respectively.\n\n[DIAGRAM – TWO BAR GRAPHS]\nFig. 1: Bar graph with y-axis 'relative mass' (0 to 4) and x-axis showing particles V, W, X, Y, Z. V and Z have relative mass ≈ 4; W and Y have relative mass ≈ 1; X has relative mass ≈ 0 (very small, near zero).\nFig. 2: Bar graph with y-axis 'relative charge' (−2 to +2) and x-axis V, W, X, Y, Z. V has charge +2; W has charge +1; X has charge near 0 (or −1, very small negative); Y has charge +1; Z has charge +2.\nRecommended rendering tool: image generator.\n\nWhich of the following statements are correct?\n\n1  W represents an electron.\n2  X represents a hydrogen ion.\n3  Z represents the nucleus of a helium atom.\n4  V and Y represent the nuclei of isotopes.\n\nA  1 and 2 only\nB  2 and 3 only\nC  1, 2 and 4 only\nD  2, 3 and 4 only",
+      "has_diagram": true,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "8",
+      "page": 3,
+      "text": "Which statement best explains why brass, made of copper and zinc, is suitable to make music instruments compared to pure copper?\n\nA  The zinc atoms form strong metallic bonds with copper atoms in brass.\nB  The zinc atoms have more valence electrons than copper atoms.\nC  The zinc atoms prevent layers of copper atoms from sliding over each other.\nD  The zinc atoms prevent the 'sea of electrons' from moving freely.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "9",
+      "page": 4,
+      "text": "A 286 g sample of hydrated copper(II) sulfate contains 126 g of water of crystallisation.\n\nWhat is the correct formula of this compound?\n\nA  CuSO₄·3H₂O\nB  CuSO₄·5H₂O\nC  CuSO₄·7H₂O\nD  CuSO₄·9H₂O",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "10",
+      "page": 4,
+      "text": "Aqueous sodium hydroxide reacts with a certain metal chloride, MCl_n solution, according to the equation:\n\nMCl_n + nNaOH → M(OH)_n + nNaCl\n\n10.0 cm³ of 3.00 mol/dm³ NaOH solution were found to react with 10.0 cm³ of 1.50 mol/dm³ MCl_n solution.\n\nWhat is the formula of the metal chloride?\n\nA  MCl\nB  MCl₂\nC  MCl₃\nD  MCl₄",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "11",
+      "page": 4,
+      "text": "Sulfur dioxide can react with oxygen to form sulfur trioxide as shown.\n\n2SO₂(g) + O₂(g) → 2SO₃(g)\n\nIf 200 cm³ of sulfur dioxide is reacted with 200 cm³ of oxygen, what is the volume of gases remaining after the reaction?\n\nA  100 cm³\nB  200 cm³\nC  300 cm³\nD  400 cm³",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "12",
+      "page": 4,
+      "text": "An aqueous solution has a pH of 14.\n\nWhat does this imply about the concentration of ions present in the solution?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'concentration of OH⁻ ions', Column 3: 'concentration of H⁺ ions'\nRow A: high | low\nRow B: high | none\nRow C: low | high\nRow D: low | none\nRecommended rendering tool: SVG table.\n\nA  high OH⁻, low H⁺\nB  high OH⁻, none H⁺\nC  low OH⁻, high H⁺\nD  low OH⁻, none H⁺",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "13",
+      "page": 5,
+      "text": "Which of the following equations suggests that the underlined oxide has amphoteric properties?\n\nA  Ga₂O₃ + 2NaOH → 2NaGaO₂ + H₂O\nB  Li₂O + H₂O → 2LiOH\nC  CuO + 2HCl → CuCl₂ + H₂O\nD  Cl₂O + 2NaOH → 2NaClO + H₂O",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "14",
+      "page": 5,
+      "text": "Which of the following salts can be prepared using the same method?\n\nA  calcium sulfate, zinc chloride\nB  copper(II) sulfate, silver nitrate\nC  potassium nitrate, magnesium nitrate\nD  potassium iodide, silver iodide",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "15",
+      "page": 5,
+      "text": "The graph shows the optimal yield of ammonia at 450 °C and 250 atm.\n\n[DIAGRAM – GRAPH AND COMPARISON GRAPHS]\nReference graph: y-axis 'yield of ammonia', x-axis 'time'. A single curve labelled '450 °C' rises and levels off at a plateau.\nFour comparison graphs A, B, C, D each showing two curves (450 °C solid and 500 °C dashed) rising over time:\nGraph A: 500 °C curve is higher and reaches plateau sooner than 450 °C.\nGraph B: 450 °C reaches higher plateau; 500 °C starts slower but plateaus lower.\nGraph C: Both plateau at same height; 450 °C rises faster.\nGraph D: 500 °C rises faster but both reach same plateau.\nRecommended rendering tool: image generator.\n\nWhich of the following graphs shows a correct comparison of the yield of ammonia produced at temperature of 500 °C and 250 atm?\n\nA  Graph A\nB  Graph B\nC  Graph C\nD  Graph D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "16",
+      "page": 6,
+      "text": "Several tests are performed on an unlabelled bottle containing an aqueous sample.\n\nWhich of the following results is likely to correspond to iron(II) chloride?\n\n[DIAGRAM – TABLE]\nA table with 4 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'test 1: add dilute nitric acid, then aqueous silver nitrate', Column 3: 'test 2: add dilute nitric acid, then aqueous barium nitrate', Column 4: 'test 3: add aqueous sodium hydroxide dropwise, then add in excess'\nRow A: no visible reaction | white precipitate formed | green precipitate formed, does not dissolve in excess sodium hydroxide\nRow B: no visible reaction | white precipitate formed | reddish-brown precipitate formed, does not dissolve in excess sodium hydroxide\nRow C: white precipitate formed | no visible reaction | green precipitate formed, does not dissolve in excess sodium hydroxide\nRow D: white precipitate formed | no visible reaction | reddish-brown precipitate formed, does not dissolve in excess sodium hydroxide\nRecommended rendering tool: SVG table.\n\nA  Row A\nB  Row B\nC  Row C\nD  Row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "17",
+      "page": 6,
+      "text": "Disproportionation is a reaction in which the same element is both oxidised and reduced.\n\nWhich reaction is not an example of disproportionation?\n\nA  Cl₂ + 2NaOH → NaCl + NaOCl + H₂O\nB  2CuCl → CuCl₂ + Cu\nC  2H₂O₂ → 2H₂O + O₂\nD  2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": false,
+      "modification": "major"
+    },
+    {
+      "q_nr": "18",
+      "page": 6,
+      "text": "In an electrolysis experiment, the same amount of charge deposited 19.2 g of copper and 9 g of scandium. The charge on the copper ion is +2.\n[A_r: Sc, 45; Cu, 64]\n\nWhat was the charge on the scandium ion?\n\nA  +1\nB  +2\nC  +3\nD  +4",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "19",
+      "page": 7,
+      "text": "Which property is not typical of transition metals?\n\nA  They exhibit variable oxidation states.\nB  They form coloured compounds.\nC  They have high melting points.\nD  They have low densities.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "20",
+      "page": 7,
+      "text": "The electrolysis set-up shown is incomplete.\n\n[DIAGRAM – ELECTROLYSIS APPARATUS]\nAn electrolysis cell with two carbon electrodes dipping into concentrated hydrochloric acid. The box labelled X at the top shows where gas collection tubes should be placed above each electrode.\nFour options A, B, C, D show different arrangements of gases (O₂ and H₂, or Cl₂ and H₂) above the two electrodes:\nA: O₂ above left electrode, H₂ above right electrode.\nB: Cl₂ above left electrode, H₂ above right electrode.\nC: O₂ above left electrode, H₂ above right electrode (smaller volumes than A).\nD: H₂ above left electrode, Cl₂ above right electrode.\nRecommended rendering tool: SVG.\n\nWhat should be shown at X when the solution has been electrolysed for some time?\n\nA  O₂ and H₂\nB  Cl₂ and H₂\nC  O₂ and H₂ (smaller volumes)\nD  H₂ and Cl₂",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "21",
+      "page": 7,
+      "text": "Lithium and rubidium are both in Group 1 of the Periodic Table.\n\nWhich statement is correct?\n\nA  Lithium atoms and rubidium atoms have the same number of electrons in their outer shell.\nB  Lithium atoms and rubidium ions have the same number of electrons in their outer shell.\nC  Lithium atoms are larger than rubidium atoms.\nD  Rubidium ions are larger than rubidium atoms.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "22",
+      "page": 8,
+      "text": "In the following setup, magnesium and copper strips are pressed against a piece of wet filter paper soaked in dilute sulfuric acid and current can be detected by an ammeter.\n\n[DIAGRAM – ELECTROCHEMICAL CELL]\nA simple cell: a wet filter paper strip soaked in dilute sulfuric acid, with a copper strip on top and a magnesium strip below, connected externally by a wire to an ammeter. Labels: 'copper', 'wire', 'wet filter paper', 'magnesium'.\nRecommended rendering tool: SVG.\n\nWhich of the following statements is correct?\n\nA  Copper strip decreases in size.\nB  Electrons flow from copper to magnesium through the external wire.\nC  Magnesium strip is coated with a pink substance.\nD  Oxidation occurs on the magnesium strip.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "23",
+      "page": 8,
+      "text": "The graph shows the variation in boiling points for eight consecutive elements in Periods 3 and 4 of the Periodic Table with atomic numbers less than or equal to 20.\n\n[DIAGRAM – LINE GRAPH]\nA line graph. Y-axis: 'boiling point / °C'. X-axis: 'atomic number'. Eight points labelled P, Q, R, S, T, U, V, W in order of increasing atomic number. P is high, Q is the highest, R drops low, S is slightly higher than R, T drops to nearly zero (noble gas), U is very low, V rises again, W is the highest in Period 4. The graph zigzags showing the periodic trend.\nRecommended rendering tool: image generator.\n\nWhat can be deduced from the above?\n\nA  Element P is a Group 1 element.\nB  Element S has a metallic lattice structure.\nC  Element U exists as diatomic molecules.\nD  Element V is a strong reducing agent.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "24",
+      "page": 8,
+      "text": "Magnesium blocks are attached to iron pipes to prevent them from rusting.\n\nWhich statement best explains how magnesium stops the iron from rusting?\n\nA  Magnesium forms a compound with iron.\nB  Magnesium reacts in preference to iron.\nC  Magnesium reacts to form a protective coating of magnesium oxide on the iron.\nD  Magnesium stops oxygen in the water from getting to the iron.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "25",
+      "page": 9,
+      "text": "Three different reactions were set up as shown.\n\n[DIAGRAM – THREE DISPLACEMENT REACTIONS]\nThree beakers labelled 1, 2 and 3.\nBeaker 1: metal Z dipped into aqueous nitrate of metal W.\nBeaker 2: metal W dipped into aqueous nitrate of metal X.\nBeaker 3: metal X dipped into aqueous nitrate of metal Y.\n\nIn beaker 1, metal W is displaced from solution.\nIn beaker 2, metal X is displaced from solution.\nIn beaker 3, metal Y is displaced from solution.\nRecommended rendering tool: SVG.\n\nWhat is the order of reactivity of these four metals?\n\n|   | most reactive → | → | → | least reactive |\n|---|---|---|---|---|\n| A | W | X | Z | Y |\n| B | X | Y | W | Z |\n| C | Y | X | W | Z |\n| D | Z | W | X | Y |",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "26",
+      "page": 9,
+      "text": "Limestone usually contains impurities.\n\nThe diagram shows the change in mass when pure calcium carbonate is heated.\n\nWhich graph, A, B, C or D, shows a sample of limestone, of the same mass, containing impurities that are thermally stable to decomposition?\n\n[DIAGRAM – LINE GRAPH]\nA line graph. Y-axis: 'change in mass / g' (negative values, mass decreasing). X-axis: 'time / min'. Four curves labelled A, B, C, D and one dashed curve labelled 'pure calcium carbonate' (curve B, intermediate). Curve A levels off at a smaller mass loss (above the dashed line). Curves C and D level off at greater mass loss (below the dashed line).\nRecommended rendering tool: image generator.\n\nA  Curve A\nB  Curve B\nC  Curve C\nD  Curve D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "27",
+      "page": 10,
+      "text": "The reaction of a metal oxide with hydrogen is shown.\n\n[DIAGRAM – REDUCTION APPARATUS AND TABLE]\nA horizontal glass tube containing a metal oxide, heated by a Bunsen burner. Hydrogen gas passes through the tube. The gas exiting is burned (flame shown at right end of delivery tube).\nA table with 2 columns and 4 rows (excluding header).\nColumn 1: 'metal oxide', Column 2: 'mass of metal oxide after heating'\nRow A: copper(II) oxide | increases\nRow B: lead(II) oxide | decreases\nRow C: magnesium oxide | increases\nRow D: zinc oxide | decreases\nRecommended rendering tool: SVG.\n\nWhich of the following is correct?\n\nA  copper(II) oxide — mass increases\nB  lead(II) oxide — mass decreases\nC  magnesium oxide — mass increases\nD  zinc oxide — mass decreases",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "28",
+      "page": 10,
+      "text": "Hydrogen and chlorine react together to form hydrogen chloride.\n\nH₂(g) + Cl₂(g) → 2HCl(g)   ΔH = −92 kJ/mol\n\nThe average bond energies of two of the bonds involved are shown in the table.\n\n[DIAGRAM – TABLE]\nA table with 2 columns and 1 row (excluding header).\nColumn 1: 'bond', Column 2: 'bond energy / kJ/mol'\nRow 1: H–H | 436\nRow 2: Cl–Cl | 244\nRecommended rendering tool: SVG table.\n\nWhat is the bond energy of a H–Cl bond?\n\nA  294 kJ/mol\nB  386 kJ/mol\nC  588 kJ/mol\nD  772 kJ/mol",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "29",
+      "page": 10,
+      "text": "Which change will increase the speed of the reaction between 1 mol of two reacting gases?\n\nA  a decrease in temperature\nB  a decrease in the volume of the reaction flask\nC  a decrease in surface area of the catalyst\nD  an increase in the volume of the reaction flask",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "30",
+      "page": 11,
+      "text": "A diagram for the energy change during a chemical reaction is shown.\n\n[DIAGRAM – ENERGY PROFILE DIAGRAM]\nAn energy profile diagram. Y-axis: 'energy'. The reactants start at a higher energy level, the products end at a lower energy level. An arrow points downward from reactants to products level (exothermic).\nRecommended rendering tool: image generator.\n\nFor which reaction(s) would this be an appropriate diagram?\n\n1  CH₄ + 2O₂ → CO₂ + 2H₂O\n2  C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O\n3  2C + O₂ → 2CO\n\nA  1 only\nB  1 and 2 only\nC  1 and 3 only\nD  1, 2 and 3",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "31",
+      "page": 11,
+      "text": "In two separate experiments, the reaction of calcium carbonate with an excess of dilute hydrochloric acid was investigated. The calcium carbonate used in Experiment 1 was more finely divided than that used in Experiment 2.\n\nAssuming all other conditions were identical in both experiments, which of the following graphs best illustrates the results?\n\n[DIAGRAM – FOUR LINE GRAPHS]\nFour graphs labelled A, B, C, D. Each shows two curves labelled '1' (experiment 1) and '2' (experiment 2). Y-axis: 'volume of CO₂ / cm³'. X-axis: 'time / s'.\nGraph A: Curve 2 reaches a higher plateau than curve 1, both rise steeply.\nGraph B: Curve 1 reaches a higher plateau than curve 2; curve 1 rises faster.\nGraph C: Curve 1 rises faster and plateaus at the same level as curve 2.\nGraph D: Curve 1 rises faster but plateaus at a lower level than curve 2.\nRecommended rendering tool: image generator.\n\nA  Graph A\nB  Graph B\nC  Graph C\nD  Graph D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "32",
+      "page": 12,
+      "text": "Solution X reacts with solid Y to form a gas.\n\nWhich two diagrams show suitable methods for investigating the speed of reaction?\n\n[DIAGRAM – FOUR SETUPS]\nFour labelled setups 1, 2, 3 and 4, each showing a conical flask containing solution X and solid Y on a balance.\nSetup 1: flask sealed with a rubber stopper. Gas cannot escape. Balance records mass.\nSetup 2: flask sealed with cotton wool plug. Gas can escape slowly. Balance records mass.\nSetup 3: flask sealed with a rubber stopper connected to a gas syringe. Gas collected in syringe.\nSetup 4: flask sealed with cotton wool plug connected to a gas syringe. Cotton wool lets gas escape before reaching syringe.\nRecommended rendering tool: SVG.\n\nA  1 and 3\nB  1 and 4\nC  2 and 3\nD  2 and 4",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.1_Undersokningar_och_laborativt_arbete",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "33",
+      "page": 12,
+      "text": "The table shows the boiling points of four fractions, P, Q, R and S, obtained when crude oil is distilled.\n\n[DIAGRAM – TABLE]\nA table with 2 columns and 4 rows (excluding header).\nColumn 1: 'fraction', Column 2: 'boiling range / °C'\nRow P: 35–75\nRow Q: 80–145\nRow R: 150–250\nRow S: greater than 250\nRecommended rendering tool: SVG table.\n\nHow is fraction P different from S?\n\nA  Fraction P is collected at the bottom while fraction S is collected at the top.\nB  Fraction P is larger in molecular masses than fraction S.\nC  Fraction P is more flammable than fraction S.\nD  Fraction P is more viscous than fraction S.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "34",
+      "page": 12,
+      "text": "What will propanol, C₃H₇OH, form on complete oxidation?\n\nA  CH₃CO₂H\nB  C₂H₅CO₂H\nC  C₃H₇CO₂H\nD  C₄H₉CO₂H",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "35",
+      "page": 13,
+      "text": "The compound C₆H₁₂ undergoes the following process.\n\nC₆H₁₂ → ethene + compound Y\n\nWhich row in the table correctly identifies process X and compound Y?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'process X', Column 3: 'compound Y'\nRow A: cracking | butane\nRow B: cracking | butene\nRow C: distillation | butane\nRow D: distillation | butene\nRecommended rendering tool: SVG table.\n\nA  cracking — butane\nB  cracking — butene\nC  distillation — butane\nD  distillation — butene",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "36",
+      "page": 13,
+      "text": "How many isomers are there for butan-2-ol?\n\n[DIAGRAM – STRUCTURAL FORMULA]\nThe structural formula of butan-2-ol: a 4-carbon chain with an OH group on carbon 2.\nH H H H\n| | | |\nH–C–C–C–C–H\n| | | |\nH OH H H\nRecommended rendering tool: SVG.\n\nA  1\nB  2\nC  3\nD  4",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "37",
+      "page": 13,
+      "text": "An ester with molecular formula C₆H₁₂O₂ undergoes hydrolysis to form an alcohol G and an acid H. Alcohol G can be oxidised to acid H by warming with acidified potassium manganate(VII).\n\nWhich of the following is the formula of the ester?\n\nA  CH₃COOC₄H₉\nB  C₂H₅COOC₃H₇\nC  C₃H₇COOC₂H₅\nD  HCOOC₅H₁₁",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "38",
+      "page": 14,
+      "text": "A compound has the following structure.\n\n[DIAGRAM – STRUCTURAL FORMULA]\nThe displayed formula of prop-2-enoic acid (acrylic acid): CH₂=C–COOH\nH H O\n| | ‖\nH–C=C–C–O–H\nThe molecule has a C=C double bond and a –COOH group.\nRecommended rendering tool: SVG.\n\nWhich reaction(s) will occur with this compound?\n\n1  It will react with aqueous bromine under room temperature.\n2  It will react with an alcohol to form an ester.\n3  It will react with sodium metal.\n\nA  1 only\nB  1 and 2 only\nC  2 and 3 only\nD  1, 2 and 3",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "39",
+      "page": 14,
+      "text": "The diagram shows part of the molecule of polymer Q.\n\n[DIAGRAM – POLYMER STRUCTURE]\nA section of a polymer chain showing repeating amide linkages: –CO–C–N–CH₂–CH₂–N–CO–C–N–\nThe chain has alternating carbonyl groups (C=O) and nitrogen (NH) groups connected by –CH₂–CH₂– spacers. This is characteristic of a polyamide (nylon-like structure).\nRecommended rendering tool: SVG.\n\nWhich row correctly describes the monomer of Q and how the polymer is formed?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'functional groups present in the monomer', Column 3: 'polymer formed by'\nRow A: alkene and amine | addition polymerisation\nRow B: alkene and amine | condensation polymerisation\nRow C: carboxylic acid and amine | addition polymerisation\nRow D: carboxylic acid and amine | condensation polymerisation\nRecommended rendering tool: SVG table.\n\nA  alkene and amine — addition polymerisation\nB  alkene and amine — condensation polymerisation\nC  carboxylic acid and amine — addition polymerisation\nD  carboxylic acid and amine — condensation polymerisation",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "40",
+      "page": 14,
+      "text": "Which row in the table shows the correct atmospheric pollutant and its possible effects?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'pollutant', Column 3: 'effect'\nRow A: CFCs | layer forms photochemical smog\nRow B: CO₂ | is poisonous to humans\nRow C: CO | cause depletion of the ozone\nRow D: NO₂ | forms acid rain\nRecommended rendering tool: SVG table.\n\nA  CFCs — photochemical smog\nB  CO₂ — poisonous to humans\nC  CO — ozone depletion\nD  NO₂ — acid rain",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    }
+  ]
+}
