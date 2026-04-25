@@ -1,0 +1,176 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_kuochuan.pdf",
+  "processed_at": "2026-04-24",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 2,
+      "text": "Diagrams 1, 2 and 3 show the particles of three substances at room temperature and pressure.\n\n[DIAGRAM – THREE PARTICLE DIAGRAMS AND TABLE]\nThree boxes showing particle arrangements:\nDiagram 1: a few widely-spaced circles (gas particles, random positions).\nDiagram 2: circles closely and randomly packed but not in contact (liquid).\nDiagram 3: circles tightly packed and touching in a regular arrangement (solid).\nBelow: a table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: '1', Column 3: '2', Column 4: '3'\nRow A: argon | mercury | dry ice\nRow B: ethane | sodium chloride | mercury\nRow C: ethanol | hydrogen chloride | copper\nRow D: water | helium | zinc\nRecommended rendering tool: SVG.\n\nWhich of these substances are correctly represented by the corresponding diagram?\n\nA  argon, mercury, dry ice\nB  ethane, sodium chloride, mercury\nC  ethanol, hydrogen chloride, copper\nD  water, helium, zinc",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "3",
+      "page": 3,
+      "text": "The diagram shows a simple laboratory set-up used to prepare and collect a dry gas.\n\n[DIAGRAM – GAS PREPARATION APPARATUS AND TABLE]\nA conical flask containing solid A and solution B, heated by a Bunsen burner. The gas produced passes through a U-tube containing anhydrous calcium chloride (drying agent), then into a gas syringe for collection.\nBelow: a table with 2 columns and 4 rows (excluding header).\nColumn 1: 'solid A', Column 2: 'solution B'\nRow A: ammonium chloride | sodium hydroxide\nRow B: magnesium | sulfuric acid\nRow C: potassium carbonate | aqueous ammonia\nRow D: sodium hydroxide | hydrochloric acid\nRecommended rendering tool: SVG.\n\nWhich pair of reagents would be most suitable to prepare the gas produced using this set-up?\n\nA  ammonium chloride and sodium hydroxide\nB  magnesium and sulfuric acid\nC  potassium carbonate and aqueous ammonia\nD  sodium hydroxide and hydrochloric acid",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.1_Undersokningar_och_laborativt_arbete",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "4",
+      "page": 4,
+      "text": "The three main components of liquid air are nitrogen, oxygen and argon. Their respective boiling points are:\n\nnitrogen: −196 °C\noxygen: −183 °C\nargon: −186 °C\n\nLiquid air can be separated into its three main components by fractional distillation. The graph shows the temperature of a liquid air mixture as it is heated.\n\n[DIAGRAM – HEATING CURVE]\nA line graph. Y-axis: 'temperature / °C'. X-axis: 'time / min'. The curve shows a general rise from the lower left, with several labelled sections: L (initial steep rise), M (first plateau), N (rise), O (second plateau area), P (area between second and third plateau), Q (third plateau), R (further rise). The plateaus correspond to the boiling points of the three components.\nRecommended rendering tool: image generator.\n\nIn section P of the graph, the mixture remaining consists of\n\nA  liquid nitrogen and argon only.\nB  liquid nitrogen only.\nC  liquid oxygen and argon only.\nD  liquid oxygen only.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "5",
+      "page": 5,
+      "text": "The diagram shows the chromatogram obtained from the analysis of a dye mixture. Four measurements are shown in the diagram below.\n\n[DIAGRAM – CHROMATOGRAM WITH MEASUREMENTS]\nA vertical chromatography strip. The starting line is at the bottom. The solvent front is at the top. Two dye spots are visible at different heights. Four vertical measurements are indicated: 2 cm (from starting line to the lower spot), 6 cm (from starting line to the upper spot), 8 cm (from starting line to another reference), and 10 cm (from starting line to the solvent front).\nRecommended rendering tool: image generator.\n\nWhat is the Rf value of the most soluble dye?\n\nA  0.20\nB  0.80\nC  1.25\nD  5.00",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "6",
+      "page": 5,
+      "text": "The solubilities of three solids in water and tetrachloromethane are given in the table below.\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 3 rows (excluding header).\nColumn 1: 'solid', Column 2: 'solubility in water', Column 3: 'solubility in tetrachloromethane'\nRow 1: sand | not soluble | not soluble\nRow 2: sodium chloride | good | not soluble\nRow 3: sulfur | not soluble | good\nRecommended rendering tool: SVG table.\n\nWhich of the experimental procedures would be suitable for obtaining pure sand from a mixture of sand, sodium chloride and sulfur?\n\nA  Add tetrachloromethane and stir, then filter to collect residue.\nB  Add tetrachloromethane and stir, then filter. Add the residue to water and stir, then filter to collect residue.\nC  Add water and stir, then filter. Add tetrachloromethane to filtrate and stir, then evaporate to dryness.\nD  Add water and stir, then filter. Evaporate the filtrate to dryness.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "7",
+      "page": 6,
+      "text": "Which pair of statements correctly describes the properties of the compound iron(II) sulfide, FeS, and a mixture of iron and sulfur?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 3 rows (excluding header).\nColumn 1: row number, Column 2: 'iron(II) sulfide', Column 3: 'mixture of iron and sulfur'\nRow 1: The ratio of iron to sulfur is always 2 : 1. | The ratio of iron to sulfur can vary.\nRow 2: Iron(II) sulfide has the same properties as iron and sulfur. | The mixtures do not have the same properties as iron and sulfur.\nRow 3: Iron and sulfur react when heated to form iron(II) sulfide. | Iron and sulfur mix together with no energy change.\nRecommended rendering tool: SVG table.\n\nA  1 and 2\nB  1 and 3\nC  3 only\nD  All the above",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.7_Blandningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "20",
+      "page": 10,
+      "text": "Different indicators change colour over different pH ranges and it is important to choose the correct indicator to obtain an accurate result in a titration.\n\nThe graph below shows the change of pH when ethanoic acid is added to a fixed volume of aqueous sodium hydroxide in a titration.\n\n[DIAGRAM – GRAPH AND TABLE]\nA line graph. Y-axis: 'pH' (0 to 12). X-axis: 'volume of ethanoic acid added / cm³' (0 to 50). The titration curve starts at pH ~12 (alkaline, NaOH in flask), drops gradually, then steeply around 25 cm³, and levels off near pH 4.\nBelow: a table with 3 columns and 4 rows (excluding header).\nColumn 1: 'indicator', Column 2: 'pH range for the colour change', Column 3 split into 'lower pH' and 'higher pH'\nRow A: 0.3 – 3.0 | yellow | violet\nRow B: 4.2 – 6.3 | red | yellow\nRow C: 8.2 – 10.0 | colourless | pink\nRow D: 11.6 – 14.0 | blue | yellow\nRecommended rendering tool: image generator for graph, SVG table for data.\n\nWhich would be the most suitable indicator to use in this titration?\n\nA  indicator A (pH range 0.3 – 3.0)\nB  indicator B (pH range 4.2 – 6.3)\nC  indicator C (pH range 8.2 – 10.0)\nD  indicator D (pH range 11.6 – 14.0)",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "24",
+      "page": 13,
+      "text": "The table shows the voltage produced by some cells when different metals are used together with copper.\n\n[DIAGRAM – ELECTROCHEMICAL CELL AND TABLE]\nA simple cell diagram: two electrodes (metal 1 on left, metal 2 on right) dipping into an electrolyte, connected to a voltmeter (V).\nData table (2 rows, 3 columns, excluding header): 'metal 1' | 'metal 2' | 'voltage / V'\nsilver | copper | −0.46\nmagnesium | copper | +2.69\nRecommended rendering tool: SVG for cell diagram, SVG table for data.\n\nWhat would be the likely voltage obtained when silver is used as metal 1 and magnesium is used as metal 2?\n\nA  −2.23 V\nB  −3.15 V\nC  2.23 V\nD  3.15 V",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "26",
+      "page": 14,
+      "text": "The set-up below shows the reaction of substance X.\n\n[DIAGRAM – REACTION APPARATUS]\nA horizontal glass tube containing substance X, heated from below. On the left end, a plug of glass wool soaked in water (steam source) is shown. On the right end, the produced gas burns with a flame of burning hydrogen.\nRecommended rendering tool: SVG.\n\nWhat is the possible identity of X?\n\nA  X is a metal above hydrogen in the reactivity series.\nB  X is a metal below hydrogen in the reactivity series.\nC  X is an oxide of a metal that is above hydrogen in the reactivity series.\nD  X is an oxide of a metal that is below hydrogen in the reactivity series.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "28",
+      "page": 15,
+      "text": "The elements in a group of the Periodic Table show the following trends.\n\n• The element with the lowest proton number has the lowest reactivity.\n• The melting point of the elements decreases down the group.\n• The density of the elements increases down the group.\n\nWhich group can the elements be found in?\n\nA  1\nB  17\nC  18\nD  transition",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "29",
+      "page": 15,
+      "text": "The following observations were made when nickel and iron were placed separately into salt solutions of metals S, T and U.\n\n[DIAGRAM – TABLE]\nA table with 4 columns and 2 rows (excluding header).\nColumn 1: metal used, Column 2: 'salt solution of S', Column 3: 'salt solution of T', Column 4: 'salt solution of U'\nRow 1: nickel | solid deposit formed | no visible change | no visible change\nRow 2: iron | solid deposit formed | solid deposit formed | no visible change\nRecommended rendering tool: SVG table.\n\nWhat is the correct order in decreasing reactivity of the five metals?\n\nA  S > Ni > Fe > T > U\nB  S > Ni > T > Fe > U\nC  U > Fe > T > Ni > S\nD  U > T > Fe > Ni > S",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "30",
+      "page": 16,
+      "text": "An old railway carriage is being restored by having metal strips secured to the outside of the wooden carriage by means of screws.\n\n[DIAGRAM – METAL STRIP AND SCREW AND TABLE]\nA cross-section diagram showing a metal strip fastened to a wooden surface by a metal screw.\nAfter a few weeks of being exposed to wind and rain, the screws are heavily corroded but the metal strips are not.\nBelow: a table with 2 columns and 4 rows (excluding header).\nColumn 1: 'screw', Column 2: 'strip'\nRow A: copper | iron\nRow B: copper | zinc\nRow C: iron | copper\nRow D: iron | magnesium\nRecommended rendering tool: SVG.\n\nWhich two metals would give this result?\n\nA  screw = copper, strip = iron\nB  screw = copper, strip = zinc\nC  screw = iron, strip = copper\nD  screw = iron, strip = magnesium",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "31",
+      "page": 16,
+      "text": "For which process is the enthalpy change always positive?\n\nA  boiling\nB  combustion\nC  dissolving of acids in water\nD  respiration",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "32",
+      "page": 17,
+      "text": "Manganese(IV) oxide catalyses the decomposition of aqueous hydrogen peroxide into water and oxygen. In order to follow the rates of this reaction for two different solutions of hydrogen peroxide, the total volumes of oxygen evolved were recorded at regular time intervals and the results were plotted. In each experiment, the same mass of catalyst was used and the temperature was kept constant.\n\n[DIAGRAM – RATE OF REACTION GRAPH]\nA line graph. Y-axis: 'total volume of oxygen / cm³'. X-axis: 'time / s'. Two curves are shown:\nCurve 1 rises more steeply and reaches a higher plateau (corresponding to 25.0 cm³ of 4.0 mol/dm³ solution).\nCurve 2 rises less steeply and reaches a lower plateau.\nRecommended rendering tool: image generator.\n\nIf curve 1 corresponds to 25.0 cm³ of 4.0 mol/dm³ of solution, curve 2 would correspond to\n\nA  7.5 cm³ of 8.0 mol/dm³ solution.\nB  12.5 cm³ of 4.0 mol/dm³ solution.\nC  25.0 cm³ of 2.0 mol/dm³ solution.\nD  25.0 cm³ of 8.0 mol/dm³ solution.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "33",
+      "page": 17,
+      "text": "Which statement about the fractional distillation of crude oil is correct?\n\nA  At each level of the fractionating column, only one compound is collected.\nB  The fraction at the top of the column is the least flammable.\nC  The fraction collected at the bottom of the column has the highest viscosity.\nD  The higher up the fractionating column, the higher the temperature.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "34",
+      "page": 18,
+      "text": "Banana releases a gas that is able to make other fruit ripen. When this gas is bubbled into aqueous bromine, the reddish-brown solution decolourises.\n\nWhat could be the identity of this gas?\n\nA  ethane\nB  ethene\nC  iodine\nD  sulfur dioxide",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "39",
+      "page": 20,
+      "text": "In which reaction is water NOT a product?\n\nA  combustion of petroleum gases\nB  esterification between propanoic acid and butanol\nC  fermentation of glucose\nD  neutralization between dilute nitric acid and aqueous ammonia",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "minor"
+    }
+  ]
+}
