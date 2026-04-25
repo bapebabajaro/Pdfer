@@ -3,6 +3,7 @@ kapitel: Kap_3
 delkapitel: 3.3_Forbrannung_och_fossila_branslen
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::37
 datum: 2026-04-25
+stella_sidor: s. 118–124
 visuellt: text
 ---
 
