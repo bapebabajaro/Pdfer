@@ -1,0 +1,5 @@
+stella_kemi_OCR.txt::kap1_delkapitel_1.3
+Stella Kemi s. 24–28 — "Molekyler och kemiska föreningar".
+REVISION 2026-04-24: Singapore-nivå med konkreta molekyler (H₂O, O₂, N₂, CO₂, O₃, H₂, CO, CH₄, NH₃, H₂SO₄, NaOH, NaCl, C₆H₁₂O₆, ZnCl₂) + växthuseffekt + ozonlager + CO-giftighet + Avogadros lag + reaktionsformler.
+ABCD: A=13, B=13, C=12, D=12 (F24 combo "1" → A).
+50 frågor.

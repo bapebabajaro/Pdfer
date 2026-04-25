@@ -1,0 +1,5 @@
+stella_kemi_OCR.txt::kap1_delkapitel_1.5
+Stella Kemi s. 30–36 — "Joner" + laboration "Finns det joner i kranvatten?".
+REVISION 2026-04-24: Singapore-nivå med konkreta jonformler (Na⁺, Mg²⁺, Al³⁺, K⁺, Ca²⁺, H⁺, Cl⁻, F⁻, O²⁻, S²⁻) + elektronkonfigurationer + jonföreningsformler (NaCl, MgCl₂, CaCl₂, Li₂O, K₂O, Al₂O₃, Fe₂O₃) + doppelektrod­experiment.
+ABCD: A=13, B=13, C=12, D=12 (F24 combo "1" → A).
+50 frågor.

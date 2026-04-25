@@ -1,0 +1,5 @@
+stella_kemi_OCR.txt::kap1_delkapitel_1.7
+Stella Kemi s. 45–49 — "Blandningar" + laboration "Hur mycket socker går det att lösa i vatten?".
+REVISION 2026-04-24: Singapore-nivå med konkreta scenarion (socker, olja, majonnäs, iste, cola, havsvatten) + polaritets­resonemang + kontrollvariabel­diskussion.
+ABCD: A=13, B=13, C=12, D=12 (F24 combo "4" → D).
+50 frågor.

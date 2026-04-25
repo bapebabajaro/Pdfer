@@ -1,0 +1,5 @@
+stella_kemi_OCR.txt::kap1_delkapitel_1.2
+Stella Kemi s. 18–23 — "Atomer och grundämnen".
+Genererad 2026-04-24 (Singapore-nivå, 50 frågor).
+Format-fördelning: 23 Format 4 + 19 Format 3 + 6 Format 2 + 2 Format 1.
+ABCD-fördelning: A=13, B=13, C=12, D=12 (F24 combo "2" mappas som B).
