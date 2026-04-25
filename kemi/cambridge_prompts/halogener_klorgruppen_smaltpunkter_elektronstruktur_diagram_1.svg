@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="460" viewBox="0 0 1080 460">
+  <defs>
+    <style>
+      .title { font: 700 28px Georgia, 'Times New Roman', serif; fill: #132238; }
+      .head { font: 700 17px Arial, Helvetica, sans-serif; fill: #173149; }
+      .cell { font: 400 17px Arial, Helvetica, sans-serif; fill: #243648; }
+      .hint { font: italic 14px Georgia, 'Times New Roman', serif; fill: #6b7a88; }
+    </style>
+  </defs>
+  <rect width="1080" height="460" fill="#f6f8fb"/>
+  <rect x="24" y="24" width="1032" height="412" rx="24" fill="#ffffff" stroke="#d8e0ea" stroke-width="2"/>
+  <text x="540" y="68" text-anchor="middle" class="title">Egenskaper hos halogenerna</text>
+
+  <g transform="translate(34 118)">
+    <rect x="0" y="0" width="170" height="62" rx="14" fill="#dfe8f3" stroke="#c1cfdf"/>
+    <rect x="170" y="0" width="170" height="62" rx="14" fill="#e9f1f8" stroke="#c9d8e7"/>
+    <rect x="340" y="0" width="170" height="62" rx="14" fill="#eef4db" stroke="#d7e4b1"/>
+    <rect x="510" y="0" width="280" height="62" rx="14" fill="#f7ead8" stroke="#ead1aa"/>
+    <rect x="790" y="0" width="222" height="62" rx="14" fill="#e6eef9" stroke="#c7d7ef"/>
+
+    <g fill="#ffffff" stroke="#d6dee8">
+      <rect x="0" y="62" width="170" height="72"/><rect x="170" y="62" width="170" height="72"/><rect x="340" y="62" width="170" height="72"/><rect x="510" y="62" width="280" height="72"/><rect x="790" y="62" width="222" height="72"/>
+      <rect x="0" y="134" width="170" height="72"/><rect x="170" y="134" width="170" height="72"/><rect x="340" y="134" width="170" height="72"/><rect x="510" y="134" width="280" height="72"/><rect x="790" y="134" width="222" height="72"/>
+      <rect x="0" y="206" width="170" height="72"/><rect x="170" y="206" width="170" height="72"/><rect x="340" y="206" width="170" height="72"/><rect x="510" y="206" width="280" height="72"/><rect x="790" y="206" width="222" height="72"/>
+      <rect x="0" y="278" width="170" height="72"/><rect x="170" y="278" width="170" height="72"/><rect x="340" y="278" width="170" height="72"/><rect x="510" y="278" width="280" height="72"/><rect x="790" y="278" width="222" height="72"/>
+    </g>
+
+    <text x="85" y="36" text-anchor="middle" class="head">grundämne</text>
+    <text x="255" y="36" text-anchor="middle" class="head">smältpunkt i °C</text>
+    <text x="425" y="36" text-anchor="middle" class="head">kokpunkt i °C</text>
+    <text x="650" y="36" text-anchor="middle" class="head">aggregationstillstånd vid rumstemperatur</text>
+    <text x="901" y="36" text-anchor="middle" class="head">atomstorlek</text>
+
+    <g class="cell">
+      <text x="85" y="104" text-anchor="middle">fluor</text>
+      <text x="425" y="104" text-anchor="middle">-188</text>
+      <text x="650" y="104" text-anchor="middle">gas</text>
+
+      <text x="85" y="176" text-anchor="middle">klor</text>
+      <text x="255" y="176" text-anchor="middle">-102</text>
+      <text x="425" y="176" text-anchor="middle">-34</text>
+
+      <text x="85" y="248" text-anchor="middle">brom</text>
+      <text x="255" y="248" text-anchor="middle">-7</text>
+      <text x="650" y="248" text-anchor="middle">flytande</text>
+
+      <text x="85" y="320" text-anchor="middle">jod</text>
+      <text x="255" y="320" text-anchor="middle">114</text>
+      <text x="425" y="320" text-anchor="middle">184</text>
+      <text x="650" y="320" text-anchor="middle">fast ämne</text>
+    </g>
+
+    <g fill="none" stroke="#8fa1b3" stroke-width="2.5" stroke-dasharray="10 8">
+      <rect x="194" y="82" width="122" height="34" rx="8"/>
+      <rect x="814" y="82" width="174" height="34" rx="8"/>
+      <rect x="576" y="154" width="148" height="34" rx="8"/>
+      <rect x="814" y="154" width="174" height="34" rx="8"/>
+      <rect x="364" y="226" width="122" height="34" rx="8"/>
+      <rect x="814" y="226" width="174" height="34" rx="8"/>
+      <rect x="814" y="298" width="174" height="34" rx="8"/>
+    </g>
+
+    <text x="255" y="104" text-anchor="middle" class="hint">svara här</text>
+    <text x="901" y="104" text-anchor="middle" class="hint">svara här</text>
+    <text x="650" y="176" text-anchor="middle" class="hint">svara här</text>
+    <text x="901" y="176" text-anchor="middle" class="hint">svara här</text>
+    <text x="425" y="248" text-anchor="middle" class="hint">svara här</text>
+    <text x="901" y="248" text-anchor="middle" class="hint">svara här</text>
+    <text x="901" y="320" text-anchor="middle" class="hint">svara här</text>
+  </g>
+</svg>
