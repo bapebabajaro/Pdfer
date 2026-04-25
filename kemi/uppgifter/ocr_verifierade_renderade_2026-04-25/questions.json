@@ -1,0 +1,118 @@
+{
+  "batch_id": "ocr_verifierade_renderade_2026-04-25",
+  "source_canon": "kemi/stella_kemi_OCR.txt",
+  "questions": [
+    {
+      "id": "ocr-gold-001-adelgas-position",
+      "typ": "mcq_visual",
+      "nivå": 2,
+      "fråga": "Nora jämför fyra markerade positioner i ett förenklat periodiskt system. Vilken position ska hon välja för argon?",
+      "visual": "assets/ocr_gold_001_adelgas_position.png",
+      "alternativ": {
+        "A": "Position A",
+        "B": "Position B",
+        "C": "Position C",
+        "D": "Position D"
+      },
+      "rätt": "D",
+      "stella": "s. 24, 200",
+      "lösning": "Argon finns i luft och ädelgaserna finns i grupp 18 längst till höger. Ädelgaser har fulla valensskal och reagerar inte lätt."
+    },
+    {
+      "id": "ocr-gold-002-kalciumoxid-vatten",
+      "typ": "mcq_visual",
+      "nivå": 2,
+      "fråga": "Ella lägger en liten sked kalciumoxid i vatten och testar vätskan med pH-papper. Vilken skiss ska hon välja?",
+      "visual": "assets/ocr_gold_002_kalciumoxid_vatten.png",
+      "alternativ": {
+        "A": "Skiss A",
+        "B": "Skiss B",
+        "C": "Skiss C",
+        "D": "Skiss D"
+      },
+      "rätt": "A",
+      "stella": "s. 218",
+      "lösning": "Kalciumoxid reagerar med vatten och bildar kalciumhydroxid. Kalciumhydroxid kan avge hydroxidjoner, så lösningen blir basisk."
+    },
+    {
+      "id": "ocr-gold-003-galvaniskt-metallpar",
+      "typ": "mcq_visual",
+      "nivå": 3,
+      "fråga": "Samira bygger ett galvaniskt element med saltvatten på filterpapper. Vilket metallpar ska hon välja för störst skillnad i ädelhet?",
+      "visual": "assets/ocr_gold_003_galvaniskt_metallpar.png",
+      "alternativ": {
+        "A": "Par A",
+        "B": "Par B",
+        "C": "Par C",
+        "D": "Par D"
+      },
+      "rätt": "A",
+      "stella": "s. 219, 221-223, 229",
+      "lösning": "Ett galvaniskt element bygger på två olika ädla metaller och en elektrolyt. Ju större skillnad i ädelhet mellan metallerna, desto bättre passar metallparet som poler. Magnesium och koppar ligger längst ifrån varandra i den givna ordningen."
+    },
+    {
+      "id": "ocr-gold-004-halogen-position",
+      "typ": "mcq_visual",
+      "nivå": 2,
+      "fråga": "Leo ska markera positionen för ett grundämne vars atomer brukar ta upp en elektron. Vilken position ska han välja?",
+      "visual": "assets/ocr_gold_004_halogen_position.png",
+      "alternativ": {
+        "A": "Position A",
+        "B": "Position B",
+        "C": "Position C",
+        "D": "Position D"
+      },
+      "rätt": "C",
+      "stella": "s. 199",
+      "lösning": "Halogener finns i grupp 17 och har sju valenselektroner. De kan ta upp en elektron och bildar då joner med laddningen −1."
+    },
+    {
+      "id": "ocr-gold-005-kromatografi-farg",
+      "typ": "mcq_visual",
+      "nivå": 2,
+      "fråga": "Mira undersöker en färgblandning med papperskromatografi. Vilket påstående stämmer med bilden?",
+      "visual": "assets/ocr_gold_005_kromatografi_farg.png",
+      "alternativ": {
+        "A": "X löser sig bäst",
+        "B": "X bromsas minst",
+        "C": "Y löser sig bäst",
+        "D": "Y bromsas mest"
+      },
+      "rätt": "C",
+      "stella": "s. 53",
+      "lösning": "I papperskromatografi följer de mest vattenlösliga partiklarna med vattnet längst upp på pappret. Y har hamnat högst och löser sig därför bäst i vattnet."
+    },
+    {
+      "id": "ocr-gold-006-neutralisation-partiklar",
+      "typ": "mcq_visual",
+      "nivå": 3,
+      "fråga": "Amina blandar saltsyra med natriumhydroxidlösning. Vilken skiss visar den direkta partikelreaktionen?",
+      "visual": "assets/ocr_gold_006_neutralisation_partiklar.png",
+      "alternativ": {
+        "A": "Skiss A",
+        "B": "Skiss B",
+        "C": "Skiss C",
+        "D": "Skiss D"
+      },
+      "rätt": "B",
+      "stella": "s. 83",
+      "lösning": "Vid neutralisation reagerar vätejoner och hydroxidjoner direkt med varandra och bildar vatten. Natriumjoner och kloridjoner blir kvar i lösningen."
+    },
+    {
+      "id": "ocr-gold-007-losningshastighet",
+      "typ": "mcq_visual",
+      "nivå": 2,
+      "fråga": "Oskar testar hur snabbt samma mängd socker löser sig i vatten. Vilken bägare bör bli klar först?",
+      "visual": "assets/ocr_gold_007_losningshastighet.png",
+      "alternativ": {
+        "A": "Bägare A",
+        "B": "Bägare B",
+        "C": "Bägare C",
+        "D": "Bägare D"
+      },
+      "rätt": "D",
+      "stella": "s. 46-47",
+      "lösning": "Fasta ämnen löser sig snabbare i varm vätska, när ämnet är finfördelat och när man rör om. Bägare D kombinerar alla tre faktorerna."
+    }
+  ]
+}

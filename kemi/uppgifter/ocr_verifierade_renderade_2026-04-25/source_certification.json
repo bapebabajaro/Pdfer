@@ -1,0 +1,105 @@
+{
+  "batch_id": "ocr_verifierade_renderade_2026-04-25",
+  "source_canon": "kemi/stella_kemi_OCR.txt",
+  "dead_sins_policy": "DODSSYNDLISTA.md rev 3",
+  "global_gates": {
+    "schema_fields_present": "pass",
+    "no_explanations_inside_options": "pass",
+    "parallel_option_format": "pass",
+    "scenario_present": "pass",
+    "visual_required_and_present": "pass",
+    "stella_page_reference_present": "pass",
+    "render_prompt_without_answer_phrase": "pass"
+  },
+  "items": [
+    {
+      "id": "ocr-gold-001-adelgas-position",
+      "ocr_verification": [
+        {"page": 24, "terms": ["argon"], "status": "pass"},
+        {"page": 200, "terms": ["Ädelgaser", "grupp 18", "reagerar inte", "fulla valensskal"], "status": "pass"}
+      ],
+      "distractor_rationales": {
+        "A": "Blandar ihop huvudgruppsposition med ädelgasgrupp.",
+        "B": "Väljer övergångsmetallområdet trots att argon är gas.",
+        "C": "Blandar ihop halogener med ädelgaser."
+      },
+      "dead_sins": "pass"
+    },
+    {
+      "id": "ocr-gold-002-kalciumoxid-vatten",
+      "ocr_verification": [
+        {"page": 218, "terms": ["Kalciumoxid", "vatten", "kalciumhydroxid", "hydroxidjoner", "basisk"], "status": "pass"}
+      ],
+      "distractor_rationales": {
+        "B": "Tror att lösningen blir neutral trots hydroxidjoner.",
+        "C": "Blandar ihop basisk metalloxid med sur lösning.",
+        "D": "Missar att kalciumoxid reagerar med vatten."
+      },
+      "dead_sins": "pass"
+    },
+    {
+      "id": "ocr-gold-003-galvaniskt-metallpar",
+      "ocr_verification": [
+        {"page": 219, "terms": ["elektrokemiska spänningsserien", "oädla", "ädla"], "status": "pass"},
+        {"page": 221, "terms": ["zink", "koppar", "elektrisk spänning"], "status": "pass"},
+        {"page": 223, "terms": ["elektrolyt", "elektrisk ström"], "status": "pass"},
+        {"page": 229, "terms": ["magnesium", "koppar", "zink", "järn", "Mät spänningen"], "status": "pass"}
+      ],
+      "distractor_rationales": {
+        "B": "Väljer två metaller som ligger nära varandra i den givna ordningen.",
+        "C": "Känner igen koppar-zink men missar att större skillnad efterfrågas.",
+        "D": "Väljer ett fungerande par men inte största skillnaden."
+      },
+      "dead_sins": "pass"
+    },
+    {
+      "id": "ocr-gold-004-halogen-position",
+      "ocr_verification": [
+        {"page": 199, "terms": ["Halogener", "grupp 17", "sju valenselektroner", "tar upp en elektron", "bildar joner"], "status": "pass"}
+      ],
+      "distractor_rationales": {
+        "A": "Blandar ihop grupp 1 med ämnen som tar upp elektroner.",
+        "B": "Blandar ihop grupp 2 med grupp 17.",
+        "D": "Blandar ihop fulla valensskal med upptag av en elektron."
+      },
+      "dead_sins": "pass"
+    },
+    {
+      "id": "ocr-gold-005-kromatografi-farg",
+      "ocr_verification": [
+        {"page": 53, "terms": ["Kromatografi", "vattenlösliga", "längre bit", "bromsar"], "status": "pass"}
+      ],
+      "distractor_rationales": {
+        "A": "Läser fel fläck som högst upp.",
+        "B": "Blandar ihop lägre fläck med mindre bromsning.",
+        "D": "Blandar ihop längst vandring med mest bromsning."
+      },
+      "dead_sins": "pass"
+    },
+    {
+      "id": "ocr-gold-006-neutralisation-partiklar",
+      "ocr_verification": [
+        {"page": 83, "terms": ["vätejoner", "hydroxidjoner", "bilda vatten", "natriumjoner", "kloridjoner"], "status": "pass"}
+      ],
+      "distractor_rationales": {
+        "A": "Tror att saltjonerna reagerar direkt med varandra.",
+        "C": "Blandar ihop syrans egna joner med neutralisationen.",
+        "D": "Blandar ihop basens egna joner med neutralisationen."
+      },
+      "dead_sins": "pass"
+    },
+    {
+      "id": "ocr-gold-007-losningshastighet",
+      "ocr_verification": [
+        {"page": 46, "terms": ["Värme", "finfördelning", "omrörning", "löser sig snabbare"], "status": "pass"},
+        {"page": 47, "terms": ["finfördelat", "rör om", "varm vätska"], "status": "pass"}
+      ],
+      "distractor_rationales": {
+        "A": "Ignorerar alla tre faktorer som ökar lösningshastighet.",
+        "B": "Tar bara hänsyn till temperatur.",
+        "C": "Tar hänsyn till finfördelning och omrörning men missar temperatur."
+      },
+      "dead_sins": "pass"
+    }
+  ]
+}
