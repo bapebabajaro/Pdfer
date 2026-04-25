@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="260" style="background:#fff;font-family:Arial,sans-serif;">
+  <text x="350" y="24" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">Dra streck till r&#228;tt aggregationstillst&#229;nd</text>
+
+  <rect x="20" y="50" width="280" height="44" rx="6" fill="none" stroke="#333" stroke-width="1.5"/>
+  <text x="30" y="68" font-size="12" fill="#000">Br&#228;nslet f&#246;rvaras</text>
+  <text x="30" y="84" font-size="12" fill="#000">i p&#229;sar.</text>
+
+  <rect x="20" y="108" width="280" height="44" rx="6" fill="none" stroke="#333" stroke-width="1.5"/>
+  <text x="30" y="126" font-size="12" fill="#000">Br&#228;nslet fl&#246;dar l&#228;ngs ett r&#246;r</text>
+  <text x="30" y="142" font-size="12" fill="#000">dit det beh&#246;vs.</text>
+
+  <rect x="20" y="166" width="280" height="44" rx="6" fill="none" stroke="#333" stroke-width="1.5"/>
+  <text x="30" y="184" font-size="12" fill="#000">Br&#228;nslet f&#246;rvaras under tryck</text>
+  <text x="30" y="200" font-size="12" fill="#000">i cylindrar.</text>
+
+  <rect x="400" y="50" width="140" height="44" rx="6" fill="none" stroke="#333" stroke-width="1.5"/>
+  <text x="470" y="78" text-anchor="middle" font-size="14" fill="#000">gas</text>
+
+  <rect x="400" y="108" width="140" height="44" rx="6" fill="none" stroke="#333" stroke-width="1.5"/>
+  <text x="470" y="136" text-anchor="middle" font-size="14" fill="#000">flytande</text>
+
+  <rect x="400" y="166" width="140" height="44" rx="6" fill="none" stroke="#333" stroke-width="1.5"/>
+  <text x="470" y="194" text-anchor="middle" font-size="14" fill="#000">fast &#228;mne</text>
+
+  <circle cx="300" cy="72" r="3" fill="#999"/>
+  <circle cx="300" cy="130" r="3" fill="#999"/>
+  <circle cx="300" cy="188" r="3" fill="#999"/>
+  <circle cx="400" cy="72" r="3" fill="#999"/>
+  <circle cx="400" cy="130" r="3" fill="#999"/>
+  <circle cx="400" cy="188" r="3" fill="#999"/>
+
+  <text x="350" y="240" text-anchor="middle" font-size="11" fill="#666" font-style="italic">(Dra streck mellan br&#228;nsle och r&#228;tt aggregationstillst&#229;nd)</text>
+</svg>
