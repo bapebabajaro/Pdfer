@@ -3,6 +3,7 @@ kapitel: Kap_5
 delkapitel: 5.3_Metallers_reaktivitet
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::31
 datum: 2026-04-25
+stella_sidor: s. 216–235
 visuellt: tabell_svg
 ---
 
@@ -15,6 +16,6 @@ Tabellen visar metaller och deras malmföreningar.
 Vilken typ av reaktion förekommer vid utvinning av varje metall från sin malm?
 
 A  elektrolys
-B  utfällning
+B  fällning
 C  reduktion
 D  termisk sönderdelning
