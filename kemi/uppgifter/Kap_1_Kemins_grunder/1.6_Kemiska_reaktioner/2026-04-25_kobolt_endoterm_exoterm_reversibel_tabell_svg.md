@@ -3,6 +3,7 @@ kapitel: Kap_1_Kemins_grunder
 delkapitel: 1.6_Kemiska_reaktioner
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::32
 datum: 2026-04-25
+stella_sidor: s. 37–44
 visuellt: tabell_svg
 ---
 
