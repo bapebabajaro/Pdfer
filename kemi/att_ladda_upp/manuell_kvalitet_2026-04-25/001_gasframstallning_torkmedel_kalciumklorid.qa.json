@@ -1,0 +1,18 @@
+{
+  "source_markdown": "kemi/att_rendera/Kap_1_Kemins_grunder/1.1_Undersokningar_och_laborativt_arbete/2026-04-25_gasframstallning_torkmedel_uppstallning_kalciumklorid_renderas.md",
+  "output": "kemi/att_ladda_upp/manuell_kvalitet_2026-04-25/001_gasframstallning_torkmedel_kalciumklorid.png",
+  "method": "photorealistic imagegen base + deterministic PIL text/table overlay",
+  "qa": {
+    "no_ai_generated_text_in_base": true,
+    "deterministic_table_text": true,
+    "deterministic_option_text": true,
+    "no_answer_marked": true,
+    "single_item_manual_pilot": true,
+    "dimensions": [
+      2200,
+      1400
+    ],
+    "encoding_checked": true,
+    "label_arrows_do_not_cross_label_text": true
+  }
+}
