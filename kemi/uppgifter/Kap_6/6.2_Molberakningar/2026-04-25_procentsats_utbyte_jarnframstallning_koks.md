@@ -3,6 +3,7 @@ kapitel: Kap_6
 delkapitel: 6.2_Molberakningar
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::13
 datum: 2026-04-25
+stella_sidor: s. 295–309
 visuellt: text
 ---
 
