@@ -1,0 +1,406 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_nanyang.pdf",
+  "processed_at": "2026-04-25",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 2,
+      "text": "A balloon full of helium gas was found to be smaller in size as the temperature changes from 30 °C to 10 °C.\n\nWhich statement best explains why this is so?\n\nA  The gas condenses into a liquid and so takes up less space.\nB  The gas particles become smaller at lower temperatures.\nC  The gas particles diffuse through the balloon and escape.\nD  The gas particles move more slowly hence reducing the pressure.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "2",
+      "page": 2,
+      "text": "Ethylamine gas, C₂H₅NH₂, and hydrogen chloride gas, HCl, react together to form a white solid, ethylamine hydrochloride.\n\nAt which position in the tube would a white ring of ethylamine hydrochloride be formed?\n\n[DIAGRAM – DIFFUSION TUBE]\nA horizontal glass tube, sealed at both ends by cotton wool plugs. Left end: cotton wool soaked in ethylamine solution. Right end: cotton wool soaked in hydrochloric acid solution. Four positions labelled A, B, C, D are marked along the tube from left (near ethylamine) to right (near HCl).\nRecommended rendering tool: SVG.\n\nA  Position A\nB  Position B\nC  Position C\nD  Position D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "3",
+      "page": 2,
+      "text": "Substances can be elements, compounds or mixtures.\n\nWhich row is correct?\n\n[DIAGRAM – TABLE]\nA table with 4 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'element', Column 3: 'compound', Column 4: 'mixture'\nRow A: calcium | brass | zinc\nRow B: methane | carbon | crude oil\nRow C: nitrogen | carbon dioxide | water vapour\nRow D: oxygen | glucose | air\nRecommended rendering tool: SVG table.\n\nA  calcium — brass — zinc\nB  methane — carbon — crude oil\nC  nitrogen — carbon dioxide — water vapour\nD  oxygen — glucose — air",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.7_Blandningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "4",
+      "page": 3,
+      "text": "Four mixtures, each containing two substances, are shown in the table. The substances need to be separated and collected.\n\nWhich row correctly matches the mixture to the separation method?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'mixture', Column 3: 'separation method'\nRow A: copper(II) sulfate and water | chromatography\nRow B: methanol and ethanol | evaporation\nRow C: oxygen and nitrogen | fractional distillation\nRow D: sand and silver chloride | filtration\nRecommended rendering tool: SVG table.\n\nA  copper(II) sulfate and water — chromatography\nB  methanol and ethanol — evaporation\nC  oxygen and nitrogen — fractional distillation\nD  sand and silver chloride — filtration",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "5",
+      "page": 3,
+      "text": "Two isotopes of chlorine are ³⁵Cl and ³⁷Cl.\n\nUsing these isotopes, how many different relative molecular masses are possible for the compound with the molecular formula C₂H₃Cl₃?\n\nA  2\nB  3\nC  4\nD  5",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "6",
+      "page": 3,
+      "text": "A piece of magnesium reacts with dilute hydrochloric acid.\n\nWhich statement is correct?\n\nA  A covalent compound is formed during the reaction.\nB  Each chlorine atom loses one electron in the process.\nC  Each magnesium atom gains one electron in the process.\nD  Molecules of an element are formed during the reaction.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "7",
+      "page": 4,
+      "text": "The circuit diagram shows an experiment using a rod of copper and a rod of graphite.\n\n[DIAGRAM – CIRCUIT WITH TABLE]\nA simple circuit: a switch, a bulb, and two rods (rod of copper on the left, rod of graphite on the right) connected in series.\nA table with 4 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'copper(II) ions', Column 3: 'electrons', Column 4: 'carbon ions'\nRow A: ✓ | ✗ | ✓\nRow B: ✗ | ✓ | ✗\nRow C: ✓ | ✓ | ✗\nRow D: ✗ | ✓ | ✓\nRecommended rendering tool: SVG for circuit, SVG table for data.\n\nWhen the switch is closed, the bulb lights because an electric current flows through the copper and graphite. Which particle(s) move through these rods?\n\nA  copper(II) ions: ✓, electrons: ✗, carbon ions: ✓\nB  copper(II) ions: ✗, electrons: ✓, carbon ions: ✗\nC  copper(II) ions: ✓, electrons: ✓, carbon ions: ✗\nD  copper(II) ions: ✗, electrons: ✓, carbon ions: ✓",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "8",
+      "page": 4,
+      "text": "The diagram shows the covalent bonds in an organic compound.\n\n[DIAGRAM – STRUCTURAL FORMULA AND TABLE]\nThe displayed formula of ethane (C₂H₆): H₃C–CH₃ with all bonds shown.\nH  H\n|  |\nH–C–C–H\n|  |\nH  H\n\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'X (total electrons in molecule)', Column 3: 'Y (electrons in bonds)'\nRow A: 18 | 14\nRow B: 18 | 12\nRow C: 14 | 14\nRow D: 14 | 12\nRecommended rendering tool: SVG.\n\nThe total number of electrons in one molecule of this compound is X. The total number of electrons in the bonds in one molecule of this compound is Y.\n\nWhich numbers correctly complete gaps X and Y?\n\nA  X = 18, Y = 14\nB  X = 18, Y = 12\nC  X = 14, Y = 14\nD  X = 14, Y = 12",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Kemiska_bindningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "9",
+      "page": 5,
+      "text": "Two samples of a colourless solution are tested separately with aqueous sodium hydroxide, NaOH(aq), and aqueous ammonia, NH₃(aq), and the results are recorded.\n\n• A white precipitate is formed with two drops of NaOH(aq). This precipitate dissolves in an excess of NaOH(aq).\n• A white precipitate is formed with two drops of NH₃(aq). This precipitate dissolves in an excess of NH₃(aq).\n\nWhat can be deduced from these results?\n\nA  The anion present is Cl⁻.\nB  The anion present is not Cl⁻.\nC  The cation ion present is Al³⁺.\nD  The cation ion present is Zn²⁺.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "10",
+      "page": 5,
+      "text": "A solution of potassium chloride is added to a contaminated sample of water. A white precipitate forms.\n\nWhich ion present in the water causes the precipitate to form?\n\nA  carbonate\nB  magnesium\nC  silver\nD  sulfate",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "11",
+      "page": 5,
+      "text": "Compound R has a percentage composition by mass of 63.6 % nitrogen and 36.4 % oxygen.\n\nWhat is the empirical formula of R?\n\nA  N₂O\nB  NO\nC  NO₂\nD  N₂O₄",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "12",
+      "page": 5,
+      "text": "A chemist makes calcium nitrate by reacting 7.00 g of impure calcium oxide and an excess of dilute nitric acid according to the equation below.\n\nCaO + 2HNO₃ → Ca(NO₃)₂ + H₂O\n\nIt was found that 13.3 g of pure, anhydrous calcium nitrate crystals was produced. What is the percentage purity of calcium oxide used?\n[relative atomic masses, A_r: Ca, 40; N, 14; H, 1; O, 16]\n\nA  50.0\nB  65.0\nC  75.0\nD  80.0",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "13",
+      "page": 6,
+      "text": "60 cm³ of propane, C₃H₈, was reacted with 100 cm³ of oxygen. The resulting mixture was allowed to cool to 25.0 °C.\n\nWhat is the volume of gases in the resulting mixture?\n\nA  0 cm³\nB  60 cm³\nC  100 cm³\nD  140 cm³",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "14",
+      "page": 6,
+      "text": "Lead(II) bromide is electrolysed using inert electrodes.\n\n[DIAGRAM – ELECTROLYSIS CELL]\nAn electrolysis cell with a positive (+) and negative (−) terminal connected to two inert electrodes dipping into molten lead(II) bromide. Label: 'molten lead(II) bromide'.\nRecommended rendering tool: SVG.\n\nWhich statement is correct?\n\nA  A reddish-brown gas is seen.\nB  Electrons pass through the electrolyte from one electrode to the other.\nC  Ions pass through the circuit from one electrode to the other.\nD  The lead(II) ions are oxidised.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "15",
+      "page": 6,
+      "text": "Which pair of metals, P and R, will produce the highest voltage when used as electrodes in a simple cell?\n\n[DIAGRAM – GALVANIC CELL AND TABLE]\nA simple cell with two half-cells separated by a porous wall, connected by a voltmeter (V). Left half-cell: metal P in solution of salt of P. Right half-cell: metal R in solution of salt of R.\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'metal P', Column 3: 'metal R'\nRow A: copper | silver\nRow B: magnesium | silver\nRow C: magnesium | zinc\nRow D: zinc | copper\nRecommended rendering tool: SVG for cell, SVG table for data.\n\nA  copper — silver\nB  magnesium — silver\nC  magnesium — zinc\nD  zinc — copper",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "16",
+      "page": 7,
+      "text": "Concentrated aqueous potassium chloride is electrolysed using inert electrodes.\n\nWhich row shows what happens in this electrolysis and why it happens?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'change occurring', Column 3: 'explanation'\nRow A: oxygen gas is produced at the anode | OH⁻(aq) ions lose electrons more easily than Cl⁻(aq) ions\nRow B: during electrolysis, the pH of the electrolyte increases | H⁺(aq) ions are discharged in the aqueous solution\nRow C: solid potassium is produced at the cathode | K⁺(aq) ions are discharged in the aqueous solution\nRow D: the products stay the same if the aqueous potassium chloride is replaced by dilute aqueous potassium chloride | K⁺ and Cl⁻ are present in both concentrated and dilute aqueous potassium chloride\nRecommended rendering tool: SVG table.\n\nA  Row A\nB  Row B\nC  Row C\nD  Row D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "17",
+      "page": 7,
+      "text": "An aqueous mixture of copper(II) nitrate and silver nitrate is electrolysed with pure copper electrodes.\n\nWhich half-equation correctly describes the change occurring at the anode?\n\nA  Cu(s) → Cu²⁺(aq) + 2e⁻\nB  Cu²⁺(aq) + 2e⁻ → Cu(s)\nC  Ag(s) → Ag⁺(aq) + e⁻\nD  Ag⁺(aq) + e⁻ → Ag(s)",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrolys",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "18",
+      "page": 8,
+      "text": "The energy profile diagram for a reaction is shown below.\n\n[DIAGRAM – ENERGY PROFILE]\nAn energy profile graph. Y-axis: 'energy' with three horizontal dashed lines labelled P (highest), Q (middle), and R (lowest). X-axis: 'progress of reaction'. The curve starts at the R level (reactants), rises to a peak at the P level (transition state), then falls to the Q level (products). 'reactants' label at R level, 'products' label at Q level.\nRecommended rendering tool: image generator.\n\nWhich statement about this reaction is correct?\n\nA  It is endothermic and the activation energy is P to Q.\nB  It is endothermic and the activation energy is P to R.\nC  It is exothermic and the activation energy is P to Q.\nD  It is exothermic and the activation energy is P to R.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "19",
+      "page": 8,
+      "text": "Which statements about the energy changes during a chemical reaction are correct?\n\n1  The activation energy, E_a, is the maximum energy the colliding particles must have in order to react.\n2  During an endothermic reaction, thermal energy is taken in from the surroundings leading to a decrease in temperature of the surroundings.\n3  The making of chemical bonds is an exothermic process.\n\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "20",
+      "page": 8,
+      "text": "Two gases react inside a sealed vessel.\n\nWhich change in conditions would increase the rate of reaction?\n\n1  increasing the pressure inside the vessel\n2  increasing the temperature inside the vessel\n3  increasing the volume of the vessel\n\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "21",
+      "page": 9,
+      "text": "The diagram shows a titration experiment.\n\n[DIAGRAM – TITRATION SETUP AND TABLE]\nA burette containing dilute acid above a conical flask containing aqueous alkali. Labels: 'dilute acid' and 'aqueous alkali'.\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'reaction', Column 3: 'value of ΔH'\nRow A: endothermic | positive\nRow B: endothermic | negative\nRow C: exothermic | positive\nRow D: exothermic | negative\nRecommended rendering tool: SVG for apparatus, SVG table for data.\n\nWhich row about the reaction in the conical flask is correct?\n\nA  endothermic — positive ΔH\nB  endothermic — negative ΔH\nC  exothermic — positive ΔH\nD  exothermic — negative ΔH",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "22",
+      "page": 10,
+      "text": "A student plans to investigate how the rate of reaction changes when dilute hydrochloric acid and marble chips, CaCO₃, react.\n\nCaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g) + H₂O(l)\n\nThree methods are described below.\n\n[DIAGRAM – THREE APPARATUS]\nMethod 1: A conical flask containing marble chips and hydrochloric acid connected by a delivery tube to an inverted measuring cylinder in water (gas collection by water displacement).\nMethod 2: A conical flask with marble chips and HCl, sealed with a loose cotton wool plug, placed on an electronic balance.\nMethod 3: A conical flask with marble chips, and HCl added via a burette above.\nRecommended rendering tool: SVG.\n\nWith the use of a stopwatch, which methods could be used to measure how the rate of reaction changes?\n\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.1_Undersokningar_och_laborativt_arbete",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "23",
+      "page": 10,
+      "text": "The following statements about dilute sulfuric acid are all correct.\n\n1  A white precipitate is formed when aqueous barium chloride is added.\n2  The solution turns anhydrous copper(II) sulfate from white to blue.\n3  Addition of Universal Indicator shows that the solution has a pH value of less than 7.0.\n4  The solution reacts with copper(II) oxide, forming a blue solution.\n\nWhich two statements confirm the acidic nature of the solution?\n\nA  1 and 2\nB  1 and 3\nC  2 and 4\nD  3 and 4",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "24",
+      "page": 11,
+      "text": "Which element will burn in oxygen to form an acidic oxide?\n\nA  aluminium\nB  barium\nC  carbon\nD  magnesium",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "25",
+      "page": 11,
+      "text": "The diagram shows colours of indicators, methyl orange and methyl red, at different pH values.\n\n[DIAGRAM – TWO TABLES]\nFirst table showing indicator colours:\nRow 1 (header): pH | 2 | 3 | 4 | 5 | 6\nRow 2: colour of methyl orange | red (at pH 2–3) | yellow (at pH 4–6)\nRow 3: colour of methyl red | red (at pH 2–5) | yellow (at pH 6)\n\nSecond table showing solution pH values:\nRow 1 (header): solution | W | X | Y | Z\nRow 2: pH | 2 | 3 | 5 | 6\nRecommended rendering tool: SVG table.\n\nIn which solutions will both indicators be yellow?\n\nA  W and X\nB  X and Y\nC  Y and Z\nD  Z only",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "26",
+      "page": 11,
+      "text": "Which method is not suitable to prepare copper(II) nitrate?\n\nA  React copper with nitric acid.\nB  React copper(II) carbonate with nitric acid.\nC  React copper(II) hydroxide with nitric acid.\nD  React copper(II) oxide with nitric acid.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "27",
+      "page": 12,
+      "text": "Which method of preparation of iron(II) sulfate is an example of a redox reaction?\n\nA  Fe + H₂SO₄ → FeSO₄ + H₂\nB  FeO + H₂SO₄ → FeSO₄ + H₂O\nC  Fe(OH)₂ + H₂SO₄ → FeSO₄ + 2H₂O\nD  FeCO₃ + H₂SO₄ → FeSO₄ + CO₂ + H₂O",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "28",
+      "page": 12,
+      "text": "Which change in the properties of the halogens is not correct?\n\n[DIAGRAM – TABLE]\nA table with 2 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'chlorine → bromine → iodine'\nRow A: darker in colour\nRow B: decrease in melting point\nRow C: decrease in oxidising power\nRow D: increase in density\nRecommended rendering tool: SVG table.\n\nA  darker in colour\nB  decrease in melting point\nC  decrease in oxidising power\nD  increase in density",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "29",
+      "page": 12,
+      "text": "The elements are arranged in groups and periods in the Periodic Table.\n\nWhich row is correct?\n\n[DIAGRAM – TABLE]\nA table with 4 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'group determined by', Column 3: 'period determined by', Column 4: 'elements in the Periodic Table are arranged by'\nRow A: the number of valence electrons | the number of occupied shells | increasing mass number\nRow B: the number of occupied shells | the number of valence electrons | increasing proton number\nRow C: the number of valence electrons | the number of occupied shells | increasing proton number\nRow D: the number of occupied shells | the number of valence electrons | increasing mass number\nRecommended rendering tool: SVG table.\n\nA  valence electrons — occupied shells — mass number\nB  occupied shells — valence electrons — proton number\nC  valence electrons — occupied shells — proton number\nD  occupied shells — valence electrons — mass number",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "30",
+      "page": 13,
+      "text": "When a strip of magnesium is placed in aqueous silver nitrate, a displacement reaction takes place.\n\nWhat is the ionic equation for this reaction?\n\nA  Ag²⁺(aq) + Mg(s) → Ag(s) + Mg²⁺(aq)\nB  2Ag⁺(aq) + Mg(s) → 2Ag(s) + Mg²⁺(aq)\nC  2Ag⁺(aq) + Mg(s) → 2Ag(s) + Mg²⁺(aq) + e⁻\nD  2AgNO₃(aq) + Mg(s) → 2Ag(s) + Mg(NO₃)₂(aq)",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "31",
+      "page": 13,
+      "text": "Zinc is used to galvanise iron, which prevents the iron from rusting.\n\nWhich statements are correct?\n\n1  When iron rusts, atoms of iron lose electrons to form ions.\n2  Zinc will oxidise before the iron does, even if the layer of zinc is scratched.\n3  The layer of zinc forms a barrier between the iron and the oxygen and water in the atmosphere.\n\nA  1 and 2\nB  1 and 3\nC  2 and 3\nD  1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "32",
+      "page": 13,
+      "text": "Which statement about global warming is correct?\n\nA  Methane produced by decomposition of animals has no effect on the rate of global warming.\nB  The products of burning of fossil fuels have no effect on the rate of global warming.\nC  The products of decomposition of vegetative matter have no effect on the rate of global warming.\nD  The products of photosynthesis have no effect on the rate of global warming.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "33",
+      "page": 14,
+      "text": "Different strategies to reduce the effects of environmental issues have been suggested.\n\nWhich row is correct?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'strategy to reduce the effects of climate change', Column 3: 'strategy to reduce the effects of acid rain'\nRow A: reduction in livestock farming | planting trees\nRow B: reduction in livestock farming | using low-sulfur fuel\nRow C: reduction in the use of renewable energy | planting trees\nRow D: reduction in the use of renewable energy | using low-sulfur fuel\nRecommended rendering tool: SVG table.\n\nA  livestock farming — planting trees\nB  livestock farming — low-sulfur fuel\nC  renewable energy reduction — planting trees\nD  renewable energy reduction — low-sulfur fuel",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "34",
+      "page": 14,
+      "text": "Hydrogen is used as a reactant both in the Haber process and in its addition to alkenes.\n\nWhich row is correct?\n\n[DIAGRAM – TABLE]\nA table with 3 columns and 4 rows (excluding header).\nColumn 1: row label, Column 2: 'catalyst in Haber process', Column 3: 'product of addition of hydrogen to an alkene'\nRow A: iron | alkane\nRow B: iron | alcohol\nRow C: nickel | alkane\nRow D: nickel | alcohol\nRecommended rendering tool: SVG table.\n\nA  iron — alkane\nB  iron — alcohol\nC  nickel — alkane\nD  nickel — alcohol",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "35",
+      "page": 14,
+      "text": "Ethanol is produced by the fermentation of glucose from sugar cane. In some countries, ethanol is used as a fuel.\n\nWhich statements are correct?\n\n1  Sugar cane is a non-renewable (finite) resource.\n2  When sugar cane is growing, it removes carbon dioxide from the atmosphere.\n\nA  1 only\nB  2 only\nC  both 1 and 2\nD  neither 1 nor 2",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "36",
+      "page": 15,
+      "text": "The diagram shows the structures of ethene and propene.\n\n[DIAGRAM – TWO STRUCTURAL FORMULAS]\nEthene: H₂C=CH₂ displayed formula with all bonds shown.\nPropene: CH₃-CH=CH₂ displayed formula with all bonds shown.\nRecommended rendering tool: SVG.\n\nWhich statement is true about both 1 mole of ethene and 1 mole of propene?\n\nA  They contain equal numbers of atoms.\nB  They give equal volumes of carbon dioxide when burnt completely in oxygen.\nC  They give equal masses of ethane and propane when reacted with hydrogen.\nD  They react with equal masses of bromine.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "37",
+      "page": 15,
+      "text": "Which equation shows the reaction of ethane with chlorine in the presence of ultraviolet light?\n\nA  C₂H₆ + Cl₂ → C₂H₄Cl₂\nB  C₂H₆ + Cl₂ → C₂H₄Cl₂ + H₂\nC  C₂H₆ + Cl₂ → C₂H₅Cl + HCl\nD  C₂H₆ + Cl₂ → 2CH₃Cl",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "38",
+      "page": 15,
+      "text": "Hexan-3-ol is an alcohol.\n\n[DIAGRAM – STRUCTURAL FORMULA]\nThe structural formula of hexan-3-ol:\nCH₃–CH₂–CH(OH)–CH₂–CH₂–CH₃\nRecommended rendering tool: SVG.\n\nHow many molecules of oxygen are needed for the complete combustion of one molecule of hexan-3-ol?\n\nA  9\nB  10\nC  18\nD  19",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "39",
+      "page": 16,
+      "text": "What is the displayed formula of methyl propanoate?\n\n[DIAGRAM – FOUR STRUCTURAL FORMULAS]\nFour displayed formulas labelled A, B, C, D showing different ester structures:\nA: H–O–C(=O)–CH₂–CH₂–CH₃ (butanoic acid, not an ester)\nB: H–C–C–O–C(=O)–CH₃ (ethyl acetate variant)\nC: H–C–O–C(=O)–CH₂–CH₃ (methyl propanoate — CH₃-O-CO-CH₂CH₃)\nD: H–C–C–C–O–C(=O)–H (propyl formate variant)\nRecommended rendering tool: SVG.\n\nA  Structure A\nB  Structure B\nC  Structure C\nD  Structure D",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "40",
+      "page": 16,
+      "text": "Polymer X is an addition polymer. The monomer used to make X is but-2-ene.\nPolymer Y is a condensation polymer. The monomers used to make Y are HOCH₂CH₂OH and HOOCCH₂COOH.\n\nWhich statement about X and Y is correct?\n\nA  The repeat unit of X is –[CH(CH₃)CH(CH₃)]– and Y is a polyamide.\nB  The repeat unit of X is –[CH(CH₃)CH(CH₃)]– and Y is a polyester.\nC  The repeat unit of X is –[CH₂CH(C₂H₅)]– and Y is a polyamide.\nD  The repeat unit of X is –[CH₂CH(C₂H₅)]– and Y is a polyester.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.2_Kolvaten",
+      "stella_solvable": true,
+      "modification": "none"
+    }
+  ]
+}
