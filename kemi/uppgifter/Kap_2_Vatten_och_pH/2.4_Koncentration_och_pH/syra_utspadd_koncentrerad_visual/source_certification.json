@@ -1,0 +1,38 @@
+{
+  "id": "k2-gold-single-visual-001",
+  "format": "singapore-single-visual",
+  "source_key": "stella_kemi_OCR.txt::Kap_2_Vatten_och_pH::2.4_Koncentration_och_pH::s84::k2-gold-single-visual-001",
+  "stella_chapter": "Kap_2_Vatten_och_pH",
+  "stella_subchapter": "2.4_Koncentration_och_pH",
+  "claimed_stella_pages": "s. 84",
+  "ocr_verification": {
+    "verified_pages": [84],
+    "topic_mentions": [
+      {"concept_id": "acid_can_be_dilute_or_concentrated", "pages_found": [84], "locator": "lines 4053-4060", "sufficient_for_question": true},
+      {"concept_id": "more_water_means_dilute", "pages_found": [84], "locator": "lines 4061-4063", "sufficient_for_question": true},
+      {"concept_id": "right_flask_more_concentrated", "pages_found": [84], "locator": "lines 4062-4064", "sufficient_for_question": true},
+      {"concept_id": "dilute_acid_ph_closer_to_7", "pages_found": [84], "locator": "line 4066", "sufficient_for_question": true},
+      {"concept_id": "concentrated_acid_low_ph", "pages_found": [84], "locator": "line 4066", "sufficient_for_question": true}
+    ],
+    "missing_terms": [],
+    "verification_result": "pass"
+  },
+  "knowledge_link_map": [
+    {"link_id": "kl1", "hidden_reasoning_step": "Read the visual density of ions.", "stella_pages": [84]},
+    {"link_id": "kl2", "hidden_reasoning_step": "Connect more water to dilution.", "stella_pages": [84]},
+    {"link_id": "kl3", "hidden_reasoning_step": "Connect less water and denser ions to concentration.", "stella_pages": [84]},
+    {"link_id": "kl4", "hidden_reasoning_step": "Reject color brightness as the deciding evidence.", "stella_pages": [84]},
+    {"link_id": "kl5", "hidden_reasoning_step": "Keep concentration distinct from acid identity.", "stella_pages": [84]}
+  ],
+  "claim_table": [
+    {"claim_id": "visual_B_more_concentrated", "target_path": "assets/syra_utspadd_koncentrerad_visual.png::right_flask", "assessable": true, "evidence_refs": [{"page_key": "stella_kemi_OCR.txt::s.84", "locator": "lines 4061-4066"}], "gate_status": "pass"}
+  ],
+  "distractor_rationales": [
+    {"option_key": "A", "misconception": "Confuses more water with higher concentration.", "remediation_target": {"pages": [84], "concept": "utspädd syra"}},
+    {"option_key": "C", "misconception": "Uses visual color lightness instead of particle density.", "remediation_target": {"pages": [84], "concept": "concentration evidence"}},
+    {"option_key": "D", "misconception": "Assumes same acid always has same concentration.", "remediation_target": {"pages": [84], "concept": "same acid, different concentration"}}
+  ],
+  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false},
+  "render_qa": {"required": true, "asset": "assets/syra_utspadd_koncentrerad_visual.png", "status": "pass"},
+  "gold_audit": {"knowledge_links_minimum_5": "pass", "source_qa": "pass", "inference_qa": "pass"}
+}

@@ -1,0 +1,38 @@
+{
+  "id": "k2-gold-puretext-001",
+  "format": "singapore-pure-text",
+  "source_key": "stella_kemi_OCR.txt::Kap_2_Vatten_och_pH::2.3_Syror_och_baser::s83::k2-gold-puretext-001",
+  "stella_chapter": "Kap_2_Vatten_och_pH",
+  "stella_subchapter": "2.3_Syror_och_baser",
+  "claimed_stella_pages": "s. 83",
+  "ocr_verification": {
+    "verified_pages": [83],
+    "topic_mentions": [
+      {"concept_id": "acids_release_hydrogen_ions", "pages_found": [83], "locator": "lines 3988-3990", "sufficient_for_question": true},
+      {"concept_id": "bases_form_hydroxide_ions", "pages_found": [83], "locator": "lines 3988-3990", "sufficient_for_question": true},
+      {"concept_id": "hydrogen_and_hydroxide_form_water", "pages_found": [83], "locator": "lines 3996-3998", "sufficient_for_question": true},
+      {"concept_id": "sodium_and_chloride_remain_in_solution", "pages_found": [83], "locator": "lines 4008-4012", "sufficient_for_question": true},
+      {"concept_id": "right_amount_becomes_neutral_saltwater", "pages_found": [83], "locator": "lines 4014-4017", "sufficient_for_question": true}
+    ],
+    "missing_terms": [],
+    "verification_result": "pass"
+  },
+  "knowledge_link_map": [
+    {"link_id": "kl1", "hidden_reasoning_step": "Identify saltsyra as the acid source of hydrogen ions.", "stella_pages": [83]},
+    {"link_id": "kl2", "hidden_reasoning_step": "Identify natriumhydroxid as the base source of hydroxide ions.", "stella_pages": [83]},
+    {"link_id": "kl3", "hidden_reasoning_step": "Select the ions that react directly.", "stella_pages": [83]},
+    {"link_id": "kl4", "hidden_reasoning_step": "Reject spectator ions sodium and chloride.", "stella_pages": [83]},
+    {"link_id": "kl5", "hidden_reasoning_step": "Keep neutralisation distinct from simply mixing salts.", "stella_pages": [83]}
+  ],
+  "claim_table": [
+    {"claim_id": "correct_answer", "target_path": "options.A", "assessable": true, "evidence_refs": [{"page_key": "stella_kemi_OCR.txt::s.83", "locator": "lines 3996-3998"}], "gate_status": "pass"}
+  ],
+  "distractor_rationales": [
+    {"option_key": "B", "misconception": "Treats sodium and chloride as the reacting pair instead of spectator ions.", "remediation_target": {"pages": [83], "concept": "spectator ions in neutralisation"}},
+    {"option_key": "C", "misconception": "Pairs the two ions from hydrochloric acid instead of acid plus base ions.", "remediation_target": {"pages": [83], "concept": "acid ions vs base ions"}},
+    {"option_key": "D", "misconception": "Pairs the two ions from sodium hydroxide instead of acid plus base ions.", "remediation_target": {"pages": [83], "concept": "base ions vs acid ions"}}
+  ],
+  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false},
+  "gold_audit": {"knowledge_links_minimum_5": "pass", "source_qa": "pass", "inference_qa": "pass", "render_qa": "not_applicable"}
+}
+

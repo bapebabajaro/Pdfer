@@ -1,0 +1,39 @@
+{
+  "id": "k2-gold-combination-001",
+  "format": "singapore-combination",
+  "source_key": "stella_kemi_OCR.txt::Kap_2_Vatten_och_pH::2.3_Syror_och_baser::s76::k2-gold-combination-001",
+  "stella_chapter": "Kap_2_Vatten_och_pH",
+  "stella_subchapter": "2.3_Syror_och_baser",
+  "claimed_stella_pages": "s. 76",
+  "ocr_verification": {
+    "verified_pages": [76],
+    "topic_mentions": [
+      {"concept_id": "btb_is_ph_indicator", "pages_found": [76], "locator": "lines 3575-3582", "sufficient_for_question": true},
+      {"concept_id": "btb_acid_yellow", "pages_found": [76], "locator": "lines 3582-3584", "sufficient_for_question": true},
+      {"concept_id": "btb_neutral_green", "pages_found": [76], "locator": "lines 3583-3585", "sufficient_for_question": true},
+      {"concept_id": "btb_base_blue", "pages_found": [76], "locator": "lines 3584-3585", "sufficient_for_question": true},
+      {"concept_id": "btb_shows_category_not_strength", "pages_found": [76], "locator": "lines 3585-3586", "sufficient_for_question": true}
+    ],
+    "missing_terms": [],
+    "verification_result": "pass"
+  },
+  "knowledge_link_map": [
+    {"link_id": "kl1", "hidden_reasoning_step": "Evaluate item A as acid plus yellow.", "stella_pages": [76]},
+    {"link_id": "kl2", "hidden_reasoning_step": "Evaluate item B as neutral plus blue.", "stella_pages": [76]},
+    {"link_id": "kl3", "hidden_reasoning_step": "Evaluate item C as base plus green.", "stella_pages": [76]},
+    {"link_id": "kl4", "hidden_reasoning_step": "Evaluate item D as base plus blue.", "stella_pages": [76]},
+    {"link_id": "kl5", "hidden_reasoning_step": "Choose the option containing all and only correct items.", "stella_pages": [76]}
+  ],
+  "claim_table": [
+    {"claim_id": "item_A_correct", "target_path": "visual.A", "assessable": true, "evidence_refs": [{"page_key": "stella_kemi_OCR.txt::s.76", "locator": "lines 3582-3584"}], "gate_status": "pass"},
+    {"claim_id": "item_D_correct", "target_path": "visual.D", "assessable": true, "evidence_refs": [{"page_key": "stella_kemi_OCR.txt::s.76", "locator": "lines 3584-3585"}], "gate_status": "pass"}
+  ],
+  "distractor_rationales": [
+    {"option_key": "A", "misconception": "Finds the acid/yellow item but misses base/blue.", "remediation_target": {"pages": [76], "concept": "BTB in basic solution"}},
+    {"option_key": "C", "misconception": "Reverses neutral and basic BTB colours.", "remediation_target": {"pages": [76], "concept": "BTB colour categories"}},
+    {"option_key": "D", "misconception": "Accepts the basic/green false item.", "remediation_target": {"pages": [76], "concept": "BTB green means neutral"}}
+  ],
+  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false},
+  "render_qa": {"required": true, "asset": "assets/btb_indikator_kombination.png", "status": "pass"},
+  "gold_audit": {"knowledge_links_minimum_5": "pass", "source_qa": "pass", "inference_qa": "pass"}
+}

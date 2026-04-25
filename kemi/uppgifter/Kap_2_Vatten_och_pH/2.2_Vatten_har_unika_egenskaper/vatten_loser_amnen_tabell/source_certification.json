@@ -1,0 +1,38 @@
+{
+  "id": "k2-gold-table-001",
+  "format": "singapore-table",
+  "source_key": "stella_kemi_OCR.txt::Kap_2_Vatten_och_pH::2.2_Vatten_har_unika_egenskaper::s68-s70::k2-gold-table-001",
+  "stella_chapter": "Kap_2_Vatten_och_pH",
+  "stella_subchapter": "2.2_Vatten_har_unika_egenskaper",
+  "claimed_stella_pages": "s. 68-70",
+  "ocr_verification": {
+    "verified_pages": [68, 70],
+    "topic_mentions": [
+      {"concept_id": "water_can_dissolve_substances", "pages_found": [68], "locator": "lines 3147-3148", "sufficient_for_question": true},
+      {"concept_id": "water_dissolves_salt", "pages_found": [68, 70], "locator": "lines 3147-3148 and 3220-3222", "sufficient_for_question": true},
+      {"concept_id": "water_dissolves_sugar", "pages_found": [68, 70], "locator": "lines 3147-3148 and 3220-3222", "sufficient_for_question": true},
+      {"concept_id": "water_does_not_dissolve_oil", "pages_found": [68, 70], "locator": "lines 3147-3148 and 3220-3222", "sufficient_for_question": true},
+      {"concept_id": "water_is_solvent_for_salt_and_sugar", "pages_found": [70], "locator": "lines 3220-3222", "sufficient_for_question": true}
+    ],
+    "missing_terms": [],
+    "verification_result": "pass"
+  },
+  "knowledge_link_map": [
+    {"link_id": "kl1", "hidden_reasoning_step": "Map salt to dissolves in water.", "stella_pages": [68, 70]},
+    {"link_id": "kl2", "hidden_reasoning_step": "Map sugar to dissolves in water.", "stella_pages": [68, 70]},
+    {"link_id": "kl3", "hidden_reasoning_step": "Map oil to does not dissolve in water.", "stella_pages": [68, 70]},
+    {"link_id": "kl4", "hidden_reasoning_step": "Compare all three cells in a row before choosing.", "stella_pages": [68, 70]},
+    {"link_id": "kl5", "hidden_reasoning_step": "Reject rows that get only one substance wrong.", "stella_pages": [68, 70]}
+  ],
+  "claim_table": [
+    {"claim_id": "row_B_all_cells", "target_path": "table.row.B", "assessable": true, "evidence_refs": [{"page_key": "stella_kemi_OCR.txt::s.68", "locator": "lines 3147-3148"}, {"page_key": "stella_kemi_OCR.txt::s.70", "locator": "lines 3220-3222"}], "gate_status": "pass"}
+  ],
+  "distractor_rationales": [
+    {"option_key": "A", "misconception": "Assumes water dissolves every everyday liquid or substance.", "remediation_target": {"pages": [68, 70], "concept": "water does not dissolve oil"}},
+    {"option_key": "C", "misconception": "Misses that salt dissolves in water.", "remediation_target": {"pages": [68, 70], "concept": "salt dissolves in water"}},
+    {"option_key": "D", "misconception": "Misses that sugar dissolves in water.", "remediation_target": {"pages": [68, 70], "concept": "sugar dissolves in water"}}
+  ],
+  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false},
+  "gold_audit": {"knowledge_links_minimum_5": "pass", "source_qa": "pass", "inference_qa": "pass", "render_qa": "not_applicable"}
+}
+

@@ -1,0 +1,53 @@
+{
+  "run_id": "golden-kap2-four-types-2026-04-25",
+  "scope": "Stella Kemi Kap 2",
+  "source_canon": "kemi/stella_kemi_OCR.txt",
+  "items": [
+    {
+      "id": "k2-gold-puretext-001",
+      "format": "singapore-pure-text",
+      "path": "../2.3_Syror_och_baser/neutralisation_vatejon_hydroxidjon_text/",
+      "claimed_pages": [83],
+      "ocr_terms_verified": ["vätejoner", "hydroxidjoner", "bilda vatten", "salt"],
+      "status": "pass"
+    },
+    {
+      "id": "k2-gold-table-001",
+      "format": "singapore-table",
+      "path": "../2.2_Vatten_har_unika_egenskaper/vatten_loser_amnen_tabell/",
+      "claimed_pages": [68, 69, 70],
+      "ocr_terms_verified": ["salt och socker men inte olja"],
+      "status": "pass"
+    },
+    {
+      "id": "k2-gold-single-visual-001",
+      "format": "singapore-single-visual",
+      "path": "../2.4_Koncentration_och_pH/syra_utspadd_koncentrerad_visual/",
+      "claimed_pages": [84],
+      "ocr_terms_verified": ["utspädd", "koncentrerad", "saltsyra"],
+      "render_asset": "assets/syra_utspadd_koncentrerad_visual.png",
+      "render_dimensions_px": {"width": 1400, "height": 820},
+      "status": "pass"
+    },
+    {
+      "id": "k2-gold-combination-001",
+      "format": "singapore-combination",
+      "path": "../2.3_Syror_och_baser/btb_indikator_kombination/",
+      "claimed_pages": [76],
+      "ocr_terms_verified": ["BTB", "gult", "grönt", "blått"],
+      "render_asset": "assets/btb_indikator_kombination.png",
+      "render_dimensions_px": {"width": 1400, "height": 760},
+      "status": "pass"
+    }
+  ],
+  "gates": [
+    {"gate": "OCR_PAGE_VERIFICATION", "status": "pass"},
+    {"gate": "JSON_PARSE_SOURCE_CERTIFICATION", "status": "pass"},
+    {"gate": "KNOWLEDGE_LINK_MINIMUM_5_PER_ITEM", "status": "pass"},
+    {"gate": "CLAIM_TABLE_PRESENT", "status": "pass"},
+    {"gate": "DISTRACTOR_RATIONALES_PRESENT", "status": "pass"},
+    {"gate": "SHORTCUT_CHECK_PRESENT", "status": "pass"},
+    {"gate": "RENDER_ASSET_DIMENSIONS", "status": "pass"}
+  ],
+  "notes": "Source QA and render QA are separated. Render QA never changes source claims or answer keys."
+}
