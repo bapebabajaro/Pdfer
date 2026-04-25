@@ -1,0 +1,28 @@
+{
+  "question_id": "sg-6.2-rate-zinc-format3",
+  "viewbox": "0 0 225 175",
+  "items": [
+    {
+      "label": "main",
+      "x_label": "t / s",
+      "y_label": "V(H2) / cm3",
+      "x_range": [0, 80],
+      "y_range": [0, 30],
+      "x_ticks": [0, 20, 40, 60, 80],
+      "y_ticks": [0, 10, 20, 30],
+      "curves": [
+        {
+          "points": [[0, 0], [10, 12], [20, 20], [30, 24], [45, 25], [60, 25], [80, 25]],
+          "style": "solid",
+          "label": "X"
+        },
+        {
+          "points": [[0, 0], [20, 4], [40, 8], [60, 11], [80, 12.5]],
+          "style": "dashed",
+          "label": "Y"
+        }
+      ]
+    }
+  ]
+}
+

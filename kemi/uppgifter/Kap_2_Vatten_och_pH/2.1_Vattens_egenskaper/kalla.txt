@@ -1,0 +1,5 @@
+stella_kemi_OCR.txt::kap2_delkapitel_2.1
+Stella Kemi s. 60–66 — "Vattens egenskaper".
+REVISION 2026-04-24: omskriven på Singapore-nivå med konkreta scenarion + kemiska formler. Gamla versionen var för abstrakt.
+ABCD: A=13, B=13, C=12, D=12 (F24 combo "4" mappas som D).
+50 frågor.

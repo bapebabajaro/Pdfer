@@ -26,6 +26,9 @@ Det är provet du ska analysera. Notera mappnamnet.
 STEG 4 — Hämta och läs referensboken (Stella Kemi OCR, 414 KB):
 https://raw.githubusercontent.com/bapebabajaro/Pdfer/main/kemi/stella_kemi_OCR.txt
 Läs igenom den så att du vet exakt vad som täcks i varje kapitel.
+Behandla OCR-filen som PRIMÄR SANNINGSKÄLLA. Kapitel- och delkapitelkoder är
+bara preliminära tills du har verifierat att den faktiska kemi som frågan testar
+verkligen stöds av OCR-texten på de sidor du senare kommer att ange.
 
 STEG 5 — Hämta lista på alla bildsidor för valt prov:
 https://api.github.com/repos/bapebabajaro/Pdfer/contents/kemi/pdfs_png/[MAPPNAMN]
@@ -51,6 +54,13 @@ URVALSREGLER (följ exakt):
 
 ─────────────────────────────────────────────────────
 BEDÖMNING AV stella_solvable — vad täcker Stella Kemi?
+
+KRITISKT:
+- `stella_solvable = true` får endast sättas efter OCR-kontroll.
+- En fråga får aldrig få en Stella-sidhänvisning om det testade innehållet inte
+  faktiskt nämns på de angivna sidorna i `stella_kemi_OCR.txt`.
+- Om kemiinnehållet bara stöds av tidigare sidor ska det behandlas som prerequisite,
+  inte som bevis för den påstådda sidreferensen.
 
 Stella Kemi (s. 6–309) täcker följande. Sätt stella_solvable = true om frågan
 primärt handlar om något av detta:

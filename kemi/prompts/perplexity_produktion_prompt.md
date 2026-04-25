@@ -54,6 +54,16 @@ Läs hela boken med fokus på det kapitel och delkapitel som frågan tillhör.
 Notera exakt vilka termer, förklaringar, enheter och konventioner Stella Kemi
 använder för just detta ämne.
 
+OCR-KANON — BLOCKERANDE:
+• `stella_kemi_OCR.txt` är primär sanningskälla.
+• `stella_chapter` och `stella_subchapter` är preliminära routingnycklar tills
+  du själv verifierat att frågans faktiska kemi finns på de sidor som påstås.
+• Du får aldrig producera en uppgift med Stella-sidhänvisning om Rule 27 faller:
+  ämnet måste faktiskt nämnas på de angivna sidorna i OCR-filen.
+• Om frågan bygger på tidigare Stella-kunskap ska det deklareras internt som
+  prerequisite — du får inte låtsas att nuvarande delkapitelsidor ensamma bär
+  det kunskapsledet.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 STEG 5 — SKRIV OM FRÅGAN TILL PERFEKT SVENSKA
 
@@ -94,11 +104,15 @@ Granska den omskrivna frågan kritiskt. Ställ dig varje fråga nedan och
 korrigera tills svaret på ALLA är "ja":
 
   □ Är varje ämnesterm hämtad direkt från Stella Kemi?
+  □ Är frågans faktiska kemi verifierad mot exakt rätt OCR-sidor?
+  □ Om jag anger en Stella-sidhänvisning: nämns ämnet faktiskt där?
   □ Är det naturlig, idiomatisk svenska — inte maskinöversatt?
   □ Stämmer alla enheter och storheter med Stella Kemis konventioner?
   □ Är frågestrukturen logisk och pedagogiskt tydlig?
   □ Är alla svarsalternativ (A–D) inkluderade och korrekt översatta?
   □ Om modification = "minor": är kontextbytet gjort och motiverat?
+  □ Om frågan kräver tidigare kunskap: har jag separerat prerequisite-led från
+    nuvarande delkapitels OCR-bevis?
   □ Kan en åk-9-elev med Stella Kemi förstå och besvara frågan?
 
 Om något svar är "nej": skriv om och kör granskningen igen.
