@@ -18,6 +18,8 @@ Det ar ett sidnycklat kallkontrakt:
    ligger inom verifierad Stella-tackning.
 7. Elevtexten ska vara minimal. All tung kontroll ligger dolt i
    source-certifiering, knowledge-link-map och remediation-map.
+8. Kallforankring sker pa claim/option/diagram-region-niva, inte bara pa
+   frag- eller kapitel-niva.
 
 ## B. Obligatorisk kanonisk datamodell
 
@@ -38,6 +40,24 @@ ocr_source_manifest {
 Stoppa om OCR saknas, inte kan sidparsa, eller bara ersatts av en
 sammanfattning.
 
+### Page record
+
+```ts
+page_record {
+  source_file: "kemi/stella_kemi_OCR.txt";
+  printed_page: number;
+  page_key: string;
+  page_text_hash: string;
+  extraction_mode: "ocr" | "native" | "hybrid";
+  normalized_text_hash: string;
+  chemistry_sensitive_warnings: string[];
+  verification_status: "pass" | "fail";
+}
+```
+
+`page_record` ar fysisk sanning for varje Stella-sida. Alla senare evidence refs
+pekar in i en page record.
+
 ### Subchapter registry entry
 
 ```ts
@@ -55,6 +75,59 @@ stella_subchapter_registry_entry {
 Chapter-span racker inte. Systemet maste losa en exakt delkapitelnyckel och
 sidspann innan produktion.
 
+### Evidence ref
+
+```ts
+evidence_ref {
+  page_key: string;
+  printed_page: number;
+  locator_type: "text_span" | "bbox" | "table_cell" | "diagram_region";
+  locator: string;
+  excerpt_hash?: string;
+  normalized_excerpt?: string;
+  confidence: "high" | "medium" | "low";
+}
+```
+
+Alla answer keys, knowledge links, distractor rationales och remediation targets
+maste ha evidence refs. Sidnummer utan locator ar inte tillrackligt for komplexa
+fragor med tabeller, diagram eller flera pastaenden.
+
+### Source atom
+
+```ts
+source_atom {
+  atom_id: string;
+  concept_id: string;
+  stella_term_sv: string;
+  evidence_refs: evidence_ref[];
+  source_grain: "term" | "definition" | "worked_example" | "diagram" | "table";
+  allowed_question_roles: string[];
+}
+```
+
+`source_atom` ar ateranvandbart OCR-bevis. Det ska inte blandas ihop med
+student-facing text.
+
+### Claim table
+
+```ts
+claim_table_entry {
+  claim_id: string;
+  target_path: string;
+  claim_type: "stem_claim" | "correct_answer_claim" | "distractor_claim" | "diagram_semantic_claim" | "solution_claim";
+  assessable: boolean;
+  required_knowledge_links: string[];
+  evidence_refs: evidence_ref[];
+  source_status: "same_subchapter" | "earlier_subchapter" | "general_reasoning";
+  gate_status: "pass" | "fail";
+}
+```
+
+`claim_table` ar blockerande coverage-kontroll: varje assessable claim i stam,
+alternativ, diagramsemantik eller losning maste ha knowledge links och
+evidence refs.
+
 ### Question source certification
 
 ```ts
@@ -64,6 +137,8 @@ question_source_certification {
   stella_chapter: string;
   stella_subchapter: string;
   claimed_stella_pages: string;
+  page_records: page_record[];
+  claim_table: claim_table_entry[];
 
   ocr_verification: {
     ocr_file: "kemi/stella_kemi_OCR.txt";
@@ -73,6 +148,7 @@ question_source_certification {
         concept_id: string;
         stella_term_sv: string;
         pages_found: number[];
+        evidence_refs: evidence_ref[];
         evidence_type: "direct_term" | "stella_synonym" | "worked_example" | "diagram_label";
         sufficient_for_question: boolean;
       }
@@ -88,7 +164,23 @@ question_source_certification {
       required_concept: string;
       source_status: "same_subchapter" | "earlier_subchapter" | "general_reasoning";
       stella_pages: number[];
+      evidence_refs: evidence_ref[];
       must_not_be_revealed_in_text: boolean;
+    }
+  ];
+
+  distractor_rationales: [
+    {
+      option_key: "A" | "B" | "C" | "D";
+      misconception: string;
+      why_plausible: string;
+      why_wrong: string;
+      evidence_refs: evidence_ref[];
+      remediation_target: {
+        stella_subchapter: string;
+        pages: number[];
+        concept: string;
+      };
     }
   ];
 
@@ -118,6 +210,7 @@ question_source_certification {
 ### Gate 1: OCR truth load
 
 Ladda `kemi/stella_kemi_OCR.txt` och dela upp texten med sidmarkorer.
+Skapa en `page_record` per sida med page hash och normalized text hash.
 
 Fail om:
 
@@ -125,6 +218,7 @@ Fail om:
 - sidmarkorer inte kan parsas.
 - angivet sidspann inte kan extraheras.
 - systemet anvander promptens coverage-lista som ersattning for OCR.
+- native-vs-OCR reconciliation flaggar kemi-kanslig konflikt som inte ar lost.
 
 ### Gate 2: Subchapter resolution
 
@@ -141,6 +235,7 @@ Fail om:
 ### Gate 3: OCR page verification
 
 For varje testat koncept, kontrollera forst endast delkapitlets sidspann.
+Verifiering ska ske med `evidence_ref`, inte bara sidnummer.
 
 Godkand evidens:
 
@@ -149,10 +244,27 @@ Godkand evidens:
 - worked example pa sidan.
 - diagrametikett eller tabell pa sidan.
 
+Normalisera text fore matchning: NFC, whitespace, citationstecken och bindestreck.
+Fuzzy match far bara stotta, inte ensamt bevisa, kemi-kritiska tecken som
+laddningar, index, reaktionspilar, enheter och decimaltecken.
+
 Om konceptet bara finns i tidigare delkapitel far det anvandas som
 prerequisite, men maste markeras som `earlier_subchapter`.
 
 Fail om det testade amnet inte finns pa de sidor som `stella` anger.
+
+### Gate 3b: Claim coverage
+
+Bygg `claim_table` for varje assessable claim i:
+
+- stem.
+- korrekt svar.
+- varje distraktor.
+- diagramsemantik.
+- tabellceller.
+- losning.
+
+Fail om en assessable claim saknar evidence_ref eller knowledge link.
 
 ### Gate 4: Stella solvability
 
@@ -178,6 +290,8 @@ Applicera efter OCR-verifiering:
 - Gold-fragor kraver minst 5 oberoende knowledge links.
 - Varje knowledge link maste peka till OCR-sidor eller klassas som
   prerequisite/general reasoning.
+- Varje felalternativ maste ha distractor rationale. Gate:
+  `len(distractor_rationales) == len(options) - 1`.
 
 ### Gate 6: Generation
 
@@ -205,6 +319,8 @@ remediation_map
 shortcut_check
 source_key
 modification_rationale
+claim_table
+distractor_rationales
 ```
 
 ### Gate 7: Rule 27 audit
@@ -225,6 +341,8 @@ Render QA kontrollerar bara implementering:
 - visuell kanon foljs.
 
 Render QA certifierar inte Stella-validitet.
+Render QA far inte skriva tillbaka till source evidence, answer key,
+knowledge_link_map eller claim_table.
 
 ## D. Skillnad mellan canon-lagren
 

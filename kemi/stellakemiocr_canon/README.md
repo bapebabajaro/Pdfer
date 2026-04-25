@@ -15,8 +15,9 @@ skarpt, hermetiskt system for:
 Las i denna ordning:
 
 1. `operational_design_spec.md`
-2. `evidence_index.md`
-3. `model_review_prompt.md`
+2. `multi_model_synthesis.md`
+3. `evidence_index.md`
+4. `model_review_prompt.md`
 
 Primar regel: en fraga ar inte Stella-valid for att den later ratt, matchar ett
 kapitel eller renderar korrekt. Den ar Stella-valid endast nar det slutliga
