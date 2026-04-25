@@ -1,0 +1,4 @@
+stella_kemi_OCR.txt::kap6_delkapitel_6.2
+Stella Kemi s. 292–299 — "Räkna med kemi" (atommassa, isotoper, mol, molmassa, stökiometri).
+Genererad 2026-04-24 (Singapore-nivå, omstart bakifrån).
+ABCD: A=13, B=13, C=12, D=12 (F24 combo "4" mappas som D).
