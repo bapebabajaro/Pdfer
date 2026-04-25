@@ -3,6 +3,7 @@ kapitel: Kap_2
 delkapitel: 2.1_Aggregationstillstand
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::4
 datum: 2026-04-25
+stella_sidor: s. 61–67
 visuellt: tabell_svg
 ---
 
