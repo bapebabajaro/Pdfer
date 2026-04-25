@@ -1,0 +1,406 @@
+{
+  "filename": "Olevel_PureChemistry_2024_SA2_sengkang.pdf",
+  "processed_at": "2026-04-25",
+  "questions": [
+    {
+      "q_nr": "1",
+      "page": 2,
+      "text": "Which statement is correct?\n\nA  A filtrate is a substance that remains on the filter paper after filtration.\nB  A saturated solution has the maximum amount of solvent dissolved in the solute.\nC  A solution is a compound produced when a solute reacts with a solvent.\nD  A substance that remains in the heated flask after distillation is called a residue.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "2",
+      "page": 2,
+      "text": "The results of a paper chromatography experiment are shown.\n\nX is an aqueous solution of a salt of a Group 1 element.\nY is an aqueous solution of a salt of a transition element.\n\n[DIAGRAM – CHROMATOGRAM AND TABLE]\nA chromatography rectangle: a solvent front line at the top, a baseline at the bottom, and two spots labelled X (lower position) and Y (higher position, closer to solvent front). X and Y spots are marked at the baseline.\nBelow: a 3-column table with 5 rows (header + A–D).\nHeader: | | larger Rf value | requires a locating agent |\nRow A: | X | X |\nRow B: | X | Y |\nRow C: | Y | X |\nRow D: | Y | Y |\nRecommended rendering tool: SVG for chromatogram, SVG table for data.\n\nWhich row is correct?",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.8_Separationsmetoder",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "3",
+      "page": 2,
+      "text": "In which changes do the particles move further apart?\n\n1  A gas is heated from 0 °C to 25 °C.\n2  Pressure is applied to a gas at a constant temperature.\n3  Steam condenses to form water.\n4  Water evaporates at room temperature.\n\nA  1 and 2 only\nB  1 and 4 only\nC  2 and 3 only\nD  3 and 4 only",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "4",
+      "page": 3,
+      "text": "Data about two compounds is given. Both compounds have a simple molecular structure.\n\n[DIAGRAM – TABLE]\nA 3-column table with 3 rows (header + H₂S, PCl₃).\nHeader: | compound | melting point / °C | boiling point / °C |\nRow 1: | H₂S | −85 | −61 |\nRow 2: | PCl₃ | −112 | 76 |\nRecommended rendering tool: SVG table.\n\nTwo bottles are placed close together inside a large container at a temperature of 90 °C. One bottle contains 1.0 g of H₂S, the other bottle contains 1.0 g of PCl₃.\n\nA detector is placed in the container 2.0 m away from the two bottles. The two bottles are opened at the same time.\n\nWhich row is correct?\n\n[DIAGRAM – TABLE]\nA 3-column table with 5 rows (header + A–D).\nHeader: | | compound that reaches detector first | explanation |\nRow A: | H₂S | gases diffuse faster than liquids |\nRow B: | H₂S | H₂S has a lower Mr than PCl₃ |\nRow C: | PCl₃ | gases diffuse faster than liquids |\nRow D: | PCl₃ | PCl₃ has a lower Mr than H₂S |\nRecommended rendering tool: SVG table.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.1_Aggregationstillstand_och_partiklar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "5",
+      "page": 3,
+      "text": "The letters P, Q and R represent different atoms.\n\n  ⁴⁰₁₉P     ³⁹₁₉Q     ⁴⁰₂₀R\n\nWhich statement is correct?\n\nA  P and Q are the same element.\nB  P and R are the same element.\nC  P has more protons than Q.\nD  R has more neutrons than Q.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "6",
+      "page": 3,
+      "text": "Element Z, nucleon number 31, forms an ion Z³⁻.\n\nWhere is Z found in the Periodic Table?\n\nA  Group 13\nB  Group 15\nC  Period 4\nD  Period 5",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "7",
+      "page": 4,
+      "text": "The electronic configurations of elements X and Y are as shown.\n\nX: 2,8,3\nY: 2,6\n\nElement X and element Y react together to form a compound.\n\nWhich row shows the electron transfer that takes place and the type of compound formed?\n\n[DIAGRAM – TABLE]\nA 4-column table with 5 rows (header + A–D).\nHeader: | | element X | element Y | type of compound |\nRow A: | 2 atoms each loses 3 electrons | 3 atoms each receives 2 electrons | covalent |\nRow B: | 2 atoms each loses 3 electrons | 3 atoms each receives 2 electrons | ionic |\nRow C: | 2 atoms each receives 3 electrons | 3 atoms each loses 2 electrons | covalent |\nRow D: | 2 atoms each receives 3 electrons | 3 atoms each receives 2 electrons | ionic |\nRecommended rendering tool: SVG table.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Bindningar_och_struktur",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "8",
+      "page": 4,
+      "text": "Brass is an alloy of copper and zinc.\n\nWhich statement is correct?\n\nA  Brass can be represented by a chemical formula.\nB  Brass is formed by a chemical reaction between copper and zinc.\nC  Brass will react completely with dilute nitric acid.\nD  The zinc in brass will react completely with dilute nitric acid.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.2_Bindningar_och_struktur",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "9",
+      "page": 4,
+      "text": "Which statements about the relative atomic mass and relative molecular mass are correct?\n\n1  The mass of the different isotopes does not affect relative atomic masses.\n2  Only covalent compounds have a relative molecular mass.\n3  Relative atomic masses are compared to ¹∕₁₂ of the mass of one atom of ¹²C.\n\nA  1 and 2 only\nB  1 and 3 only\nC  2 and 3 only\nD  1, 2 and 3",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.1_Atommassa_och_isotoper",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "10",
+      "page": 5,
+      "text": "Hydrogen reacts with bromine to form hydrogen bromide.\n\nWhich diagram represents a reaction between hydrogen and bromine that is not yet completed?\n\n[DIAGRAM – FOUR PARTICLE MODEL DIAGRAMS]\nFour boxes labelled A, B, C and D, each showing a mixture of particles.\nDark (filled) circles represent bromine atoms; white (open) circles represent hydrogen atoms.\nA: Only dark paired circles (Br₂ molecules) and dark-light paired circles (HBr) — no H₂ remaining.\nB: Mix of white paired (H₂), dark paired (Br₂), and dark-light paired (HBr) molecules — reaction not complete.\nC: Only dark-light paired (HBr) molecules — reaction complete.\nD: Only white paired (H₂) and dark paired (Br₂) — reaction not yet started.\nRecommended rendering tool: SVG.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "11",
+      "page": 5,
+      "text": "Three compounds are listed.\n\ncopper(II) nitrate, Cu(NO₃)₂\nzinc sulfate, ZnSO₄\nsodium thiosulfate, Na₂S₂O₃\n\nWhich row shows the element that is present in the greatest percentage by mass in each compound?\n\n[relative formula masses, Mr: Cu(NO₃)₂, 188; ZnSO₄, 161; Na₂S₂O₃, 158]\n\n[DIAGRAM – TABLE]\nA 4-column table with 5 rows (header + A–D).\nHeader: | | copper(II) nitrate | zinc sulfate | sodium thiosulfate |\nRow A: | copper | oxygen | oxygen |\nRow B: | copper | oxygen | sulfur |\nRow C: | oxygen | zinc | sodium |\nRow D: | oxygen | zinc | sulfur |\nRecommended rendering tool: SVG table.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Molberakningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "12",
+      "page": 5,
+      "text": "Compound T is the only substance formed when 500 cm³ of ammonia reacts with 250 cm³ of carbon dioxide. All measurements are at room temperature and pressure.\n\nWhat is the formula of T?\n\nA  (NH₂)₂CO\nB  (NH₄)₂CO₃\nC  NH₂COONH₄\nD  NH₄COONH₄",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Molberakningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "13",
+      "page": 6,
+      "text": "The equation shows the production of iron from its ore, iron(III) oxide.\n\nFe₂O₃ + 3CO → 2Fe + 3CO₂\n\n80 tonnes of iron(III) oxide produces 50 tonnes of iron.\n\nWhat is the percentage yield?\n\nA  45%\nB  63%\nC  68%\nD  89%",
+      "has_diagram": false,
+      "stella_chapter": "Kap_6_Rakna_med_kemi",
+      "stella_subchapter": "6.2_Molberakningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "14",
+      "page": 6,
+      "text": "Which statement about hydrochloric acid is correct?\n\nA  Hydrochloric acid is formed when hydrogen chloride gas dissolves in water.\nB  Hydrochloric acid reacts with magnesium to form magnesium chloride and water.\nC  When hydrochloric acid is added to acidified silver nitrate, yellow precipitate is observed.\nD  When hydrochloric acid is warmed with aqueous ammonium chloride, ammonia gas is evolved.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "15",
+      "page": 6,
+      "text": "An excess of substance E is added to the acid that is spilled onto the laboratory bench. The solution produced as a result is neutral.\n\nWhat is substance E?\n\nA  aqueous ammonia\nB  aqueous sodium hydroxide\nC  calcium carbonate powder\nD  water",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "16",
+      "page": 6,
+      "text": "Compound G is a gas at room temperature. G dissolves in water to give a solution with a pH of 4.\n\nWhich statement about compound G is correct?\n\nA  An aqueous solution of G will not conduct electricity.\nB  Atoms of a metallic element are present in G.\nC  Atoms of hydrogen are present in G.\nD  G is ionically bonded.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "17",
+      "page": 7,
+      "text": "The table shows the pH values of four substances that can be consumed by humans.\n\n[DIAGRAM – TABLE]\nA 2-column table with 5 rows (header + P, Q, R, S).\nHeader: | substance | pH value |\nRow P: | P | 6.6 |\nRow Q: | Q | 3.1 |\nRow R: | R | 10.4 |\nRow S: | S | 7.8 |\nRecommended rendering tool: SVG table.\n\nWhich statement about these substances is correct?\n\nA  P is alkaline.\nB  Q has the lowest concentration of hydrogen ions.\nC  R can neutralise excess stomach acid.\nD  S has a pH value closest to neutral.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "18",
+      "page": 7,
+      "text": "The addition of calcium hydroxide to soil reduces its acidity but also reduces the efficiency of fertilisers.\n\nWhich two equations explain this?\n\n1  Ca(OH)₂(s) + CO₂(g) → CaCO₃(s) + H₂O(l)\n2  Ca(OH)₂(s) + 2H⁺(aq) → Ca²⁺(aq) + 2H₂O(l)\n3  Ca(OH)₂(s) + 2NH₄NO₃(aq) → Ca(NO₃)₂(aq) + 2NH₃(g) + 2H₂O(l)\n4  Ca(OH)₂(s) + Cu²⁺(aq) → Cu(OH)₂(s) + Ca²⁺(aq)\n\nA  1 and 2 only\nB  1 and 4 only\nC  2 and 3 only\nD  3 and 4 only",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "19",
+      "page": 7,
+      "text": "A pure sample of a salt is obtained by filtration followed by evaporation of the filtrate.\n\nWhich pair of reagents would produce the salt?\n\nA  aqueous silver nitrate and hydrochloric acid\nB  aqueous sodium hydroxide and hydrochloric acid\nC  excess copper(II) oxide and hydrochloric acid\nD  platinum and hydrochloric acid",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "20",
+      "page": 7,
+      "text": "A solution of sodium carbonate is added to tap water. A white precipitate forms.\n\nWhich ion present in the tap water causes the precipitate to form?\n\nA  chloride\nB  magnesium\nC  potassium\nD  sulfate",
+      "has_diagram": false,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "minor"
+    },
+    {
+      "q_nr": "21",
+      "page": 8,
+      "text": "Aqueous sodium hydroxide is used to identify the ions present in aqueous solutions of compounds Q and R.\n\nThe results are shown.\n\n[DIAGRAM – APPARATUS SKETCHES AND TABLE]\nTwo sequences of test tube sketches.\nLeft sequence (compound Q): a coloured solution in a test tube, then after addition of a few drops of NaOH a green precipitate forms.\nRight sequence (compound R): a colourless solution in a test tube, then after addition of aqueous sodium hydroxide and heating, a gas is given off.\nBelow: a 3-column table with 5 rows (header + A–D).\nHeader: | | ion in compound Q | ion in compound R |\nRow A: | Fe²⁺ | NH₄⁺ |\nRow B: | Fe²⁺ | NO₃⁻ |\nRow C: | Fe³⁺ | NH₄⁺ |\nRow D: | Fe³⁺ | NO₃⁻ |\nRecommended rendering tool: SVG for test tubes, SVG table for data.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_2_Vatten_och_pH",
+      "stella_subchapter": "2.3_Syror_och_baser",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "22",
+      "page": 8,
+      "text": "Which reagent and observation describes the test for an oxidising agent?\n\n[DIAGRAM – TABLE]\nA 3-column table with 5 rows (header + A–D).\nHeader: | | reagent | colour change |\nRow A: | acidified aqueous potassium manganate(VII) | colourless to purple |\nRow B: | acidified aqueous potassium manganate(VII) | purple to colourless |\nRow C: | aqueous potassium iodide | brown to colourless |\nRow D: | aqueous potassium iodide | colourless to brown |\nRecommended rendering tool: SVG table.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "23",
+      "page": 8,
+      "text": "Aqueous copper(II) sulfate is electrolysed with copper electrodes.\n\nWhat is the equation for the reaction occurring at the anode?\n\nA  Cu → Cu²⁺ + 2e⁻\nB  Cu²⁺ + 2e⁻ → Cu\nC  4OH⁻ → O₂ + 2H₂O + 4e⁻\nD  2SO₄²⁻ + 2H₂O → 2H₂SO₄ + O₂ + 4e⁻",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.6_Elektrokemi",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "24",
+      "page": 9,
+      "text": "Students proposed four cells to produce electricity in a school laboratory.\n\nWhich cell would produce the largest voltage in a safe way?\n\n[DIAGRAM – FOUR SIMPLE CELL DIAGRAMS]\nFour electrochemical cell diagrams labelled A, B, C and D, each with a voltmeter (V) at the top.\nCell A: copper (left) and zinc (right) electrodes in CuSO₄(aq).\nCell B: copper (left) and zinc (right) electrodes in ZnSO₄(aq).\nCell C: sodium (left) and copper (right) electrodes in CuSO₄(aq).\nCell D: magnesium (left) and copper (right) electrodes in MgSO₄(aq).\nRecommended rendering tool: SVG.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "25",
+      "page": 9,
+      "text": "Many properties of an element and its compounds can be predicted from the position of the element in the Periodic Table.\n\nWhat property could not be predicted in this way?\n\nA  its metallic or non-metallic properties\nB  the acidic or basic nature of its oxide\nC  the formula of its oxide\nD  the number of isotopes it has",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "26",
+      "page": 10,
+      "text": "Iodine, I, has a lower relative atomic mass than tellurium, Te, but is placed after it in the Periodic Table.\n\n[DIAGRAM – PERIODIC TABLE FRAGMENT]\nA simplified outline of the Periodic Table. Tellurium (Te) and Iodine (I) are shown in their correct positions in period 5, with Te to the left of I. One empty box above them is highlighted, suggesting the noble gas position in period 4.\nRecommended rendering tool: SVG.\n\nWhich statement explains why iodine is placed after tellurium in the Periodic Table?\n\nA  Iodine has fewer neutrons than tellurium.\nB  Iodine has fewer protons than tellurium.\nC  Iodine has more neutrons than tellurium.\nD  Iodine has more protons than tellurium.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "27",
+      "page": 10,
+      "text": "Elements in Group 1 of the Periodic Table react with water.\n\nWhich row describes the products made in the reaction and the trend in reactivity of the elements?\n\n[DIAGRAM – TABLE]\nA 3-column table with 5 rows (header + A–D).\nHeader: | | products | trend in reactivity |\nRow A: | metal hydroxide and hydrogen | less reactive down the group |\nRow B: | metal hydroxide and hydrogen | more reactive down the group |\nRow C: | metal oxide and hydrogen | less reactive down the group |\nRow D: | metal oxide and hydrogen | more reactive down the group |\nRecommended rendering tool: SVG table.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "28",
+      "page": 10,
+      "text": "Which statement about the Group 17 halogens is correct?\n\nA  Bromine consists of Br₂ molecules at room temperature and pressure.\nB  Iodine will displace bromine from aqueous potassium bromide.\nC  The halogens become darker in colour as the relative molecular mass decreases.\nD  The halogens become more volatile as the relative molecular mass increases.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "29",
+      "page": 11,
+      "text": "Part of the Periodic Table is shown.\n\n[DIAGRAM – PERIODIC TABLE FRAGMENT]\nA simplified Periodic Table outline showing positions labelled A, B, C, and D.\nA is in the top-centre area (second period, group 14–15 region).\nB is in the transition metal block (period 4).\nC is in period 4, group 17.\nD is in period 4, group 18 (noble gases).\nRecommended rendering tool: SVG.\n\nWhich substance is an unreactive gas found in the atmosphere?",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.1_Periodiska_systemet_och_grundamnen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "30",
+      "page": 11,
+      "text": "Which statement about corrosion of metals is correct?\n\nA  A barrier method is needed to prevent the corrosion of stainless steel.\nB  Iron corrodes to produce hydrated iron(I) oxide.\nC  Sacrificial protection uses a less reactive metal attached to the metal object that is being protected.\nD  When corrosion occurs, the metal loses electrons to become positive ions.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "31",
+      "page": 11,
+      "text": "Some metals and the compounds in their ores are shown.\n\n[DIAGRAM – TABLE]\nA 2-row table (header + data).\nHeader: | metal | Al | Ca | Pb | Na | Fe | Mg |\nData: | compound in ore | Al₂O₃ | CaCO₃ | PbS | NaCl | Fe₂O₃ | MgCO₃ |\nRecommended rendering tool: SVG table.\n\nWhich type of reaction occurs in the extraction of each metal from its ore?\n\nA  electrolysis\nB  precipitation\nC  reduction\nD  thermal decomposition",
+      "has_diagram": true,
+      "stella_chapter": "Kap_5_Periodiska_systemet",
+      "stella_subchapter": "5.3_Metallers_reaktivitet",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "32",
+      "page": 12,
+      "text": "Two reactions are done.\n\nReaction 1: Hydrated cobalt(II) chloride is heated. It changes colour.\nReaction 2: Water is added to the product of reaction 1. It becomes hotter. The original colour is produced.\n\nWhich types of reaction have occurred in reactions 1 and 2?\n\n[DIAGRAM – TABLE]\nA 5-column table with 5 rows (header + A–D). Key: ✓ = yes; ✗ = no.\nHeader: | | endothermic | exothermic | neutralisation | reversible |\nRow A: | ✓ | ✓ | ✓ | ✓ |\nRow B: | ✓ | ✓ | ✓ | ✗ |\nRow C: | ✓ | ✓ | ✗ | ✓ |\nRow D: | ✓ | ✗ | ✗ | ✓ |\nRecommended rendering tool: SVG table.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "33",
+      "page": 12,
+      "text": "Under certain conditions, nitrogen reacts with oxygen to form N₂O.\n\n2N₂(g) + O₂(g) ⇌ 2N₂O(g)\n\nThe reaction pathway diagram is shown.\n\n[DIAGRAM – ENERGY PROFILE GRAPH]\nAn energy profile graph with y-axis 'energy' and x-axis 'progress of reaction'.\nReactants (2N₂(g) + O₂(g)) are at the lowest energy level (dashed baseline).\nThe curve rises to a peak; from the reactant level to the peak is labelled +447 kJ/mol.\nProducts (2N₂O(g)) are at a level above the reactants; the gap from the reactant level to the product level is labelled +164 kJ/mol.\nRecommended rendering tool: matplotlib.\n\nWhat is the activation energy of the reverse reaction?\n\nA  −447 kJ/mol\nB  −283 kJ/mol\nC  +141.5 kJ/mol\nD  +283 kJ/mol",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "34",
+      "page": 13,
+      "text": "A student plans to investigate how the rate of the reaction changes when hydrochloric acid and magnesium react.\n\nMg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g)\n\nThree methods are described.\n\n[DIAGRAM – THREE APPARATUS SKETCHES]\nThree numbered apparatus sketches.\nSketch 1: A conical flask on a balance containing Mg pieces and HCl, sealed with cotton wool. Caption: 'Record the mass of the flask and contents every 30 seconds for 5 minutes.'\nSketch 2: A conical flask connected to a gas syringe, containing Mg and HCl. Caption: 'Measure and record the volume of gas in the syringe after 30 seconds.'\nSketch 3: A conical flask containing Mg and HCl, inverted over a water trough. Caption: 'Count and record the total number of bubbles of gas in the water every 30 seconds for 5 minutes.'\nRecommended rendering tool: SVG.\n\nWhich methods could be used to measure how the rate of reaction changes?\n\nA  1 and 2 only\nB  1 and 3 only\nC  2 and 3 only\nD  1, 2 and 3",
+      "has_diagram": true,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "35",
+      "page": 13,
+      "text": "In which reaction is the pressure least likely to affect the rate of reaction?\n\nA  C(s) + CO₂(g) → 2CO(g)\nB  N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\nC  NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)\nD  2SO₂(g) + O₂(g) → 2SO₃(g)",
+      "has_diagram": false,
+      "stella_chapter": "Kap_1_Kemins_grunder",
+      "stella_subchapter": "1.6_Kemiska_reaktioner",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "36",
+      "page": 13,
+      "text": "Hydrogen is used as a reactant both in the Haber process and in its addition to alkenes.\n\nWhich row is correct?\n\n[DIAGRAM – TABLE]\nA 3-column table with 5 rows (header + A–D).\nHeader: | | catalyst in the Haber process | product of addition of hydrogen to an alkene |\nRow A: | iron | alcohol |\nRow B: | iron | alkane |\nRow C: | nickel | alcohol |\nRow D: | nickel | alkane |\nRecommended rendering tool: SVG table.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.1_Kolforeningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "37",
+      "page": 14,
+      "text": "In the fractional distillation of petroleum, different fractions are obtained at the top and bottom of the fractionating column.\n\nWhich properties does the fraction obtained at the top of the fractionating column have, compared with the fraction obtained at the bottom?\n\n1  higher viscosity\n2  lower boiling point\n3  lower volatility\n4  shorter chain length\n\nA  1 and 2 only\nB  1 and 3 only\nC  2 and 4 only\nD  3 and 4 only",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "38",
+      "page": 14,
+      "text": "Which statement about organic compounds is correct?\n\nA  Each molecule of propan-1-ol has one –OH group and each molecule of propan-2-ol has two –OH groups.\nB  Octane and decane are in a homologous series with the general formula CₙH₂ₙ.\nC  The ester butyl butanoate has eight carbon atoms in each molecule.\nD  The structure of the functional group in a carboxylic acid is –C–O–O–H.",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.1_Kolforeningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "39",
+      "page": 14,
+      "text": "A chlorine atom can replace a hydrogen atom in a molecule of butane, CH₃CH₂CH₂CH₃, to form chlorobutane.\n\nHow many different structural isomers of chlorobutane can be formed?\n\nA  1\nB  2\nC  3\nD  4",
+      "has_diagram": false,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.1_Kolforeningar",
+      "stella_solvable": true,
+      "modification": "none"
+    },
+    {
+      "q_nr": "40",
+      "page": 14,
+      "text": "Different strategies to reduce the effects of environmental issues have been suggested.\n\nWhich row is correct?\n\n[DIAGRAM – TABLE]\nA 3-column table with 5 rows (header + A–D).\nHeader: | | strategy to reduce the effects of climate change | strategy to reduce the effects of acid rain |\nRow A: | reduction in livestock farming | planting trees |\nRow B: | reduction in livestock farming | using low-sulfur fuels |\nRow C: | reduction in use of renewable energy | planting trees |\nRow D: | reduction in use of renewable energy | using low-sulfur fuels |\nRecommended rendering tool: SVG table.",
+      "has_diagram": true,
+      "stella_chapter": "Kap_3_Kolets_kemi",
+      "stella_subchapter": "3.3_Forbrannung_och_fossila_branslen",
+      "stella_solvable": true,
+      "modification": "none"
+    }
+  ]
+}
