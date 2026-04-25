@@ -1,0 +1,19 @@
+{
+  "source_markdown": "kemi/att_rendera/Kap_1_Kemins_grunder/1.1_Undersokningar_och_laborativt_arbete/2026-04-25_reaktionshastighet_marmor_saltsyra_apparatur_renderas.md",
+  "output": "kemi/att_ladda_upp/manuell_kvalitet_2026-04-25/003_marmorchips_hcl_lampliga_apparater.png",
+  "method": "photorealistic imagegen base + deterministic PIL numbering/text/options overlay",
+  "qa": {
+    "no_ai_generated_text_in_base": true,
+    "deterministic_text": true,
+    "no_answer_marked": true,
+    "visual_setups_count": 4,
+    "full_base_not_cropped": true,
+    "dimensions": [
+      2200,
+      1400
+    ],
+    "manual_visual_review_passed": true,
+    "right_column_text_not_clipped": true,
+    "badge_numbers_not_clipped": true
+  }
+}
