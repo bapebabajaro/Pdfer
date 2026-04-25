@@ -1,0 +1,288 @@
+{
+  "id": "k2.3-ph-001",
+  "student_file": "uppgift.md",
+  "source_key": "stella_kemi_OCR.txt::Kap_2_Vatten_och_pH::2.3_Syror_och_baser::s75::k2.3-ph-001",
+  "stella_chapter": "Kap_2_Vatten_och_pH",
+  "stella_subchapter": "2.3_Syror_och_baser",
+  "claimed_stella_pages": "s. 75",
+  "page_records": [
+    {
+      "source_file": "kemi/stella_kemi_OCR.txt",
+      "printed_page": 75,
+      "page_key": "stella_kemi_OCR.txt::s.75",
+      "extraction_mode": "ocr",
+      "verification_status": "pass",
+      "chemistry_sensitive_warnings": []
+    }
+  ],
+  "ocr_verification": {
+    "ocr_file": "kemi/stella_kemi_OCR.txt",
+    "verified_pages": [75],
+    "topic_mentions": [
+      {
+        "concept_id": "ph_neutral_7",
+        "stella_term_sv": "pH-vardet 7",
+        "pages_found": [75],
+        "evidence_refs": [
+          {
+            "page_key": "stella_kemi_OCR.txt::s.75",
+            "printed_page": 75,
+            "locator_type": "text_span",
+            "locator": "lines 3531-3536",
+            "normalized_excerpt": "Ett neutralt amne har pH-vardet 7.",
+            "confidence": "high"
+          }
+        ],
+        "evidence_type": "direct_term",
+        "sufficient_for_question": true
+      },
+      {
+        "concept_id": "ph_acid_below_7",
+        "stella_term_sv": "lagre pH-varde an 7",
+        "pages_found": [75],
+        "evidence_refs": [
+          {
+            "page_key": "stella_kemi_OCR.txt::s.75",
+            "printed_page": 75,
+            "locator_type": "text_span",
+            "locator": "lines 3535-3539",
+            "normalized_excerpt": "Ett surt amne ... har lagre pH-varde an 7. Ju lagre pH-vardet ar desto surare ar amnet.",
+            "confidence": "high"
+          }
+        ],
+        "evidence_type": "direct_term",
+        "sufficient_for_question": true
+      },
+      {
+        "concept_id": "ph_base_above_7",
+        "stella_term_sv": "hogre pH-varde an 7",
+        "pages_found": [75],
+        "evidence_refs": [
+          {
+            "page_key": "stella_kemi_OCR.txt::s.75",
+            "printed_page": 75,
+            "locator_type": "text_span",
+            "locator": "lines 3537-3543",
+            "normalized_excerpt": "Ett basiskt amne ... har ett hogre pH-varde an 7. Ju hogre pH-varde ett amne har desto mer basiskt ar det.",
+            "confidence": "high"
+          }
+        ],
+        "evidence_type": "direct_term",
+        "sufficient_for_question": true
+      }
+    ],
+    "missing_terms": [],
+    "verification_result": "pass"
+  },
+  "claim_table": [
+    {
+      "claim_id": "claim_stem_four_ph_values",
+      "target_path": "question.table",
+      "claim_type": "stem_claim",
+      "assessable": false,
+      "required_knowledge_links": [],
+      "evidence_refs": [],
+      "source_status": "general_reasoning",
+      "gate_status": "pass"
+    },
+    {
+      "claim_id": "claim_correct_order",
+      "target_path": "options.A",
+      "claim_type": "correct_answer_claim",
+      "assessable": true,
+      "required_knowledge_links": [
+        "kl_ph_acid_below_7",
+        "kl_ph_neutral_7",
+        "kl_ph_base_above_7",
+        "kl_ph_monotonic_order"
+      ],
+      "evidence_refs": [
+        {
+          "page_key": "stella_kemi_OCR.txt::s.75",
+          "printed_page": 75,
+          "locator_type": "text_span",
+          "locator": "lines 3535-3543",
+          "confidence": "high"
+        }
+      ],
+      "source_status": "same_subchapter",
+      "gate_status": "pass"
+    }
+  ],
+  "knowledge_link_map": [
+    {
+      "link_id": "kl_ph_acid_below_7",
+      "hidden_reasoning_step": "Classify pH 3 and pH 6 as acidic because both are below 7.",
+      "required_concept": "Acidic solutions have pH below 7.",
+      "source_status": "same_subchapter",
+      "stella_pages": [75],
+      "evidence_refs": [
+        {
+          "page_key": "stella_kemi_OCR.txt::s.75",
+          "printed_page": 75,
+          "locator_type": "text_span",
+          "locator": "lines 3535-3539",
+          "confidence": "high"
+        }
+      ],
+      "must_not_be_revealed_in_text": true
+    },
+    {
+      "link_id": "kl_ph_neutral_7",
+      "hidden_reasoning_step": "Place pH 7 between acidic and basic values as neutral.",
+      "required_concept": "Neutral substance has pH 7.",
+      "source_status": "same_subchapter",
+      "stella_pages": [75],
+      "evidence_refs": [
+        {
+          "page_key": "stella_kemi_OCR.txt::s.75",
+          "printed_page": 75,
+          "locator_type": "text_span",
+          "locator": "lines 3531-3536",
+          "confidence": "high"
+        }
+      ],
+      "must_not_be_revealed_in_text": true
+    },
+    {
+      "link_id": "kl_ph_base_above_7",
+      "hidden_reasoning_step": "Classify pH 11 as basic because it is above 7.",
+      "required_concept": "Basic solutions have pH above 7.",
+      "source_status": "same_subchapter",
+      "stella_pages": [75],
+      "evidence_refs": [
+        {
+          "page_key": "stella_kemi_OCR.txt::s.75",
+          "printed_page": 75,
+          "locator_type": "text_span",
+          "locator": "lines 3537-3543",
+          "confidence": "high"
+        }
+      ],
+      "must_not_be_revealed_in_text": true
+    },
+    {
+      "link_id": "kl_ph_monotonic_order",
+      "hidden_reasoning_step": "Order values from lower pH to higher pH to move from more acidic to more basic.",
+      "required_concept": "Lower pH is more acidic; higher pH is more basic.",
+      "source_status": "same_subchapter",
+      "stella_pages": [75],
+      "evidence_refs": [
+        {
+          "page_key": "stella_kemi_OCR.txt::s.75",
+          "printed_page": 75,
+          "locator_type": "text_span",
+          "locator": "lines 3539-3543",
+          "confidence": "high"
+        }
+      ],
+      "must_not_be_revealed_in_text": true
+    }
+  ],
+  "distractor_rationales": [
+    {
+      "option_key": "B",
+      "misconception": "Student reverses the pH scale and treats higher pH as more acidic.",
+      "why_plausible": "It preserves a clean numerical order but uses the wrong direction for acidity.",
+      "why_wrong": "Stella states that lower pH is more acidic and higher pH is more basic.",
+      "evidence_refs": [
+        {
+          "page_key": "stella_kemi_OCR.txt::s.75",
+          "printed_page": 75,
+          "locator_type": "text_span",
+          "locator": "lines 3539-3543",
+          "confidence": "high"
+        }
+      ],
+      "remediation_target": {
+        "stella_subchapter": "2.3_Syror_och_baser",
+        "pages": [75],
+        "concept": "pH scale direction"
+      }
+    },
+    {
+      "option_key": "C",
+      "misconception": "Student treats pH 7 as the acidic starting point instead of neutral.",
+      "why_plausible": "It uses 7 as a boundary but places it in the wrong role.",
+      "why_wrong": "Stella states that neutral has pH 7, while acidic values are below 7.",
+      "evidence_refs": [
+        {
+          "page_key": "stella_kemi_OCR.txt::s.75",
+          "printed_page": 75,
+          "locator_type": "text_span",
+          "locator": "lines 3531-3539",
+          "confidence": "high"
+        }
+      ],
+      "remediation_target": {
+        "stella_subchapter": "2.3_Syror_och_baser",
+        "pages": [75],
+        "concept": "neutral pH"
+      }
+    },
+    {
+      "option_key": "D",
+      "misconception": "Student separates acidic and neutral values but leaves the strongest acid last.",
+      "why_plausible": "It partly follows the acidic-neutral-basic categories.",
+      "why_wrong": "Within acidic values, lower pH is more acidic, so pH 3 must come before pH 6.",
+      "evidence_refs": [
+        {
+          "page_key": "stella_kemi_OCR.txt::s.75",
+          "printed_page": 75,
+          "locator_type": "text_span",
+          "locator": "lines 3539-3541",
+          "confidence": "high"
+        }
+      ],
+      "remediation_target": {
+        "stella_subchapter": "2.3_Syror_och_baser",
+        "pages": [75],
+        "concept": "lower pH means more acidic"
+      }
+    }
+  ],
+  "remediation_map": [
+    {
+      "failure_mode": "wrong pH-scale direction or neutral boundary",
+      "send_student_to": {
+        "stella_subchapter": "2.3_Syror_och_baser",
+        "pages": [75],
+        "concept": "pH-value, acidic, neutral and basic"
+      }
+    }
+  ],
+  "shortcut_check": {
+    "solvable_from_text_alone": false,
+    "solvable_from_single_fact": false,
+    "answer_length_leak": false,
+    "grammar_parallel": true,
+    "result": "pass"
+  },
+  "fatal_gates": [
+    {
+      "code": "DS_SOURCE_REF_UNVERIFIED",
+      "target_path": "stella",
+      "result": "pass"
+    },
+    {
+      "code": "DS_CLAIM_UNGROUNDED",
+      "target_path": "claim_table",
+      "result": "pass"
+    },
+    {
+      "code": "DS_DISTRACTOR_UNRATIONALED",
+      "target_path": "distractor_rationales",
+      "result": "pass"
+    },
+    {
+      "code": "DS_NOT_UNIQUE",
+      "target_path": "options",
+      "result": "pass"
+    }
+  ],
+  "render_qa": {
+    "required": false,
+    "status": "not_applicable",
+    "note": "No diagram or rendered asset."
+  }
+}
