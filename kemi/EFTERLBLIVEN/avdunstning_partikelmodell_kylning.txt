@@ -1,0 +1,74 @@
+UPPGIFT: avdunstning_partikelmodell_kylning
+Källa: 2018_Stage9_Paper1 :: fråga 9
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.1 Vattens egenskaper
+Sidreferenser: s. 60–67 (aggregationstillstånd, partikelmodell,
+               avdunstning, kinetisk energi, kyleffekt)
+Typ: Öppen fråga (delfrågor a–c)
+Poäng: 4
+Stella solvable: true
+Modifiering: minor (namn ändrat)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Kalle ritar ett diagram för att visa avdunstning.
+
+[DIAGRAM – PARTIKELMODELL]
+SVG-skiss, 400×300px. Svart linjeskiss på vit bakgrund.
+
+Innehåll:
+  • En rektangel (behållare med vätska) i nedre halvan.
+  • Inuti rektangeln: tätt packade cirklar (partiklar i vätska),
+    etiketten "vätska" till vänster.
+  • Ovanför rektangeln: glest spridda cirklar med uppåtriktade
+    pilar, etiketten "vattenånga" till höger.
+  • En horisontell streckad linje markerar vätskeytan.
+  • Liten cirkel nära ytan märkt "liten cirkel" (liten partikel,
+    representerar en enskild avdunstande molekyl).
+[SLUT DIAGRAM]
+
+(a) Vad representerar de små cirklarna?
+    ......................................................................................................................................[1]
+
+(b) Vad representerar pilarna?
+    ......................................................................................................................................[1]
+
+(c) Förklara hur avdunstning gör att vätskan kyls ner.
+    ..........................................................................................................................................
+    ..........................................................................................................................................
+    ......................................................................................................................................[2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-partikelmodell (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "avdunstning": vätska övergår till gas vid ytan (s. 60–67)
+- "partiklar": atomer/molekyler i vätskan (s. 60–67)
+- "kinetisk energi": rörelsens energi; snabbaste partiklarna
+  lämnar ytan (s. 60–67)
+- "vattenånga": gasformigt vatten (s. 60–67)
+- "vätska kyls": de partiklar med lägst kinetisk energi blir kvar
+  → lägre medeltemperatur (s. 60–67)
+
+Rätt svar:
+  (a) Partiklar (atomer/molekyler i vätskan)
+  (b) Pilarna visar att partiklar lämnar ytan och övergår till gas
+  (c) De partiklar med störst kinetisk energi avdunstar. Kvar i
+      vätskan finns partiklar med lägre kinetisk energi → lägre
+      medeltemperatur → vätskan kyls av.
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Carlos" → "Kalle" (neutralt svenskt namn)
+- "evaporation" → "avdunstning"
+- "small circles represent" → "vad representerar de små cirklarna"
+- "arrows represent" → "vad representerar pilarna"
+- "explain how evaporation causes the liquid to cool down" →
+  "förklara hur avdunstning gör att vätskan kyls ner"

@@ -1,0 +1,67 @@
+UPPGIFT: partiklar_fast_amne_vibrationer
+Källa: 2011_Stage7_Paper1 :: fråga 9
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.1 Vattens egenskaper (aggregationstillstånd)
+Sidreferenser: s. 60–67 (partikelmodell, fast ämne, vibration,
+               avstånd, energi)
+Typ: Kryssfråga (tick tre korrekta påståenden)
+Poäng: 2
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Vilka påståenden om partiklar i ett fast ämne stämmer?
+
+Kryssa i de TRE korrekta påståendena.
+
+Partiklarna i ett fast ämne:
+
+[ ] har större avstånd till varandra än partiklarna i en vätska.
+
+[ ] har större avstånd till varandra än partiklarna i en gas.
+
+[ ] kan vibrera kring en fast punkt.
+
+[ ] är ordnade i ett fastare mönster än partiklarna i en vätska.
+
+[ ] kan inte vibrera när de når 0 °C.
+
+[ ] kan vibrera mer när de tar upp energi.                         [2]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+Inga diagram.
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "partiklar" (s. 60–67)
+- "fast ämne": partiklar tätt packade i ordnat mönster (s. 60–67)
+- "vibrera kring en fast punkt": fast ämnes rörelseform (s. 60–67)
+- "fast mönster": ordnad struktur i fast ämne (s. 60–67)
+- "energi / kinetisk energi": styr vibrationerna (s. 60–67)
+
+Rätt svar (de tre korrekta):
+  ✓ kan vibrera kring en fast punkt
+  ✓ är ordnade i ett fastare mönster än partiklarna i en vätska
+  ✓ kan vibrera mer när de tar upp energi
+
+Felaktiga:
+  ✗ "större avstånd än i vätska" — partiklar i fast ämne
+    är TÄTARE packade än i vätska
+  ✗ "större avstånd än i gas" — fel; gas har störst avstånd
+  ✗ "kan inte vibrera vid 0°C" — fel; de vibrerar även vid 0°C
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "further apart than particles in a liquid/gas" →
+  "har större avstånd till varandra än partiklarna i en vätska/gas"
+- "vibrate about a fixed point" → "vibrera kring en fast punkt"
+- "fixed pattern" → "fastare mönster"
+- "not able to vibrate when they reach 0°C" →
+  "kan inte vibrera när de når 0 °C"

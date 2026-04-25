@@ -1,0 +1,100 @@
+UPPGIFT: avdunstning_kylning_kinetisk_energi_partikel
+Källa: 2011_Stage9_Paper2 :: fråga 7
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.1 Vattens egenskaper (partikelmodell)
+Sidreferenser: s. 60–67 (avdunstning, kinetisk energi,
+               partikelrörelse, kyleffekt)
+Typ: Öppen fråga med partikelmodell (delfrågor a–b)
+Poäng: 6
+Stella solvable: true
+Modifiering: minor (namn ändrat)
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Tobias lämnar ett bägarglas med varmt vatten i laboratoriet
+i 20 minuter.
+
+Han observerar att vattnets temperatur har minskat.
+
+(a) Hur mäter han denna temperaturändring?
+    .......................................................................................[1]
+
+(b) (i) Några av partiklarna i det varma vattnet har lämnat
+        vattenytans yta.
+
+        Vad kallas denna process?
+        .......................................................................................[1]
+
+    (ii) Diagrammet visar partiklarna i och ovanför bägarglasset
+         med varmt vatten.
+
+[DIAGRAM – PARTIKELMODELL (avdunstning)]
+SVG-skiss, 400×350px.
+
+Innehåll:
+  • Bägarglas (transparent rektangel) i nedre halvan med
+    tätt packade cirklar (partiklar i vätska),
+    etikett "partiklar i varmt vatten"
+  • Ovanför bägarglasset: glest spridda cirklar med uppåtpilar,
+    etikett "partiklar i vattenånga"
+  • Horisontell streckad linje (vätskeytan)
+[SLUT DIAGRAM]
+
+        Vilka av dessa påståenden förklarar varför det varma
+        vattnet kyls av?
+
+        Kryssa i TRE rutor.
+
+        [ ] Partiklarna i varmt vatten tar upp kinetisk energi.
+
+        [ ] Partiklarna i varmt vatten med störst kinetisk energi
+            lämnar ytan.
+
+        [ ] Partiklarna i varmt vatten med minst kinetisk energi
+            lämnar ytan.
+
+        [ ] Partiklarna med lägst kinetisk energi blir kvar
+            i vattnet.
+
+        [ ] Partiklarna med högst kinetisk energi blir kvar
+            i vattnet.
+
+        [ ] Ju lägre kinetisk energi partiklarna har, desto
+            kallare är vattnet.                                [3]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-partikelmodell (se DIAGRAM-block). Filnamn: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "avdunstning": partiklar lämnar vätskeytan (s. 60–67)
+- "kinetisk energi": rörelsens energi hos partiklar (s. 60–67)
+- "kyleffekt": de snabbaste (mest kinetiska) partiklarna
+  avdunstar → lägre medelenergikvar → lägre temp (s. 60–67)
+
+Rätt svar (tre korrekta):
+  ✓ Partiklarna i varmt vatten med störst kinetisk energi
+    lämnar ytan.
+  ✓ Partiklarna med lägst kinetisk energi blir kvar i vattnet.
+  ✓ Ju lägre kinetisk energi partiklarna har, desto kallare
+    är vattnet.
+
+Felaktiga:
+  ✗ "tar upp kinetisk energi" — de frigör energi vid avdunstning
+  ✗ "minst kinetisk energi lämnar ytan" — fel, det är de snabbaste
+  ✗ "högst kinetisk energi blir kvar" — fel, de lämnar ytan
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "Franco" → "Tobias" (neutralt namn)
+- "warm water" → "varmt vatten"
+- "particles in warm water" → "partiklar i varmt vatten"
+- "kinetic energy" → "kinetisk energi"
+- "escaped from the surface" → "lämnat vattenytans yta"
+- "evaporation" → "avdunstning"

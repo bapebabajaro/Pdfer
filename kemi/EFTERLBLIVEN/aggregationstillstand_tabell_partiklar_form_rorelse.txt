@@ -1,0 +1,78 @@
+UPPGIFT: aggregationstillstand_tabell_partiklar_form_rorelse
+Källa: 2018_Stage7_Paper1 :: fråga 8
+Stella Kemi kapitel: Kap 2 — Vatten och pH
+Stella Kemi delkapitel: 2.1 Vattens egenskaper
+Sidreferenser: s. 60–67 (aggregationstillstånd, partikelmodell,
+               avstånd och rörelser hos partiklar)
+Typ: Tabellfyllnad (öppen fråga)
+Poäng: 5
+Stella solvable: true
+Modifiering: none
+
+═══════════════════════════════════════════════════════════════════
+FRÅGETEXT
+═══════════════════════════════════════════════════════════════════
+
+Tabellen visar egenskaper hos fasta ämnen, flytande ämnen och gaser.
+
+Fyll i tabellen.
+
+[DIAGRAM – TABELL]
+Tabell med 5 kolumner och 4 rader (inkl. rubrikrad).
+Kolumnrubriker (rad 1):
+  aggregationstillstånd | avstånd mellan partiklarna |
+  partiklarnas rörelse | krafter mellan partiklarna | form
+
+Rad 2 – Fast ämne:
+  fast ämne | tätt packade | [TOM: ska fyllas i av eleven] |
+  [TOM] | [TOM] | fast form
+
+Rad 3 – Flytande ämne:
+  flytande ämne | tätt packade | rör sig långsamt i alla riktningar |
+  [TOM] | [TOM] | behållarens form
+
+Rad 4 – Gas:
+  gas | [TOM] | [TOM] | rör sig snabbt i alla riktningar |
+  mycket svaga | [TOM]
+
+Obs: Kolumnerna är 5 stycken. I originalet är det exakt dessa
+celler som är tomma:
+  • Fast ämne: partiklarnas rörelse, krafter, form (utom "fast form")
+    — fast form är GIVEN; rörelsebeskrivning och krafter ska fyllas i
+  • Flytande ämne: krafter, form (form ÄR given som "behållarens form")
+    — krafter ska fyllas i
+  • Gas: avstånd, rörelse (ÄR given som "rör sig snabbt..."),
+    form (ska fyllas i)
+
+Rekommenderat renderingsverktyg: SVG-tabell, ca 720px bred,
+rubrikrad i grått (#cccccc), tunna svarta kantlinjer,
+tomma celler med streckad ram (#aaaaaa), all text på svenska,
+fontstorlek minst 12pt.
+[SLUT DIAGRAM]
+
+═══════════════════════════════════════════════════════════════════
+VISUELLA ELEMENT
+═══════════════════════════════════════════════════════════════════
+SVG-tabell enligt DIAGRAM-blocket ovan.
+Filnamn förslag: diagram_1.svg
+
+═══════════════════════════════════════════════════════════════════
+STELLA KEMI TERMINOLOGI (obligatorisk)
+═══════════════════════════════════════════════════════════════════
+- "aggregationstillstånd": fast ämne, flytande ämne, gas (s. 60–67)
+- "partiklar": generell term för atomer/molekyler (s. 60–67)
+- "tätt packade": partiklarna i fast ämne och vätska sitter nära (s. 60–67)
+- "vibrerar kring en fast punkt": fast ämnes rörelseform (s. 60–67)
+- "starka krafter": fast ämne; "svagare krafter": vätska; "mycket svaga": gas
+- "fast form" (fast ämne), "behållarens form" (vätska),
+  "fyller hela behållaren" (gas)
+
+═══════════════════════════════════════════════════════════════════
+JUSTERINGAR FRÅN ORIGINAL
+═══════════════════════════════════════════════════════════════════
+- "solids, liquids and gases" → fast ämne, flytande ämne, gas
+- "distance between particles" → "avstånd mellan partiklarna"
+- "movement of particles" → "partiklarnas rörelse"
+- "forces between particles" → "krafter mellan partiklarna"
+- Tabellstrukturen bevaras exakt; tomma celler är de som eleven
+  ska fylla i
