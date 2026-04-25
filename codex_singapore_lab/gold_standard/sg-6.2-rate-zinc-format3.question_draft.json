@@ -1,0 +1,27 @@
+{
+  "id": "sg-6.2-rate-zinc-format3",
+  "type": "singapore-single-visual",
+  "stem": "Curve X shows 1.0 g granulated zinc reacting with excess hydrochloric acid at 30 °C. Which change gives curve Y?",
+  "visual_svg_source": "codex_singapore_lab/gold_standard/sg-6.2-rate-zinc-format3.generated_svg.json",
+  "options": [
+    {
+      "id": "A",
+      "label": "1.0 g powdered zinc at 20 °C"
+    },
+    {
+      "id": "B",
+      "label": "1.0 g granulated zinc at 20 °C"
+    },
+    {
+      "id": "C",
+      "label": "0.5 g granulated zinc at 40 °C"
+    },
+    {
+      "id": "D",
+      "label": "0.5 g granulated zinc at 20 °C"
+    }
+  ],
+  "correct": "D",
+  "construction_note_en": "Original tests: interpreting a gas-volume-time graph to distinguish reaction rate from final amount of gas, then mapping both features to experimental changes. Correct: D. Curve Y is slower than X and reaches about half the final gas volume. Halving the zinc mass halves the limiting amount of zinc, so the final hydrogen volume is lower; lowering temperature slows particle collisions, so the rate is lower. Distractor types: A is Type B, partly correct on lower temperature but powdered zinc increases surface area and full mass keeps final volume equal to X. B is Type D, lower temperature slows rate but full zinc mass gives the same final volume as X. C is Type A, half mass gives lower final volume but higher temperature increases rate, the opposite of curve Y. Cognitive dimensions: graph interpretation, limiting reagent reasoning, collision theory, variable isolation, proportional reasoning. Item classification: specific knowledge is collision theory and metal-acid hydrogen production; general ability is reading slope and asymptote from a graph and combining two independent variables."
+}
+
