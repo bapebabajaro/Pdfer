@@ -1,5 +1,5 @@
 {
-  "run_id": "golden-kap2-four-types-2026-04-25",
+  "run_id": "golden-kap2-four-types-2026-04-25-revision-2",
   "scope": "Stella Kemi Kap 2",
   "source_canon": "kemi/stella_kemi_OCR.txt",
   "items": [
@@ -27,6 +27,7 @@
       "ocr_terms_verified": ["utspädd", "koncentrerad", "saltsyra"],
       "render_asset": "assets/syra_utspadd_koncentrerad_visual.png",
       "render_dimensions_px": {"width": 1400, "height": 820},
+      "revision_note": "Options reduced to object choices only; visual carries water-volume and ion-density inference.",
       "status": "pass"
     },
     {
@@ -47,7 +48,11 @@
     {"gate": "CLAIM_TABLE_PRESENT", "status": "pass"},
     {"gate": "DISTRACTOR_RATIONALES_PRESENT", "status": "pass"},
     {"gate": "SHORTCUT_CHECK_PRESENT", "status": "pass"},
-    {"gate": "RENDER_ASSET_DIMENSIONS", "status": "pass"}
+    {"gate": "RENDER_ASSET_DIMENSIONS", "status": "pass"},
+    {"gate": "MINIMAL_TEXT_GATE", "status": "pass"},
+    {"gate": "OPTION_LEAK_GATE", "status": "pass"},
+    {"gate": "VISUAL_INFERENCE_GATE", "status": "pass"},
+    {"gate": "DISTRACTOR_NATURALNESS_GATE", "status": "pass"}
   ],
-  "notes": "Source QA and render QA are separated. Render QA never changes source claims or answer keys."
+  "notes": "Source QA and render QA are separated. Render QA never changes source claims or answer keys. Revision 2 adds explicit cognition gates after identifying that the first single-visual version leaked the intended reasoning in the answer options."
 }

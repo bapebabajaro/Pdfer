@@ -28,11 +28,18 @@
     {"claim_id": "visual_B_more_concentrated", "target_path": "assets/syra_utspadd_koncentrerad_visual.png::right_flask", "assessable": true, "evidence_refs": [{"page_key": "stella_kemi_OCR.txt::s.84", "locator": "lines 4061-4066"}], "gate_status": "pass"}
   ],
   "distractor_rationales": [
-    {"option_key": "A", "misconception": "Confuses more water with higher concentration.", "remediation_target": {"pages": [84], "concept": "utspädd syra"}},
-    {"option_key": "C", "misconception": "Uses visual color lightness instead of particle density.", "remediation_target": {"pages": [84], "concept": "concentration evidence"}},
-    {"option_key": "D", "misconception": "Assumes same acid always has same concentration.", "remediation_target": {"pages": [84], "concept": "same acid, different concentration"}}
+    {"option_key": "A", "misconception": "Treats the larger liquid volume as the concentrated sample instead of using particle density per volume.", "remediation_target": {"pages": [84], "concept": "utspädd syra"}},
+    {"option_key": "C", "misconception": "Sees the same acid identity and misses that concentration can differ.", "remediation_target": {"pages": [84], "concept": "same acid, different concentration"}},
+    {"option_key": "D", "misconception": "Does not use the visible amount of water and ion spacing as evidence.", "remediation_target": {"pages": [84], "concept": "visual evidence for concentration"}}
   ],
-  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false},
+  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false, "option_reasoning_leak": false, "visual_inference_required": true},
+  "cognition_gates": {
+    "minimal_text_gate": "pass",
+    "option_leak_gate": "pass",
+    "visual_sufficiency_gate": "pass",
+    "distractor_naturalness_gate": "pass",
+    "correct_option_explanation_gate": "pass"
+  },
   "render_qa": {"required": true, "asset": "assets/syra_utspadd_koncentrerad_visual.png", "status": "pass"},
   "gold_audit": {"knowledge_links_minimum_5": "pass", "source_qa": "pass", "inference_qa": "pass"}
 }

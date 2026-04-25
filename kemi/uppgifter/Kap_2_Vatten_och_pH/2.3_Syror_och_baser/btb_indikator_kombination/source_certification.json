@@ -33,7 +33,14 @@
     {"option_key": "C", "misconception": "Reverses neutral and basic BTB colours.", "remediation_target": {"pages": [76], "concept": "BTB colour categories"}},
     {"option_key": "D", "misconception": "Accepts the basic/green false item.", "remediation_target": {"pages": [76], "concept": "BTB green means neutral"}}
   ],
-  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false},
+  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false, "option_reasoning_leak": false, "visual_inference_required": true},
+  "cognition_gates": {
+    "minimal_text_gate": "pass",
+    "option_leak_gate": "pass",
+    "visual_sufficiency_gate": "pass",
+    "distractor_naturalness_gate": "pass",
+    "correct_option_explanation_gate": "pass"
+  },
   "render_qa": {"required": true, "asset": "assets/btb_indikator_kombination.png", "status": "pass"},
   "gold_audit": {"knowledge_links_minimum_5": "pass", "source_qa": "pass", "inference_qa": "pass"}
 }

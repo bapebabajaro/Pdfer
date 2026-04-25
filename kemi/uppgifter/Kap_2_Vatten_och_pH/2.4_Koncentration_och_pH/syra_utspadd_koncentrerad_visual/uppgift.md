@@ -13,10 +13,10 @@ niva: 3
 
 Vilken lösning är mest koncentrerad?
 
-- A) Lösning A, eftersom den har mer vatten.
-- B) Lösning B, eftersom jonerna ligger tätare.
-- C) Lösning A, eftersom den har ljusare färg.
-- D) De är lika koncentrerade, eftersom båda är saltsyra.
+- A) Lösning A
+- B) Lösning B
+- C) Båda är lika koncentrerade
+- D) Det går inte att avgöra
 
 **Rätt svar:** B
 

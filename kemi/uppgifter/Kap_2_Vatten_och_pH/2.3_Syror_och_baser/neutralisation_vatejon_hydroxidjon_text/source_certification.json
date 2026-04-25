@@ -32,7 +32,14 @@
     {"option_key": "C", "misconception": "Pairs the two ions from hydrochloric acid instead of acid plus base ions.", "remediation_target": {"pages": [83], "concept": "acid ions vs base ions"}},
     {"option_key": "D", "misconception": "Pairs the two ions from sodium hydroxide instead of acid plus base ions.", "remediation_target": {"pages": [83], "concept": "base ions vs acid ions"}}
   ],
-  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false},
+  "shortcut_check": {"result": "pass", "solvable_from_text_alone": false, "solvable_from_single_fact": false, "answer_length_leak": false, "option_reasoning_leak": false},
+  "cognition_gates": {
+    "minimal_text_gate": "pass",
+    "option_leak_gate": "pass",
+    "visual_sufficiency_gate": "not_applicable",
+    "distractor_naturalness_gate": "pass",
+    "correct_option_explanation_gate": "pass"
+  },
   "gold_audit": {"knowledge_links_minimum_5": "pass", "source_qa": "pass", "inference_qa": "pass", "render_qa": "not_applicable"}
 }
 
