@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+  <defs>
+    <style>
+      .title { font: 700 28px Georgia, 'Times New Roman', serif; fill: #132238; }
+      .subtitle { font: 400 16px Arial, Helvetica, sans-serif; fill: #5b6d7f; }
+      .head { font: 700 19px Arial, Helvetica, sans-serif; fill: #173149; }
+      .cell { font: 400 19px Arial, Helvetica, sans-serif; fill: #243648; }
+    </style>
+  </defs>
+  <rect width="760" height="420" fill="#f6f8fb"/>
+  <rect x="26" y="24" width="708" height="372" rx="24" fill="#ffffff" stroke="#d8e0ea" stroke-width="2"/>
+  <text x="380" y="68" text-anchor="middle" class="title">Diffusionsresultat</text>
+  <text x="380" y="96" text-anchor="middle" class="subtitle">Tid för att bläcket ska diffundera jämnt i vatten.</text>
+
+  <g transform="translate(90 130)">
+    <rect x="0" y="0" width="300" height="56" rx="14" fill="#dfe8f3" stroke="#c1cfdf"/>
+    <rect x="300" y="0" width="280" height="56" rx="14" fill="#e9f1f8" stroke="#c9d8e7"/>
+
+    <g fill="#ffffff" stroke="#d6dee8">
+      <rect x="0" y="56" width="300" height="44"/>
+      <rect x="300" y="56" width="280" height="44"/>
+      <rect x="0" y="100" width="300" height="44"/>
+      <rect x="300" y="100" width="280" height="44"/>
+      <rect x="0" y="144" width="300" height="44"/>
+      <rect x="300" y="144" width="280" height="44"/>
+      <rect x="0" y="188" width="300" height="44"/>
+      <rect x="300" y="188" width="280" height="44"/>
+      <rect x="0" y="232" width="300" height="44"/>
+      <rect x="300" y="232" width="280" height="44"/>
+      <rect x="0" y="276" width="300" height="44"/>
+      <rect x="300" y="276" width="280" height="44"/>
+    </g>
+
+    <text x="150" y="34" text-anchor="middle" class="head">vattentemperatur i °C</text>
+    <text x="440" y="34" text-anchor="middle" class="head">tid för diffusion i minuter</text>
+
+    <g class="cell" text-anchor="middle">
+      <text x="150" y="84">10</text><text x="440" y="84">24</text>
+      <text x="150" y="128">20</text><text x="440" y="128">23</text>
+      <text x="150" y="172">30</text><text x="440" y="172">16</text>
+      <text x="150" y="216">40</text><text x="440" y="216">12</text>
+      <text x="150" y="260">50</text><text x="440" y="260">8</text>
+      <text x="150" y="304">60</text><text x="440" y="304">4</text>
+    </g>
+  </g>
+</svg>
