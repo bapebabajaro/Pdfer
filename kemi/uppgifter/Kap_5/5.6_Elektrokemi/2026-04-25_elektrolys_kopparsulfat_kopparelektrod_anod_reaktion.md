@@ -3,6 +3,7 @@ kapitel: Kap_5
 delkapitel: 5.6_Elektrokemi
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::23
 datum: 2026-04-25
+stella_sidor: s. 236–247
 visuellt: text
 ---
 
