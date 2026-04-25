@@ -3,6 +3,7 @@ kapitel: Kap_5
 delkapitel: 5.2_Bindningar_och_struktur
 källa: Olevel_PureChemistry_2024_SA2_sengkang.pdf::8
 datum: 2026-04-25
+stella_sidor: s. 217, 234
 visuellt: text
 ---
 
