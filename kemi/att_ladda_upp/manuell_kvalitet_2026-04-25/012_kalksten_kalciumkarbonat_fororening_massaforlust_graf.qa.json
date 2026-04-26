@@ -1,0 +1,18 @@
+{
+  "source_markdown": "kemi/att_rendera/Kap_1_Kemins_grunder/1.6_Kemiska_reaktioner/2026-04-25_kalksten_kalciumkarbonat_fororening_massaforlust_graf_renderas.md",
+  "output": "kemi/att_ladda_upp/manuell_kvalitet_2026-04-25/012_kalksten_kalciumkarbonat_fororening_massaforlust_graf.png",
+  "method": "fully deterministic premium educational chart render",
+  "qa": {
+    "no_ai_generated_text": true,
+    "deterministic_text": true,
+    "no_answer_marked": true,
+    "dimensions": [
+      2200,
+      1400
+    ],
+    "encoding_checked": true,
+    "chart_type": "mass loss curves for limestone impurities",
+    "negative_axis_corrected": true,
+    "manual_visual_review_required": true
+  }
+}

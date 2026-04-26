@@ -1,0 +1,19 @@
+{
+  "source_markdown": "kemi/att_rendera/Kap_1_Kemins_grunder/1.6_Kemiska_reaktioner/2026-04-25_haber_processen_utbyte_tryck_temperatur_renderas.md",
+  "output": "kemi/att_ladda_upp/manuell_kvalitet_2026-04-25/011_haber_processen_utbyte_tryck_temperatur.png",
+  "method": "fully deterministic premium educational chart render",
+  "qa": {
+    "no_ai_generated_text": true,
+    "deterministic_text": true,
+    "no_answer_marked": true,
+    "dimensions": [
+      2200,
+      1400
+    ],
+    "encoding_checked": true,
+    "chart_type": "Haber equilibrium yield versus pressure and temperature",
+    "reversible_arrow_ascii_safe": true,
+    "options_not_clipped": true,
+    "manual_visual_review_required": true
+  }
+}
